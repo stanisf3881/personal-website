@@ -334,7 +334,7 @@ footer { font: 400 0.75rem/1.5 var(--mono); color: var(--ink-soft); }
       <div class="vizzes" id="vizzes" hidden></div>
       <a class="viz-link" href="https://public.tableau.com/app/profile/franklyn.stanislaus/vizzes" target="_blank" rel="noopener">
         <span class="eyebrow">Live portfolio</span>
-        <strong>Explore my interactive dashboards on Tableau Public ↗</strong>
+        <strong>See all my dashboards on Tableau Public ↗</strong>
         <span class="sub">Click through, filter and explore the data behind my published Tableau work.</span>
       </a>
     </section>
@@ -423,8 +423,16 @@ footer { font: 400 0.75rem/1.5 var(--mono); color: var(--ink-soft); }
 <script>
 /* Tableau Public dashboards shown in the Skills & Projects section.
    Add one entry per dashboard: the "views" URL from Tableau Public's Share button,
-   e.g. { title: "Sales Dashboard", url: "https://public.tableau.com/views/Workbook/Sheet", note: "What it shows" } */
-var TABLEAU_VIZZES = [];
+   e.g. { title: "Sales Dashboard", url: "https://public.tableau.com/views/Workbook/Sheet", note: "What it shows" }
+   Profile links (public.tableau.com/app/profile/<name>/viz/Workbook/Sheet) work too. */
+var TABLEAU_VIZZES = [
+  { title: "Sales & Customer Dashboard",
+    url: "https://public.tableau.com/app/profile/franklyn.stanislaus/viz/Salesandcustomerdashbord/Dashboard1" },
+  { title: "Business XYZ Sales Information",
+    url: "https://public.tableau.com/app/profile/franklyn.stanislaus/viz/BusinessXYZSalesInformation/Dashboard1" },
+  { title: "U.S. Census Data, 2015",
+    url: "https://public.tableau.com/app/profile/franklyn.stanislaus/viz/USCensusData2015_17220104756040/Dashboard1" }
+];
 
 (function () {
   if (!TABLEAU_VIZZES.length) return;
@@ -434,7 +442,8 @@ var TABLEAU_VIZZES = [];
     var h = document.createElement('h3'); h.textContent = v.title; fig.appendChild(h);
     var frame = document.createElement('div'); frame.className = 'frame';
     var viz = document.createElement('tableau-viz');
-    viz.setAttribute('src', v.url.split('?')[0]);
+    var m = v.url.match(/\/viz\/([^/?#]+)\/([^/?#]+)/);
+    viz.setAttribute('src', m ? 'https://public.tableau.com/views/' + m[1] + '/' + m[2] : v.url.split('?')[0]);
     viz.setAttribute('toolbar', 'bottom');
     viz.setAttribute('hide-tabs', '');
     viz.setAttribute('width', '100%');
