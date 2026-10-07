@@ -1,0 +1,1855 @@
+year,race,income_quintile,mean_income_2019_dollars
+2019,All Races,Lowest,15286
+2019,All Races,Second,40652
+2019,All Races,Middle,68938
+2019,All Races,Fourth,111112
+2019,All Races,Highest,254449
+2019,All Races,Top 5%,451122
+2018,All Races,Lowest,14025
+2018,All Races,Second,37969
+2018,All Races,Middle,64724
+2018,All Races,Fourth,103410
+2018,All Races,Highest,238133
+2018,All Races,Top 5%,424066
+2017,All Races,Lowest,13827
+2017,All Races,Second,36921
+2017,All Races,Middle,64207
+2017,All Races,Fourth,103282
+2017,All Races,Highest,231371
+2017,All Races,Top 5%,401832
+2016,All Races,Lowest,13789
+2016,All Races,Second,36759
+2016,All Races,Middle,63015
+2016,All Races,Fourth,101399
+2016,All Races,Highest,227925
+2016,All Races,Top 5%,399606
+2015,All Races,Lowest,13442
+2015,All Races,Second,35212
+2015,All Races,Middle,61328
+2015,All Races,Fourth,99311
+2015,All Races,Highest,218374
+2015,All Races,Top 5%,378626
+2014,All Races,Lowest,12621
+2014,All Races,Second,33604
+2014,All Races,Middle,58416
+2014,All Races,Fourth,94945
+2014,All Races,Highest,209764
+2014,All Races,Top 5%,359255
+2013,All Races,Lowest,12745
+2013,All Races,Second,33871
+2013,All Races,Middle,59076
+2013,All Races,Fourth,95057
+2013,All Races,Highest,212546
+2013,All Races,Top 5%,367667
+2012,All Races,Lowest,12818
+2012,All Races,Second,33128
+2012,All Races,Middle,57093
+2012,All Races,Fourth,91585
+2012,All Races,Highest,202925
+2012,All Races,Top 5%,354805
+2011,All Races,Lowest,12803
+2011,All Races,Second,33269
+2011,All Races,Middle,56779
+2011,All Races,Fourth,91226
+2011,All Races,Highest,202797
+2011,All Races,Top 5%,354792
+2010,All Races,Lowest,12919
+2010,All Races,Second,33528
+2010,All Races,Middle,57776
+2010,All Races,Fourth,92688
+2010,All Races,Highest,199050
+2010,All Races,Top 5%,337488
+2009,All Races,Lowest,13799
+2009,All Races,Second,34947
+2009,All Races,Middle,59167
+2009,All Races,Fourth,93998
+2009,All Races,Highest,204070
+2009,All Races,Top 5%,352835
+2008,All Races,Lowest,13874
+2008,All Races,Second,35135
+2008,All Races,Middle,59673
+2008,All Races,Fourth,94940
+2008,All Races,Highest,203614
+2008,All Races,Top 5%,350800
+2007,All Races,Lowest,14278
+2007,All Races,Second,36392
+2007,All Races,Middle,61763
+2007,All Races,Fourth,97785
+2007,All Races,Highest,207620
+2007,All Races,Top 5%,354982
+2006,All Races,Lowest,14430
+2006,All Races,Second,36578
+2006,All Races,Middle,61296
+2006,All Races,Fourth,97022
+2006,All Races,Highest,213761
+2006,All Races,Top 5%,378032
+2005,All Races,Lowest,13983
+2005,All Races,Second,35901
+2005,All Races,Middle,60761
+2005,All Races,Fourth,95569
+2005,All Races,Highest,209421
+2005,All Races,Top 5%,368961
+2004,All Races,Lowest,13899
+2004,All Races,Second,35563
+2004,All Races,Middle,60255
+2004,All Races,Fourth,95008
+2004,All Races,Highest,205465
+2004,All Races,Top 5%,358043
+2003,All Races,Lowest,13929
+2003,All Races,Second,35780
+2003,All Races,Middle,60736
+2003,All Races,Fourth,96137
+2003,All Races,Highest,204940
+2003,All Races,Top 5%,352866
+2002,All Races,Lowest,14236
+2002,All Races,Second,36196
+2002,All Races,Middle,60995
+2002,All Races,Fourth,95943
+2002,All Races,Highest,204842
+2002,All Races,Top 5%,357704
+2001,All Races,Lowest,14672
+2001,All Races,Second,36865
+2001,All Races,Middle,61706
+2001,All Races,Fourth,96751
+2001,All Races,Highest,211295
+2001,All Races,Top 5%,377027
+2000,All Races,Lowest,15121
+2000,All Races,Second,37756
+2000,All Races,Middle,62874
+2000,All Races,Fourth,97740
+2000,All Races,Highest,211800
+2000,All Races,Top 5%,375756
+1999,All Races,Lowest,15262
+1999,All Races,Second,37473
+1999,All Races,Middle,62724
+1999,All Races,Fourth,97624
+1999,All Races,Highest,208183
+1999,All Races,Top 5%,361842
+1998,All Races,Lowest,14499
+1998,All Races,Second,36609
+1998,All Races,Middle,61257
+1998,All Races,Fourth,94740
+1998,All Races,Highest,200479
+1998,All Races,Top 5%,349434
+1997,All Races,Lowest,14083
+1997,All Races,Second,35209
+1997,All Races,Middle,59235
+1997,All Races,Fourth,91746
+1997,All Races,Highest,195602
+1997,All Races,Top 5%,343257
+1996,All Races,Lowest,13991
+1996,All Races,Second,34341
+1996,All Races,Middle,57763
+1996,All Races,Fourth,89400
+1996,All Races,Highest,188029
+1996,All Races,Top 5%,327537
+1995,All Races,Lowest,13945
+1995,All Races,Second,34086
+1995,All Races,Middle,56995
+1995,All Races,Fourth,87614
+1995,All Races,Highest,182837
+1995,All Races,Top 5%,315551
+1994,All Races,Lowest,13201
+1994,All Races,Second,32899
+1994,All Races,Middle,55423
+1994,All Races,Fourth,86244
+1994,All Races,Highest,181310
+1994,All Races,Top 5%,313255
+1993,All Races,Lowest,12857
+1993,All Races,Second,32594
+1993,All Races,Middle,54635
+1993,All Races,Fourth,84907
+1993,All Races,Highest,176899
+1993,All Races,Top 5%,303618
+1992,All Races,Lowest,12997
+1992,All Races,Second,32565
+1992,All Races,Middle,54865
+1992,All Races,Fourth,84222
+1992,All Races,Highest,163192
+1992,All Races,Top 5%,259015
+1991,All Races,Lowest,13265
+1991,All Races,Second,33318
+1991,All Races,Middle,55342
+1991,All Races,Fourth,84363
+1991,All Races,Highest,161774
+1991,All Races,Top 5%,252462
+1990,All Races,Lowest,13633
+1990,All Races,Second,34302
+1990,All Races,Middle,56658
+1990,All Races,Fourth,85423
+1990,All Races,Highest,165776
+1990,All Races,Top 5%,263980
+1989,All Races,Lowest,13962
+1989,All Races,Second,34737
+1989,All Races,Middle,57743
+1989,All Races,Fourth,87344
+1989,All Races,Highest,170741
+1989,All Races,Top 5%,275857
+1988,All Races,Lowest,13470
+1988,All Races,Second,33998
+1988,All Races,Middle,56863
+1988,All Races,Fourth,85955
+1988,All Races,Highest,164099
+1988,All Races,Top 5%,258810
+1987,All Races,Lowest,13238
+1987,All Races,Second,33643
+1987,All Races,Middle,56248
+1987,All Races,Fourth,85021
+1987,All Races,Highest,161690
+1987,All Races,Top 5%,254742
+1986,All Races,Lowest,12894
+1986,All Races,Second,33168
+1986,All Races,Middle,55504
+1986,All Races,Fourth,83614
+1986,All Races,Highest,158262
+1986,All Races,Top 5%,247927
+1985,All Races,Lowest,12756
+1985,All Races,Second,32326
+1985,All Races,Middle,53657
+1985,All Races,Fourth,80712
+1985,All Races,Highest,150766
+1985,All Races,Top 5%,232567
+1984,All Races,Lowest,12776
+1984,All Races,Second,31822
+1984,All Races,Middle,52734
+1984,All Races,Fourth,79399
+1984,All Races,Highest,145996
+1984,All Races,Top 5%,220386
+1983,All Races,Lowest,12370
+1983,All Races,Second,31072
+1983,All Races,Middle,51373
+1983,All Races,Fourth,77092
+1983,All Races,Highest,141540
+1983,All Races,Top 5%,213853
+1982,All Races,Lowest,12227
+1982,All Races,Second,30939
+1982,All Races,Middle,51214
+1982,All Races,Fourth,76168
+1982,All Races,Highest,139698
+1982,All Races,Top 5%,211088
+1981,All Races,Lowest,12456
+1981,All Races,Second,31029
+1981,All Races,Middle,51403
+1981,All Races,Fourth,76624
+1981,All Races,Highest,136872
+1981,All Races,Top 5%,203391
+1980,All Races,Lowest,12767
+1980,All Races,Second,31776
+1980,All Races,Middle,52435
+1980,All Races,Fourth,77249
+1980,All Races,Highest,137735
+1980,All Races,Top 5%,205828
+1979,All Races,Lowest,13196
+1979,All Races,Second,32821
+1979,All Races,Middle,54113
+1979,All Races,Fourth,79411
+1979,All Races,Highest,142513
+1979,All Races,Top 5%,217349
+1978,All Races,Lowest,13289
+1978,All Races,Second,32637
+1978,All Races,Middle,53889
+1978,All Races,Fourth,78942
+1978,All Races,Highest,140939
+1978,All Races,Top 5%,214526
+1977,All Races,Lowest,12852
+1977,All Races,Second,31634
+1977,All Races,Middle,52328
+1977,All Races,Fourth,76672
+1977,All Races,Highest,136727
+1977,All Races,Top 5%,209164
+1976,All Races,Lowest,12913
+1976,All Races,Second,31615
+1976,All Races,Middle,51993
+1976,All Races,Fourth,75505
+1976,All Races,Highest,133635
+1976,All Races,Top 5%,203613
+1975,All Races,Lowest,12603
+1975,All Races,Second,30961
+1975,All Races,Middle,50795
+1975,All Races,Fourth,73810
+1975,All Races,Highest,130315
+1975,All Races,Top 5%,197756
+1974,All Races,Lowest,13049
+1974,All Races,Second,32432
+1974,All Races,Middle,52265
+1974,All Races,Fourth,75483
+1974,All Races,Highest,133735
+1974,All Races,Top 5%,203277
+1973,All Races,Lowest,13095
+1973,All Races,Second,32926
+1973,All Races,Middle,54005
+1973,All Races,Fourth,77693
+1973,All Races,Highest,139011
+1973,All Races,Top 5%,214120
+1972,All Races,Lowest,12512
+1972,All Races,Second,32318
+1972,All Races,Middle,52743
+1972,All Races,Fourth,75722
+1972,All Races,Highest,135940
+1972,All Races,Top 5%,210703
+1971,All Races,Lowest,11809
+1971,All Races,Second,31209
+1971,All Races,Middle,50605
+1971,All Races,Fourth,71941
+1971,All Races,Highest,127474
+1971,All Races,Top 5%,195520
+1970,All Races,Lowest,11737
+1970,All Races,Second,31793
+1970,All Races,Middle,51196
+1970,All Races,Fourth,72165
+1970,All Races,Highest,127757
+1970,All Races,Top 5%,196092
+1969,All Races,Lowest,11944
+1969,All Races,Second,32247
+1969,All Races,Middle,51529
+1969,All Races,Fourth,72178
+1969,All Races,Highest,126860
+1969,All Races,Top 5%,195267
+1968,All Races,Lowest,11663
+1968,All Races,Second,31270
+1968,All Races,Middle,49597
+1968,All Races,Fourth,69184
+1968,All Races,Highest,120222
+1968,All Races,Top 5%,183800
+1967,All Races,Lowest,10738
+1967,All Races,Second,29751
+1967,All Races,Middle,47495
+1967,All Races,Fourth,66455
+1967,All Races,Highest,119594
+1967,All Races,Top 5%,188653
+2019,Asian Alone,Lowest,20883
+2019,Asian Alone,Second,58185
+2019,Asian Alone,Middle,97716
+2019,Asian Alone,Fourth,152130
+2019,Asian Alone,Highest,329303
+2019,Asian Alone,Top 5%,569947
+2018,Asian Alone,Lowest,16796
+2018,Asian Alone,Second,51298
+2018,Asian Alone,Middle,88645
+2018,Asian Alone,Fourth,139780
+2018,Asian Alone,Highest,308811
+2018,Asian Alone,Top 5%,528659
+2017,Asian Alone,Lowest,16119
+2017,Asian Alone,Second,49928
+2017,Asian Alone,Middle,85187
+2017,Asian Alone,Fourth,138277
+2017,Asian Alone,Highest,303504
+2017,Asian Alone,Top 5%,524108
+2016,Asian Alone,Lowest,16867
+2016,Asian Alone,Second,50948
+2016,Asian Alone,Middle,86490
+2016,Asian Alone,Fourth,136585
+2016,Asian Alone,Highest,278464
+2016,Asian Alone,Top 5%,462792
+2015,Asian Alone,Lowest,15237
+2015,Asian Alone,Second,48236
+2015,Asian Alone,Middle,83244
+2015,Asian Alone,Fourth,133756
+2015,Asian Alone,Highest,286770
+2015,Asian Alone,Top 5%,494488
+2014,Asian Alone,Lowest,15498
+2014,Asian Alone,Second,46122
+2014,Asian Alone,Middle,80877
+2014,Asian Alone,Fourth,127774
+2014,Asian Alone,Highest,260168
+2014,Asian Alone,Top 5%,435913
+2013,Asian Alone,Lowest,14952
+2013,Asian Alone,Second,47251
+2013,Asian Alone,Middle,80454
+2013,Asian Alone,Fourth,125616
+2013,Asian Alone,Highest,287287
+2013,Asian Alone,Top 5%,519551
+2012,Asian Alone,Lowest,15224
+2012,Asian Alone,Second,45566
+2012,Asian Alone,Middle,76302
+2012,Asian Alone,Fourth,120482
+2012,Asian Alone,Highest,253927
+2012,Asian Alone,Top 5%,425762
+2011,Asian Alone,Lowest,14531
+2011,Asian Alone,Second,42667
+2011,Asian Alone,Middle,73991
+2011,Asian Alone,Fourth,114810
+2011,Asian Alone,Highest,242621
+2011,Asian Alone,Top 5%,417880
+2010,Asian Alone,Lowest,14782
+2010,Asian Alone,Second,43923
+2010,Asian Alone,Middle,75120
+2010,Asian Alone,Fourth,120501
+2010,Asian Alone,Highest,237525
+2010,Asian Alone,Top 5%,373533
+2009,Asian Alone,Lowest,14534
+2009,Asian Alone,Second,44343
+2009,Asian Alone,Middle,77626
+2009,Asian Alone,Fourth,124049
+2009,Asian Alone,Highest,277621
+2009,Asian Alone,Top 5%,506044
+2008,Asian Alone,Lowest,14846
+2008,Asian Alone,Second,43985
+2008,Asian Alone,Middle,77785
+2008,Asian Alone,Fourth,123708
+2008,Asian Alone,Highest,253436
+2008,Asian Alone,Top 5%,430863
+2007,Asian Alone,Lowest,16368
+2007,Asian Alone,Second,48081
+2007,Asian Alone,Middle,81793
+2007,Asian Alone,Fourth,125250
+2007,Asian Alone,Highest,251117
+2007,Asian Alone,Top 5%,418561
+2006,Asian Alone,Lowest,17433
+2006,Asian Alone,Second,49063
+2006,Asian Alone,Middle,81652
+2006,Asian Alone,Fourth,128039
+2006,Asian Alone,Highest,280097
+2006,Asian Alone,Top 5%,522821
+2005,Asian Alone,Lowest,15452
+2005,Asian Alone,Second,48227
+2005,Asian Alone,Middle,80312
+2005,Asian Alone,Fourth,124343
+2005,Asian Alone,Highest,256569
+2005,Asian Alone,Top 5%,425294
+2004,Asian Alone,Lowest,16447
+2004,Asian Alone,Second,47421
+2004,Asian Alone,Middle,78228
+2004,Asian Alone,Fourth,120499
+2004,Asian Alone,Highest,253860
+2004,Asian Alone,Top 5%,444549
+2003,Asian Alone,Lowest,13009
+2003,Asian Alone,Second,43877
+2003,Asian Alone,Middle,76781
+2003,Asian Alone,Fourth,118767
+2003,Asian Alone,Highest,231163
+2003,Asian Alone,Top 5%,366207
+2002,Asian Alone,Lowest,16216
+2002,Asian Alone,Second,45234
+2002,Asian Alone,Middle,75220
+2002,Asian Alone,Fourth,117666
+2002,Asian Alone,Highest,240702
+2002,Asian Alone,Top 5%,408850
+2019,Asian Alone,Lowest,20636
+2019,Asian Alone,Second,58300
+2019,Asian Alone,Middle,98709
+2019,Asian Alone,Fourth,153721
+2019,Asian Alone,Highest,334188
+2019,Asian Alone,Top 5%,577189
+2018,Asian Alone,Lowest,16730
+2018,Asian Alone,Second,51327
+2018,Asian Alone,Middle,89234
+2018,Asian Alone,Fourth,140838
+2018,Asian Alone,Highest,311806
+2018,Asian Alone,Top 5%,536014
+2017,Asian Alone,Lowest,16059
+2017,Asian Alone,Second,50376
+2017,Asian Alone,Middle,85799
+2017,Asian Alone,Fourth,139063
+2017,Asian Alone,Highest,303724
+2017,Asian Alone,Top 5%,523738
+2016,Asian Alone,Lowest,17006
+2016,Asian Alone,Second,51507
+2016,Asian Alone,Middle,87391
+2016,Asian Alone,Fourth,137916
+2016,Asian Alone,Highest,281436
+2016,Asian Alone,Top 5%,468361
+2015,Asian Alone,Lowest,15566
+2015,Asian Alone,Second,48715
+2015,Asian Alone,Middle,83956
+2015,Asian Alone,Fourth,134377
+2015,Asian Alone,Highest,286165
+2015,Asian Alone,Top 5%,489928
+2014,Asian Alone,Lowest,15111
+2014,Asian Alone,Second,45608
+2014,Asian Alone,Middle,80595
+2014,Asian Alone,Fourth,128206
+2014,Asian Alone,Highest,257784
+2014,Asian Alone,Top 5%,426424
+2013,Asian Alone,Lowest,14763
+2013,Asian Alone,Second,47572
+2013,Asian Alone,Middle,80454
+2013,Asian Alone,Fourth,126229
+2013,Asian Alone,Highest,287261
+2013,Asian Alone,Top 5%,516365
+2012,Asian Alone,Lowest,15052
+2012,Asian Alone,Second,45524
+2012,Asian Alone,Middle,76723
+2012,Asian Alone,Fourth,120621
+2012,Asian Alone,Highest,251891
+2012,Asian Alone,Top 5%,418556
+2011,Asian Alone,Lowest,14601
+2011,Asian Alone,Second,42790
+2011,Asian Alone,Middle,74073
+2011,Asian Alone,Fourth,114688
+2011,Asian Alone,Highest,241669
+2011,Asian Alone,Top 5%,418081
+2010,Asian Alone,Lowest,14544
+2010,Asian Alone,Second,44155
+2010,Asian Alone,Middle,76011
+2010,Asian Alone,Fourth,122151
+2010,Asian Alone,Highest,240110
+2010,Asian Alone,Top 5%,378378
+2009,Asian Alone,Lowest,14592
+2009,Asian Alone,Second,44728
+2009,Asian Alone,Middle,78179
+2009,Asian Alone,Fourth,124724
+2009,Asian Alone,Highest,280135
+2009,Asian Alone,Top 5%,514333
+2008,Asian Alone,Lowest,14618
+2008,Asian Alone,Second,43910
+2008,Asian Alone,Middle,77798
+2008,Asian Alone,Fourth,124165
+2008,Asian Alone,Highest,252448
+2008,Asian Alone,Top 5%,426348
+2007,Asian Alone,Lowest,16363
+2007,Asian Alone,Second,48169
+2007,Asian Alone,Middle,82139
+2007,Asian Alone,Fourth,125753
+2007,Asian Alone,Highest,253010
+2007,Asian Alone,Top 5%,424302
+2006,Asian Alone,Lowest,17254
+2006,Asian Alone,Second,48852
+2006,Asian Alone,Middle,81920
+2006,Asian Alone,Fourth,128765
+2006,Asian Alone,Highest,284354
+2006,Asian Alone,Top 5%,532746
+2005,Asian Alone,Lowest,15308
+2005,Asian Alone,Second,48219
+2005,Asian Alone,Middle,80375
+2005,Asian Alone,Fourth,124555
+2005,Asian Alone,Highest,257096
+2005,Asian Alone,Top 5%,425083
+2004,Asian Alone,Lowest,16440
+2004,Asian Alone,Second,47442
+2004,Asian Alone,Middle,78467
+2004,Asian Alone,Fourth,121259
+2004,Asian Alone,Highest,255466
+2004,Asian Alone,Top 5%,446475
+2003,Asian Alone,Lowest,12856
+2003,Asian Alone,Second,44058
+2003,Asian Alone,Middle,77385
+2003,Asian Alone,Fourth,119687
+2003,Asian Alone,Highest,233522
+2003,Asian Alone,Top 5%,370769
+2002,Asian Alone,Lowest,16321
+2002,Asian Alone,Second,45280
+2002,Asian Alone,Middle,75651
+2002,Asian Alone,Fourth,118472
+2002,Asian Alone,Highest,243381
+2002,Asian Alone,Top 5%,414593
+2019,Black Alone or in Combination,Lowest,8884
+2019,Black Alone or in Combination,Second,26027
+2019,Black Alone or in Combination,Middle,45996
+2019,Black Alone or in Combination,Fourth,76372
+2019,Black Alone or in Combination,Highest,182341
+2019,Black Alone or in Combination,Top 5%,325902
+2018,Black Alone or in Combination,Lowest,7825
+2018,Black Alone or in Combination,Second,23949
+2018,Black Alone or in Combination,Middle,42593
+2018,Black Alone or in Combination,Fourth,70198
+2018,Black Alone or in Combination,Highest,157627
+2018,Black Alone or in Combination,Top 5%,259963
+2017,Black Alone or in Combination,Lowest,7958
+2017,Black Alone or in Combination,Second,23958
+2017,Black Alone or in Combination,Middle,42441
+2017,Black Alone or in Combination,Fourth,71295
+2017,Black Alone or in Combination,Highest,161936
+2017,Black Alone or in Combination,Top 5%,280336
+2016,Black Alone or in Combination,Lowest,7985
+2016,Black Alone or in Combination,Second,23760
+2016,Black Alone or in Combination,Middle,42388
+2016,Black Alone or in Combination,Fourth,70230
+2016,Black Alone or in Combination,Highest,165241
+2016,Black Alone or in Combination,Top 5%,299200
+2015,Black Alone or in Combination,Lowest,7601
+2015,Black Alone or in Combination,Second,22378
+2015,Black Alone or in Combination,Middle,40514
+2015,Black Alone or in Combination,Fourth,67983
+2015,Black Alone or in Combination,Highest,157228
+2015,Black Alone or in Combination,Top 5%,276431
+2014,Black Alone or in Combination,Lowest,7302
+2014,Black Alone or in Combination,Second,21654
+2014,Black Alone or in Combination,Middle,38514
+2014,Black Alone or in Combination,Fourth,63873
+2014,Black Alone or in Combination,Highest,147657
+2014,Black Alone or in Combination,Top 5%,251736
+2013,Black Alone or in Combination,Lowest,7350
+2013,Black Alone or in Combination,Second,22112
+2013,Black Alone or in Combination,Middle,39145
+2013,Black Alone or in Combination,Fourth,63990
+2013,Black Alone or in Combination,Highest,151420
+2013,Black Alone or in Combination,Top 5%,262168
+2012,Black Alone or in Combination,Lowest,7384
+2012,Black Alone or in Combination,Second,20936
+2012,Black Alone or in Combination,Middle,37791
+2012,Black Alone or in Combination,Fourth,63164
+2012,Black Alone or in Combination,Highest,139351
+2012,Black Alone or in Combination,Top 5%,231381
+2011,Black Alone or in Combination,Lowest,7135
+2011,Black Alone or in Combination,Second,20306
+2011,Black Alone or in Combination,Middle,37174
+2011,Black Alone or in Combination,Fourth,62916
+2011,Black Alone or in Combination,Highest,143061
+2011,Black Alone or in Combination,Top 5%,246314
+2010,Black Alone or in Combination,Lowest,7026
+2010,Black Alone or in Combination,Second,20954
+2010,Black Alone or in Combination,Middle,37958
+2010,Black Alone or in Combination,Fourth,63107
+2010,Black Alone or in Combination,Highest,138283
+2010,Black Alone or in Combination,Top 5%,229934
+2009,Black Alone or in Combination,Lowest,7973
+2009,Black Alone or in Combination,Second,22663
+2009,Black Alone or in Combination,Middle,39500
+2009,Black Alone or in Combination,Fourth,65007
+2009,Black Alone or in Combination,Highest,141258
+2009,Black Alone or in Combination,Top 5%,238123
+2008,Black Alone or in Combination,Lowest,8205
+2008,Black Alone or in Combination,Second,23416
+2008,Black Alone or in Combination,Middle,40584
+2008,Black Alone or in Combination,Fourth,65216
+2008,Black Alone or in Combination,Highest,140394
+2008,Black Alone or in Combination,Top 5%,229351
+2007,Black Alone or in Combination,Lowest,8180
+2007,Black Alone or in Combination,Second,23354
+2007,Black Alone or in Combination,Middle,42100
+2007,Black Alone or in Combination,Fourth,68670
+2007,Black Alone or in Combination,Highest,147122
+2007,Black Alone or in Combination,Top 5%,244941
+2006,Black Alone or in Combination,Lowest,8030
+2006,Black Alone or in Combination,Second,23439
+2006,Black Alone or in Combination,Middle,41406
+2006,Black Alone or in Combination,Fourth,67099
+2006,Black Alone or in Combination,Highest,149159
+2006,Black Alone or in Combination,Top 5%,255082
+2005,Black Alone or in Combination,Lowest,7883
+2005,Black Alone or in Combination,Second,22507
+2005,Black Alone or in Combination,Middle,40578
+2005,Black Alone or in Combination,Fourth,66365
+2005,Black Alone or in Combination,Highest,143023
+2005,Black Alone or in Combination,Top 5%,238652
+2004,Black Alone or in Combination,Lowest,7668
+2004,Black Alone or in Combination,Second,23026
+2004,Black Alone or in Combination,Middle,40560
+2004,Black Alone or in Combination,Fourth,65979
+2004,Black Alone or in Combination,Highest,139268
+2004,Black Alone or in Combination,Top 5%,229394
+2003,Black Alone or in Combination,Lowest,8184
+2003,Black Alone or in Combination,Second,23058
+2003,Black Alone or in Combination,Middle,41256
+2003,Black Alone or in Combination,Fourth,67356
+2003,Black Alone or in Combination,Highest,141030
+2003,Black Alone or in Combination,Top 5%,228100
+2002,Black Alone or in Combination,Lowest,8261
+2002,Black Alone or in Combination,Second,23384
+2002,Black Alone or in Combination,Middle,41456
+2002,Black Alone or in Combination,Fourth,66745
+2002,Black Alone or in Combination,Highest,147546
+2002,Black Alone or in Combination,Top 5%,251275
+2019,Black Alone,Lowest,8680
+2019,Black Alone,Second,25668
+2019,Black Alone,Middle,45356
+2019,Black Alone,Fourth,75403
+2019,Black Alone,Highest,177659
+2019,Black Alone,Top 5%,315171
+2018,Black Alone,Lowest,7657
+2018,Black Alone,Second,23659
+2018,Black Alone,Middle,42202
+2018,Black Alone,Fourth,69600
+2018,Black Alone,Highest,155520
+2018,Black Alone,Top 5%,254783
+2017,Black Alone,Lowest,7786
+2017,Black Alone,Second,23621
+2017,Black Alone,Middle,41989
+2017,Black Alone,Fourth,70522
+2017,Black Alone,Highest,161626
+2017,Black Alone,Top 5%,280299
+2016,Black Alone,Lowest,7813
+2016,Black Alone,Second,23411
+2016,Black Alone,Middle,41868
+2016,Black Alone,Fourth,69642
+2016,Black Alone,Highest,163266
+2016,Black Alone,Top 5%,294063
+2015,Black Alone,Lowest,7575
+2015,Black Alone,Second,22177
+2015,Black Alone,Middle,40125
+2015,Black Alone,Fourth,67480
+2015,Black Alone,Highest,155901
+2015,Black Alone,Top 5%,273333
+2014,Black Alone,Lowest,7252
+2014,Black Alone,Second,21518
+2014,Black Alone,Middle,38233
+2014,Black Alone,Fourth,63327
+2014,Black Alone,Highest,146563
+2014,Black Alone,Top 5%,249558
+2013,Black Alone,Lowest,7154
+2013,Black Alone,Second,21611
+2013,Black Alone,Middle,38578
+2013,Black Alone,Fourth,63504
+2013,Black Alone,Highest,146466
+2013,Black Alone,Top 5%,247126
+2012,Black Alone,Lowest,7349
+2012,Black Alone,Second,20764
+2012,Black Alone,Middle,37430
+2012,Black Alone,Fourth,62544
+2012,Black Alone,Highest,138178
+2012,Black Alone,Top 5%,230866
+2011,Black Alone,Lowest,7136
+2011,Black Alone,Second,20192
+2011,Black Alone,Middle,36969
+2011,Black Alone,Fourth,62542
+2011,Black Alone,Highest,142324
+2011,Black Alone,Top 5%,245839
+2010,Black Alone,Lowest,7036
+2010,Black Alone,Second,20832
+2010,Black Alone,Middle,37847
+2010,Black Alone,Fourth,62850
+2010,Black Alone,Highest,135575
+2010,Black Alone,Top 5%,222551
+2009,Black Alone,Lowest,7952
+2009,Black Alone,Second,22580
+2009,Black Alone,Middle,39356
+2009,Black Alone,Fourth,64722
+2009,Black Alone,Highest,140394
+2009,Black Alone,Top 5%,236131
+2008,Black Alone,Lowest,8170
+2008,Black Alone,Second,23313
+2008,Black Alone,Middle,40460
+2008,Black Alone,Fourth,64999
+2008,Black Alone,Highest,140007
+2008,Black Alone,Top 5%,229229
+2007,Black Alone,Lowest,8169
+2007,Black Alone,Second,23307
+2007,Black Alone,Middle,41938
+2007,Black Alone,Fourth,68416
+2007,Black Alone,Highest,146358
+2007,Black Alone,Top 5%,244148
+2006,Black Alone,Lowest,7979
+2006,Black Alone,Second,23273
+2006,Black Alone,Middle,41118
+2006,Black Alone,Fourth,66719
+2006,Black Alone,Highest,147718
+2006,Black Alone,Top 5%,251850
+2005,Black Alone,Lowest,7819
+2005,Black Alone,Second,22412
+2005,Black Alone,Middle,40411
+2005,Black Alone,Fourth,66017
+2005,Black Alone,Highest,141905
+2005,Black Alone,Top 5%,235990
+2004,Black Alone,Lowest,7652
+2004,Black Alone,Second,22897
+2004,Black Alone,Middle,40302
+2004,Black Alone,Fourth,65622
+2004,Black Alone,Highest,139169
+2004,Black Alone,Top 5%,230046
+2003,Black Alone,Lowest,8112
+2003,Black Alone,Second,22956
+2003,Black Alone,Middle,41142
+2003,Black Alone,Fourth,67059
+2003,Black Alone,Highest,140322
+2003,Black Alone,Top 5%,226230
+2002,Black Alone,Lowest,8221
+2002,Black Alone,Second,23285
+2002,Black Alone,Middle,41268
+2002,Black Alone,Fourth,66482
+2002,Black Alone,Highest,145832
+2002,Black Alone,Top 5%,246304
+2001,Black Alone,Lowest,8614
+2001,Black Alone,Second,24347
+2001,Black Alone,Middle,42669
+2001,Black Alone,Fourth,68647
+2001,Black Alone,Highest,139786
+2001,Black Alone,Top 5%,224516
+2000,Black Alone,Lowest,9254
+2000,Black Alone,Second,25497
+2000,Black Alone,Middle,44059
+2000,Black Alone,Fourth,69950
+2000,Black Alone,Highest,142868
+2000,Black Alone,Top 5%,228699
+1999,Black Alone,Lowest,9077
+1999,Black Alone,Second,24419
+1999,Black Alone,Middle,43356
+1999,Black Alone,Fourth,71026
+1999,Black Alone,Highest,148137
+1999,Black Alone,Top 5%,236599
+1998,Black Alone,Lowest,8165
+1998,Black Alone,Second,22065
+1998,Black Alone,Middle,39712
+1998,Black Alone,Fourth,65506
+1998,Black Alone,Highest,132888
+1998,Black Alone,Top 5%,204965
+1997,Black Alone,Lowest,8370
+1997,Black Alone,Second,22281
+1997,Black Alone,Middle,39729
+1997,Black Alone,Fourth,64402
+1997,Black Alone,Highest,127825
+1997,Black Alone,Top 5%,200601
+1996,Black Alone,Lowest,8217
+1996,Black Alone,Second,21158
+1996,Black Alone,Middle,38174
+1996,Black Alone,Fourth,62617
+1996,Black Alone,Highest,134016
+1996,Black Alone,Top 5%,229473
+1995,Black Alone,Lowest,8045
+1995,Black Alone,Second,20844
+1995,Black Alone,Middle,37672
+1995,Black Alone,Fourth,61346
+1995,Black Alone,Highest,126102
+1995,Black Alone,Top 5%,204807
+1994,Black Alone,Lowest,7566
+1994,Black Alone,Second,19655
+1994,Black Alone,Middle,35918
+1994,Black Alone,Fourth,60825
+1994,Black Alone,Highest,126401
+1994,Black Alone,Top 5%,200971
+1993,Black Alone,Lowest,7195
+1993,Black Alone,Second,18194
+1993,Black Alone,Middle,34035
+1993,Black Alone,Fourth,56379
+1993,Black Alone,Highest,122058
+1993,Black Alone,Top 5%,200256
+1992,Black Alone,Lowest,6998
+1992,Black Alone,Second,17734
+1992,Black Alone,Middle,33509
+1992,Black Alone,Fourth,56461
+1992,Black Alone,Highest,113226
+1992,Black Alone,Top 5%,174517
+1991,Black Alone,Lowest,7051
+1991,Black Alone,Second,18032
+1991,Black Alone,Middle,34546
+1991,Black Alone,Fourth,57857
+1991,Black Alone,Highest,112368
+1991,Black Alone,Top 5%,168683
+1990,Black Alone,Lowest,7273
+1990,Black Alone,Second,18564
+1990,Black Alone,Middle,35481
+1990,Black Alone,Fourth,59152
+1990,Black Alone,Highest,115566
+1990,Black Alone,Top 5%,174839
+1989,Black Alone,Lowest,7556
+1989,Black Alone,Second,19156
+1989,Black Alone,Middle,36009
+1989,Black Alone,Fourth,59651
+1989,Black Alone,Highest,117132
+1989,Black Alone,Top 5%,174230
+1988,Black Alone,Lowest,7595
+1988,Black Alone,Second,18133
+1988,Black Alone,Middle,34141
+1988,Black Alone,Fourth,57825
+1988,Black Alone,Highest,116469
+1988,Black Alone,Top 5%,175413
+1987,Black Alone,Lowest,7413
+1987,Black Alone,Second,17946
+1987,Black Alone,Middle,33784
+1987,Black Alone,Fourth,55691
+1987,Black Alone,Highest,113585
+1987,Black Alone,Top 5%,175850
+1986,Black Alone,Lowest,6985
+1986,Black Alone,Second,18017
+1986,Black Alone,Middle,33715
+1986,Black Alone,Fourth,56433
+1986,Black Alone,Highest,110748
+1986,Black Alone,Top 5%,168300
+1985,Black Alone,Lowest,7678
+1985,Black Alone,Second,18316
+1985,Black Alone,Middle,33315
+1985,Black Alone,Fourth,54809
+1985,Black Alone,Highest,105545
+1985,Black Alone,Top 5%,154713
+1984,Black Alone,Lowest,7532
+1984,Black Alone,Second,17739
+1984,Black Alone,Middle,31587
+1984,Black Alone,Fourth,52165
+1984,Black Alone,Highest,102097
+1984,Black Alone,Top 5%,148320
+1983,Black Alone,Lowest,7155
+1983,Black Alone,Second,16906
+1983,Black Alone,Middle,30766
+1983,Black Alone,Fourth,51094
+1983,Black Alone,Highest,97432
+1983,Black Alone,Top 5%,139119
+1982,Black Alone,Lowest,7173
+1982,Black Alone,Second,17209
+1982,Black Alone,Middle,30771
+1982,Black Alone,Fourth,51199
+1982,Black Alone,Highest,94625
+1982,Black Alone,Top 5%,137738
+1981,Black Alone,Lowest,7381
+1981,Black Alone,Second,17166
+1981,Black Alone,Middle,30588
+1981,Black Alone,Fourth,50840
+1981,Black Alone,Highest,95075
+1981,Black Alone,Top 5%,133764
+1980,Black Alone,Lowest,7625
+1980,Black Alone,Second,17913
+1980,Black Alone,Middle,31734
+1980,Black Alone,Fourth,52203
+1980,Black Alone,Highest,97440
+1980,Black Alone,Top 5%,139743
+1979,Black Alone,Lowest,8093
+1979,Black Alone,Second,18851
+1979,Black Alone,Middle,33167
+1979,Black Alone,Fourth,54281
+1979,Black Alone,Highest,99754
+1979,Black Alone,Top 5%,141581
+1978,Black Alone,Lowest,8482
+1978,Black Alone,Second,18915
+1978,Black Alone,Middle,33867
+1978,Black Alone,Fourth,54838
+1978,Black Alone,Highest,100775
+1978,Black Alone,Top 5%,143344
+1977,Black Alone,Lowest,8613
+1977,Black Alone,Second,19037
+1977,Black Alone,Middle,32197
+1977,Black Alone,Fourth,51712
+1977,Black Alone,Highest,96364
+1977,Black Alone,Top 5%,139559
+1976,Black Alone,Lowest,8509
+1976,Black Alone,Second,18850
+1976,Black Alone,Middle,32508
+1976,Black Alone,Fourth,52558
+1976,Black Alone,Highest,94383
+1976,Black Alone,Top 5%,135286
+1975,Black Alone,Lowest,8267
+1975,Black Alone,Second,18119
+1975,Black Alone,Middle,32000
+1975,Black Alone,Fourth,51020
+1975,Black Alone,Highest,90919
+1975,Black Alone,Top 5%,128166
+1974,Black Alone,Lowest,8449
+1974,Black Alone,Second,19106
+1974,Black Alone,Middle,32755
+1974,Black Alone,Fourth,51069
+1974,Black Alone,Highest,91668
+1974,Black Alone,Top 5%,128446
+1973,Black Alone,Lowest,8510
+1973,Black Alone,Second,19655
+1973,Black Alone,Middle,33710
+1973,Black Alone,Fourth,53030
+1973,Black Alone,Highest,96338
+1973,Black Alone,Top 5%,142384
+1972,Black Alone,Lowest,8062
+1972,Black Alone,Second,18841
+1972,Black Alone,Middle,32449
+1972,Black Alone,Fourth,51214
+1972,Black Alone,Highest,94985
+1972,Black Alone,Top 5%,138527
+1971,Black Alone,Lowest,7716
+1971,Black Alone,Second,18244
+1971,Black Alone,Middle,31497
+1971,Black Alone,Fourth,48979
+1971,Black Alone,Highest,88672
+1971,Black Alone,Top 5%,127869
+1970,Black Alone,Lowest,7365
+1970,Black Alone,Second,18636
+1970,Black Alone,Middle,32394
+1970,Black Alone,Fourth,50200
+1970,Black Alone,Highest,90678
+1970,Black Alone,Top 5%,130738
+1969,Black Alone,Lowest,7579
+1969,Black Alone,Second,18868
+1969,Black Alone,Middle,32043
+1969,Black Alone,Fourth,48704
+1969,Black Alone,Highest,86502
+1969,Black Alone,Top 5%,123355
+1968,Black Alone,Lowest,7401
+1968,Black Alone,Second,18276
+1968,Black Alone,Middle,30430
+1968,Black Alone,Fourth,46975
+1968,Black Alone,Highest,83863
+1968,Black Alone,Top 5%,119098
+1967,Black Alone,Lowest,6832
+1967,Black Alone,Second,16818
+1967,Black Alone,Middle,28831
+1967,Black Alone,Fourth,44073
+1967,Black Alone,Highest,84629
+1967,Black Alone,Top 5%,131715
+2019,Hispanic,Lowest,13533
+2019,Hispanic,Second,34758
+2019,Hispanic,Middle,56285
+2019,Hispanic,Fourth,87383
+2019,Hispanic,Highest,183331
+2019,Hispanic,Top 5%,297832
+2018,Hispanic,Lowest,12634
+2018,Hispanic,Second,31989
+2018,Hispanic,Middle,52360
+2018,Hispanic,Fourth,81275
+2018,Hispanic,Highest,182894
+2018,Hispanic,Top 5%,327506
+2017,Hispanic,Lowest,12336
+2017,Hispanic,Second,31844
+2017,Hispanic,Middle,52662
+2017,Hispanic,Fourth,82808
+2017,Hispanic,Highest,176611
+2017,Hispanic,Top 5%,302282
+2016,Hispanic,Lowest,12278
+2016,Hispanic,Second,31492
+2016,Hispanic,Middle,51250
+2016,Hispanic,Fourth,80596
+2016,Hispanic,Highest,180293
+2016,Hispanic,Top 5%,326470
+2015,Hispanic,Lowest,11623
+2015,Hispanic,Second,29391
+2015,Hispanic,Middle,48481
+2015,Hispanic,Fourth,76774
+2015,Hispanic,Highest,176951
+2015,Hispanic,Top 5%,321535
+2014,Hispanic,Lowest,11067
+2014,Hispanic,Second,27960
+2014,Hispanic,Middle,46279
+2014,Hispanic,Fourth,72713
+2014,Hispanic,Highest,152945
+2014,Hispanic,Top 5%,256450
+2013,Hispanic,Lowest,10770
+2013,Hispanic,Second,26819
+2013,Hispanic,Middle,43560
+2013,Hispanic,Fourth,71157
+2013,Hispanic,Highest,164378
+2013,Hispanic,Top 5%,289549
+2012,Hispanic,Lowest,10234
+2012,Hispanic,Second,26506
+2012,Hispanic,Middle,43496
+2012,Hispanic,Fourth,68861
+2012,Hispanic,Highest,148881
+2012,Hispanic,Top 5%,253361
+2011,Hispanic,Lowest,10474
+2011,Hispanic,Second,27185
+2011,Hispanic,Middle,43908
+2011,Hispanic,Fourth,68434
+2011,Hispanic,Highest,148188
+2011,Hispanic,Top 5%,248483
+2010,Hispanic,Lowest,10512
+2010,Hispanic,Second,27113
+2010,Hispanic,Middle,44514
+2010,Hispanic,Fourth,70574
+2010,Hispanic,Highest,149249
+2010,Hispanic,Top 5%,249056
+2009,Hispanic,Lowest,11502
+2009,Hispanic,Second,28118
+2009,Hispanic,Middle,45714
+2009,Hispanic,Fourth,72196
+2009,Hispanic,Highest,154404
+2009,Hispanic,Top 5%,260870
+2008,Hispanic,Lowest,11282
+2008,Hispanic,Second,28229
+2008,Hispanic,Middle,45247
+2008,Hispanic,Fourth,71298
+2008,Hispanic,Highest,150879
+2008,Hispanic,Top 5%,249524
+2007,Hispanic,Lowest,12161
+2007,Hispanic,Second,29717
+2007,Hispanic,Middle,47725
+2007,Hispanic,Fourth,73934
+2007,Hispanic,Highest,150591
+2007,Hispanic,Top 5%,250458
+2006,Hispanic,Lowest,12293
+2006,Hispanic,Second,30013
+2006,Hispanic,Middle,48218
+2006,Hispanic,Fourth,73688
+2006,Hispanic,Highest,157215
+2006,Hispanic,Top 5%,266701
+2005,Hispanic,Lowest,12021
+2005,Hispanic,Second,29388
+2005,Hispanic,Middle,47095
+2005,Hispanic,Fourth,72035
+2005,Hispanic,Highest,148758
+2005,Hispanic,Top 5%,244900
+2004,Hispanic,Lowest,11774
+2004,Hispanic,Second,29021
+2004,Hispanic,Middle,46497
+2004,Hispanic,Fourth,71243
+2004,Hispanic,Highest,152681
+2004,Hispanic,Top 5%,261733
+2003,Hispanic,Lowest,11967
+2003,Hispanic,Second,29218
+2003,Hispanic,Middle,46363
+2003,Hispanic,Fourth,71602
+2003,Hispanic,Highest,150664
+2003,Hispanic,Top 5%,252807
+2002,Hispanic,Lowest,12275
+2002,Hispanic,Second,29938
+2002,Hispanic,Middle,47486
+2002,Hispanic,Fourth,73359
+2002,Hispanic,Highest,156776
+2002,Hispanic,Top 5%,273980
+2001,Hispanic,Lowest,12770
+2001,Hispanic,Second,30187
+2001,Hispanic,Middle,48671
+2001,Hispanic,Fourth,74488
+2001,Hispanic,Highest,155113
+2001,Hispanic,Top 5%,263659
+2000,Hispanic,Lowest,13227
+2000,Hispanic,Second,30873
+2000,Hispanic,Middle,49561
+2000,Hispanic,Fourth,74894
+2000,Hispanic,Highest,158800
+2000,Hispanic,Top 5%,282933
+1999,Hispanic,Lowest,12683
+1999,Hispanic,Second,29618
+1999,Hispanic,Middle,47212
+1999,Hispanic,Fourth,72602
+1999,Hispanic,Highest,148739
+1999,Hispanic,Top 5%,246883
+1998,Hispanic,Lowest,10833
+1998,Hispanic,Second,26919
+1998,Hispanic,Middle,44561
+1998,Hispanic,Fourth,68919
+1998,Hispanic,Highest,149657
+1998,Hispanic,Top 5%,264012
+1997,Hispanic,Lowest,10344
+1997,Hispanic,Second,25558
+1997,Hispanic,Middle,42476
+1997,Hispanic,Fourth,65942
+1997,Hispanic,Highest,141545
+1997,Hispanic,Top 5%,245815
+1996,Hispanic,Lowest,10536
+1996,Hispanic,Second,24765
+1996,Hispanic,Middle,40551
+1996,Hispanic,Fourth,63880
+1996,Hispanic,Highest,137025
+1996,Hispanic,Top 5%,237560
+1995,Hispanic,Lowest,9828
+1995,Hispanic,Second,23237
+1995,Hispanic,Middle,38489
+1995,Hispanic,Fourth,60616
+1995,Hispanic,Highest,128533
+1995,Hispanic,Top 5%,217105
+1994,Hispanic,Lowest,9892
+1994,Hispanic,Second,23512
+1994,Hispanic,Middle,40015
+1994,Hispanic,Fourth,62833
+1994,Hispanic,Highest,133986
+1994,Hispanic,Top 5%,227136
+1993,Hispanic,Lowest,10289
+1993,Hispanic,Second,24093
+1993,Hispanic,Middle,40014
+1993,Hispanic,Fourth,61218
+1993,Hispanic,Highest,128999
+1993,Hispanic,Top 5%,216219
+1992,Hispanic,Lowest,10163
+1992,Hispanic,Second,24286
+1992,Hispanic,Middle,40455
+1992,Hispanic,Fourth,62255
+1992,Hispanic,Highest,120962
+1992,Hispanic,Top 5%,186453
+1991,Hispanic,Lowest,10513
+1991,Hispanic,Second,25006
+1991,Hispanic,Middle,41806
+1991,Hispanic,Fourth,64352
+1991,Hispanic,Highest,123322
+1991,Hispanic,Top 5%,188039
+1990,Hispanic,Lowest,10688
+1990,Hispanic,Second,25193
+1990,Hispanic,Middle,42385
+1990,Hispanic,Fourth,64536
+1990,Hispanic,Highest,123275
+1990,Hispanic,Top 5%,190659
+1989,Hispanic,Lowest,10379
+1989,Hispanic,Second,26670
+1989,Hispanic,Middle,44006
+1989,Hispanic,Fourth,68197
+1989,Hispanic,Highest,130146
+1989,Hispanic,Top 5%,202843
+1988,Hispanic,Lowest,9882
+1988,Hispanic,Second,25278
+1988,Hispanic,Middle,42311
+1988,Hispanic,Fourth,65424
+1988,Hispanic,Highest,127889
+1988,Hispanic,Top 5%,205487
+1987,Hispanic,Lowest,9890
+1987,Hispanic,Second,24460
+1987,Hispanic,Middle,41342
+1987,Hispanic,Fourth,64374
+1987,Hispanic,Highest,127481
+1987,Hispanic,Top 5%,205633
+1986,Hispanic,Lowest,10020
+1986,Hispanic,Second,24475
+1986,Hispanic,Middle,40933
+1986,Hispanic,Fourth,64085
+1986,Hispanic,Highest,119223
+1986,Hispanic,Top 5%,174601
+1985,Hispanic,Lowest,10175
+1985,Hispanic,Second,23417
+1985,Hispanic,Middle,39802
+1985,Hispanic,Fourth,61360
+1985,Hispanic,Highest,113175
+1985,Hispanic,Top 5%,164663
+1984,Hispanic,Lowest,9619
+1984,Hispanic,Second,23610
+1984,Hispanic,Middle,40162
+1984,Hispanic,Fourth,61848
+1984,Hispanic,Highest,113046
+1984,Hispanic,Top 5%,167860
+1983,Hispanic,Lowest,9753
+1983,Hispanic,Second,22840
+1983,Hispanic,Middle,38575
+1983,Hispanic,Fourth,58659
+1983,Hispanic,Highest,106962
+1983,Hispanic,Top 5%,154889
+1982,Hispanic,Lowest,9883
+1982,Hispanic,Second,22975
+1982,Hispanic,Middle,38546
+1982,Hispanic,Fourth,58872
+1982,Hispanic,Highest,108792
+1982,Hispanic,Top 5%,162240
+1981,Hispanic,Lowest,10851
+1981,Hispanic,Second,25494
+1981,Hispanic,Middle,41401
+1981,Hispanic,Fourth,61480
+1981,Hispanic,Highest,109423
+1981,Hispanic,Top 5%,158625
+1980,Hispanic,Lowest,10501
+1980,Hispanic,Second,25058
+1980,Hispanic,Middle,40396
+1980,Hispanic,Fourth,61152
+1980,Hispanic,Highest,109854
+1980,Hispanic,Top 5%,162665
+1979,Hispanic,Lowest,11605
+1979,Hispanic,Second,27258
+1979,Hispanic,Middle,43055
+1979,Hispanic,Fourth,63715
+1979,Hispanic,Highest,114264
+1979,Hispanic,Top 5%,169343
+1978,Hispanic,Lowest,11724
+1978,Hispanic,Second,26918
+1978,Hispanic,Middle,42407
+1978,Hispanic,Fourth,62653
+1978,Hispanic,Highest,107703
+1978,Hispanic,Top 5%,155826
+1977,Hispanic,Lowest,11754
+1977,Hispanic,Second,26008
+1977,Hispanic,Middle,40825
+1977,Hispanic,Fourth,59623
+1977,Hispanic,Highest,103906
+1977,Hispanic,Top 5%,150958
+1976,Hispanic,Lowest,10865
+1976,Hispanic,Second,24155
+1976,Hispanic,Middle,38986
+1976,Hispanic,Fourth,58134
+1976,Hispanic,Highest,99496
+1976,Hispanic,Top 5%,142914
+1975,Hispanic,Lowest,10602
+1975,Hispanic,Second,24206
+1975,Hispanic,Middle,38322
+1975,Hispanic,Fourth,56588
+1975,Hispanic,Highest,98267
+1975,Hispanic,Top 5%,147169
+1974,Hispanic,Lowest,12280
+1974,Hispanic,Second,26280
+1974,Hispanic,Middle,41429
+1974,Hispanic,Fourth,59663
+1974,Hispanic,Highest,102213
+1974,Hispanic,Top 5%,149343
+1973,Hispanic,Lowest,12357
+1973,Hispanic,Second,27598
+1973,Hispanic,Middle,42153
+1973,Hispanic,Fourth,60807
+1973,Hispanic,Highest,100902
+1973,Hispanic,Top 5%,143658
+1972,Hispanic,Lowest,12583
+1972,Hispanic,Second,26777
+1972,Hispanic,Middle,41234
+1972,Hispanic,Fourth,57544
+1972,Hispanic,Highest,101370
+1972,Hispanic,Top 5%,154973
+2019,White Alone,Lowest,17028
+2019,White Alone,Second,43526
+2019,White Alone,Middle,72471
+2019,White Alone,Fourth,115070
+2019,White Alone,Highest,260565
+2019,White Alone,Top 5%,461671
+2018,White Alone,Lowest,15866
+2018,White Alone,Second,40923
+2018,White Alone,Middle,68366
+2018,White Alone,Fourth,107366
+2018,White Alone,Highest,245729
+2018,White Alone,Top 5%,439380
+2017,White Alone,Lowest,15525
+2017,White Alone,Second,39708
+2017,White Alone,Middle,67890
+2017,White Alone,Fourth,107574
+2017,White Alone,Highest,236707
+2017,White Alone,Top 5%,409490
+2016,White Alone,Lowest,15440
+2016,White Alone,Second,39378
+2016,White Alone,Middle,66323
+2016,White Alone,Fourth,105320
+2016,White Alone,Highest,233478
+2016,White Alone,Top 5%,408122
+2015,White Alone,Lowest,15197
+2015,White Alone,Second,37785
+2015,White Alone,Middle,64798
+2015,White Alone,Fourth,103198
+2015,White Alone,Highest,222675
+2015,White Alone,Top 5%,384068
+2014,White Alone,Lowest,14078
+2014,White Alone,Second,36064
+2014,White Alone,Middle,61764
+2014,White Alone,Fourth,98696
+2014,White Alone,Highest,215785
+2014,White Alone,Top 5%,369479
+2013,White Alone,Lowest,14190
+2013,White Alone,Second,36272
+2013,White Alone,Middle,62414
+2013,White Alone,Fourth,98526
+2013,White Alone,Highest,216351
+2013,White Alone,Top 5%,369835
+2012,White Alone,Lowest,14409
+2012,White Alone,Second,35574
+2012,White Alone,Middle,60308
+2012,White Alone,Fourth,95271
+2012,White Alone,Highest,209518
+2012,White Alone,Top 5%,367727
+2011,White Alone,Lowest,14457
+2011,White Alone,Second,35856
+2011,White Alone,Middle,59970
+2011,White Alone,Fourth,95004
+2011,White Alone,Highest,209442
+2011,White Alone,Top 5%,366419
+2010,White Alone,Lowest,14558
+2010,White Alone,Second,36084
+2010,White Alone,Middle,60996
+2010,White Alone,Fourth,96525
+2010,White Alone,Highest,205539
+2010,White Alone,Top 5%,349881
+2009,White Alone,Lowest,15379
+2009,White Alone,Second,37372
+2009,White Alone,Middle,62248
+2009,White Alone,Fourth,97571
+2009,White Alone,Highest,208748
+2009,White Alone,Top 5%,358938
+2008,White Alone,Lowest,15334
+2008,White Alone,Second,37404
+2008,White Alone,Middle,62910
+2008,White Alone,Fourth,98528
+2008,White Alone,Highest,209528
+2008,White Alone,Top 5%,361544
+2007,White Alone,Lowest,15856
+2007,White Alone,Second,38774
+2007,White Alone,Middle,64810
+2007,White Alone,Fourth,101439
+2007,White Alone,Highest,213783
+2007,White Alone,Top 5%,365788
+2006,White Alone,Lowest,16026
+2006,White Alone,Second,38983
+2006,White Alone,Middle,64308
+2006,White Alone,Fourth,100702
+2006,White Alone,Highest,219189
+2006,White Alone,Top 5%,387290
+2005,White Alone,Lowest,15598
+2005,White Alone,Second,38335
+2005,White Alone,Middle,63762
+2005,White Alone,Fourth,99011
+2005,White Alone,Highest,216104
+2005,White Alone,Top 5%,382421
+2004,White Alone,Lowest,15377
+2004,White Alone,Second,37754
+2004,White Alone,Middle,63301
+2004,White Alone,Fourth,98640
+2004,White Alone,Highest,211689
+2004,White Alone,Top 5%,369477
+2003,White Alone,Lowest,15461
+2003,White Alone,Second,38127
+2003,White Alone,Middle,63661
+2003,White Alone,Fourth,99736
+2003,White Alone,Highest,212097
+2003,White Alone,Top 5%,367900
+2002,White Alone,Lowest,15708
+2002,White Alone,Second,38492
+2002,White Alone,Middle,64224
+2002,White Alone,Fourth,99537
+2002,White Alone,Highest,210735
+2002,White Alone,Top 5%,368605
+2001,White Alone,Lowest,16094
+2001,White Alone,Second,39061
+2001,White Alone,Middle,64600
+2001,White Alone,Fourth,100247
+2001,White Alone,Highest,217962
+2001,White Alone,Top 5%,389617
+2000,White Alone,Lowest,16434
+2000,White Alone,Second,39834
+2000,White Alone,Middle,65580
+2000,White Alone,Fourth,100963
+2000,White Alone,Highest,218255
+2000,White Alone,Top 5%,389285
+1999,White Alone,Lowest,16798
+1999,White Alone,Second,39688
+1999,White Alone,Middle,65472
+1999,White Alone,Fourth,100688
+1999,White Alone,Highest,213932
+1999,White Alone,Top 5%,374845
+1998,White Alone,Lowest,16132
+1998,White Alone,Second,39176
+1998,White Alone,Middle,64502
+1998,White Alone,Fourth,98203
+1998,White Alone,Highest,208058
+1998,White Alone,Top 5%,366044
+1997,White Alone,Lowest,15503
+1997,White Alone,Second,37542
+1997,White Alone,Middle,62173
+1997,White Alone,Fourth,95285
+1997,White Alone,Highest,202979
+1997,White Alone,Top 5%,358719
+1996,White Alone,Lowest,15496
+1996,White Alone,Second,36751
+1996,White Alone,Middle,60717
+1996,White Alone,Fourth,92616
+1996,White Alone,Highest,193172
+1996,White Alone,Top 5%,335738
+1995,White Alone,Lowest,15429
+1995,White Alone,Second,36452
+1995,White Alone,Middle,59787
+1995,White Alone,Fourth,90848
+1995,White Alone,Highest,187934
+1995,White Alone,Top 5%,323148
+1994,White Alone,Lowest,14692
+1994,White Alone,Second,35343
+1994,White Alone,Middle,58322
+1994,White Alone,Fourth,89523
+1994,White Alone,Highest,187468
+1994,White Alone,Top 5%,325676
+1993,White Alone,Lowest,14471
+1993,White Alone,Second,35249
+1993,White Alone,Middle,57805
+1993,White Alone,Fourth,88223
+1993,White Alone,Highest,182371
+1993,White Alone,Top 5%,313557
+1992,White Alone,Lowest,14671
+1992,White Alone,Second,35300
+1992,White Alone,Middle,57942
+1992,White Alone,Fourth,87586
+1992,White Alone,Highest,168055
+1992,White Alone,Top 5%,266835
+1991,White Alone,Lowest,14961
+1991,White Alone,Second,35895
+1991,White Alone,Middle,58202
+1991,White Alone,Fourth,87496
+1991,White Alone,Highest,166202
+1991,White Alone,Top 5%,259111
+1990,White Alone,Lowest,15319
+1990,White Alone,Second,36864
+1990,White Alone,Middle,59308
+1990,White Alone,Fourth,88387
+1990,White Alone,Highest,170266
+1990,White Alone,Top 5%,271577
+1989,White Alone,Lowest,15627
+1989,White Alone,Second,37381
+1989,White Alone,Middle,60643
+1989,White Alone,Fourth,90368
+1989,White Alone,Highest,175683
+1989,White Alone,Top 5%,284369
+1988,White Alone,Lowest,15148
+1988,White Alone,Second,36844
+1988,White Alone,Middle,59971
+1988,White Alone,Fourth,88974
+1988,White Alone,Highest,168562
+1988,White Alone,Top 5%,266159
+1987,White Alone,Lowest,14902
+1987,White Alone,Second,36445
+1987,White Alone,Middle,59402
+1987,White Alone,Fourth,88136
+1987,White Alone,Highest,165897
+1987,White Alone,Top 5%,261594
+1986,White Alone,Lowest,14403
+1986,White Alone,Second,35759
+1986,White Alone,Middle,58433
+1986,White Alone,Fourth,86617
+1986,White Alone,Highest,162527
+1986,White Alone,Top 5%,254783
+1985,White Alone,Lowest,14063
+1985,White Alone,Second,34735
+1985,White Alone,Middle,56370
+1985,White Alone,Fourth,83528
+1985,White Alone,Highest,155074
+1985,White Alone,Top 5%,239394
+1984,White Alone,Lowest,14146
+1984,White Alone,Second,34317
+1984,White Alone,Middle,55511
+1984,White Alone,Fourth,82184
+1984,White Alone,Highest,149883
+1984,White Alone,Top 5%,226285
+1983,White Alone,Lowest,13799
+1983,White Alone,Second,33532
+1983,White Alone,Middle,54025
+1983,White Alone,Fourth,79794
+1983,White Alone,Highest,145398
+1983,White Alone,Top 5%,219770
+1982,White Alone,Lowest,13477
+1982,White Alone,Second,33313
+1982,White Alone,Middle,53774
+1982,White Alone,Fourth,78907
+1982,White Alone,Highest,143560
+1982,White Alone,Top 5%,216468
+1981,White Alone,Lowest,13774
+1981,White Alone,Second,33403
+1981,White Alone,Middle,54166
+1981,White Alone,Fourth,79298
+1981,White Alone,Highest,140675
+1981,White Alone,Top 5%,209067
+1980,White Alone,Lowest,14071
+1980,White Alone,Second,34211
+1980,White Alone,Middle,55112
+1980,White Alone,Fourth,79868
+1980,White Alone,Highest,141287
+1980,White Alone,Top 5%,211065
+1979,White Alone,Lowest,14464
+1979,White Alone,Second,35212
+1979,White Alone,Middle,56785
+1979,White Alone,Fourth,81967
+1979,White Alone,Highest,146331
+1979,White Alone,Top 5%,223311
+1978,White Alone,Lowest,14440
+1978,White Alone,Second,34841
+1978,White Alone,Middle,56414
+1978,White Alone,Fourth,81348
+1978,White Alone,Highest,144513
+1978,White Alone,Top 5%,220617
+1977,White Alone,Lowest,13865
+1977,White Alone,Second,33947
+1977,White Alone,Middle,54976
+1977,White Alone,Fourth,79227
+1977,White Alone,Highest,140311
+1977,White Alone,Top 5%,215094
+1976,White Alone,Lowest,13966
+1976,White Alone,Second,33811
+1976,White Alone,Middle,54492
+1976,White Alone,Fourth,77926
+1976,White Alone,Highest,137224
+1976,White Alone,Top 5%,209545
+1975,White Alone,Lowest,13600
+1975,White Alone,Second,33049
+1975,White Alone,Middle,53109
+1975,White Alone,Fourth,76076
+1975,White Alone,Highest,133699
+1975,White Alone,Top 5%,203410
+1974,White Alone,Lowest,14085
+1974,White Alone,Second,34682
+1974,White Alone,Middle,54618
+1974,White Alone,Fourth,77832
+1974,White Alone,Highest,137134
+1974,White Alone,Top 5%,208585
+1973,White Alone,Lowest,14090
+1973,White Alone,Second,35252
+1973,White Alone,Middle,56501
+1973,White Alone,Fourth,80184
+1973,White Alone,Highest,142616
+1973,White Alone,Top 5%,219917
+1972,White Alone,Lowest,13520
+1972,White Alone,Second,34745
+1972,White Alone,Middle,55313
+1972,White Alone,Fourth,78073
+1972,White Alone,Highest,139634
+1972,White Alone,Top 5%,216518
+1971,White Alone,Lowest,12729
+1971,White Alone,Second,33366
+1971,White Alone,Middle,52857
+1971,White Alone,Fourth,74058
+1971,White Alone,Highest,130652
+1971,White Alone,Top 5%,200719
+1970,White Alone,Lowest,12662
+1970,White Alone,Second,33920
+1970,White Alone,Middle,53323
+1970,White Alone,Fourth,74234
+1970,White Alone,Highest,130820
+1970,White Alone,Top 5%,201366
+1969,White Alone,Lowest,12921
+1969,White Alone,Second,34608
+1969,White Alone,Middle,53885
+1969,White Alone,Fourth,74397
+1969,White Alone,Highest,130223
+1969,White Alone,Top 5%,201196
+1968,White Alone,Lowest,12587
+1968,White Alone,Second,33504
+1968,White Alone,Middle,51683
+1968,White Alone,Fourth,71135
+1968,White Alone,Highest,123070
+1968,White Alone,Top 5%,188844
+1967,White Alone,Lowest,11550
+1967,White Alone,Second,31952
+1967,White Alone,Middle,49542
+1967,White Alone,Fourth,68401
+1967,White Alone,Highest,122312
+1967,White Alone,Top 5%,193102
+2019,"White, Not Hispanic",Lowest,17814
+2019,"White, Not Hispanic",Second,45661
+2019,"White, Not Hispanic",Middle,76252
+2019,"White, Not Hispanic",Fourth,120584
+2019,"White, Not Hispanic",Highest,272981
+2019,"White, Not Hispanic",Top 5%,485622
+2018,"White, Not Hispanic",Lowest,16720
+2018,"White, Not Hispanic",Second,43231
+2018,"White, Not Hispanic",Middle,72093
+2018,"White, Not Hispanic",Fourth,112588
+2018,"White, Not Hispanic",Highest,255574
+2018,"White, Not Hispanic",Top 5%,454495
+2017,"White, Not Hispanic",Lowest,16233
+2017,"White, Not Hispanic",Second,41542
+2017,"White, Not Hispanic",Middle,71205
+2017,"White, Not Hispanic",Fourth,112485
+2017,"White, Not Hispanic",Highest,245860
+2017,"White, Not Hispanic",Top 5%,424564
+2016,"White, Not Hispanic",Lowest,16163
+2016,"White, Not Hispanic",Second,41241
+2016,"White, Not Hispanic",Middle,69501
+2016,"White, Not Hispanic",Fourth,110013
+2016,"White, Not Hispanic",Highest,241201
+2016,"White, Not Hispanic",Top 5%,417881
+2015,"White, Not Hispanic",Lowest,15984
+2015,"White, Not Hispanic",Second,39910
+2015,"White, Not Hispanic",Middle,68403
+2015,"White, Not Hispanic",Fourth,108008
+2015,"White, Not Hispanic",Highest,229470
+2015,"White, Not Hispanic",Top 5%,393177
+2014,"White, Not Hispanic",Lowest,14730
+2014,"White, Not Hispanic",Second,37988
+2014,"White, Not Hispanic",Middle,65075
+2014,"White, Not Hispanic",Fourth,103569
+2014,"White, Not Hispanic",Highest,224342
+2014,"White, Not Hispanic",Top 5%,382976
+2013,"White, Not Hispanic",Lowest,14965
+2013,"White, Not Hispanic",Second,38734
+2013,"White, Not Hispanic",Middle,66156
+2013,"White, Not Hispanic",Fourth,103070
+2013,"White, Not Hispanic",Highest,223529
+2013,"White, Not Hispanic",Top 5%,379885
+2012,"White, Not Hispanic",Lowest,15311
+2012,"White, Not Hispanic",Second,37644
+2012,"White, Not Hispanic",Middle,63735
+2012,"White, Not Hispanic",Fourth,99684
+2012,"White, Not Hispanic",Highest,217816
+2012,"White, Not Hispanic",Top 5%,382539
+2011,"White, Not Hispanic",Lowest,15279
+2011,"White, Not Hispanic",Second,37731
+2011,"White, Not Hispanic",Middle,63203
+2011,"White, Not Hispanic",Fourth,99379
+2011,"White, Not Hispanic",Highest,217657
+2011,"White, Not Hispanic",Top 5%,380897
+2010,"White, Not Hispanic",Lowest,15321
+2010,"White, Not Hispanic",Second,37971
+2010,"White, Not Hispanic",Middle,64154
+2010,"White, Not Hispanic",Fourth,100718
+2010,"White, Not Hispanic",Highest,212703
+2010,"White, Not Hispanic",Top 5%,361318
+2009,"White, Not Hispanic",Lowest,16173
+2009,"White, Not Hispanic",Second,39277
+2009,"White, Not Hispanic",Middle,65124
+2009,"White, Not Hispanic",Fourth,101430
+2009,"White, Not Hispanic",Highest,215414
+2009,"White, Not Hispanic",Top 5%,370327
+2008,"White, Not Hispanic",Lowest,16134
+2008,"White, Not Hispanic",Second,39334
+2008,"White, Not Hispanic",Middle,66184
+2008,"White, Not Hispanic",Fourth,102508
+2008,"White, Not Hispanic",Highest,216868
+2008,"White, Not Hispanic",Top 5%,374319
+2007,"White, Not Hispanic",Lowest,16537
+2007,"White, Not Hispanic",Second,40663
+2007,"White, Not Hispanic",Middle,67939
+2007,"White, Not Hispanic",Fourth,105839
+2007,"White, Not Hispanic",Highest,221304
+2007,"White, Not Hispanic",Top 5%,378365
+2006,"White, Not Hispanic",Lowest,16688
+2006,"White, Not Hispanic",Second,40664
+2006,"White, Not Hispanic",Middle,67267
+2006,"White, Not Hispanic",Fourth,104687
+2006,"White, Not Hispanic",Highest,226670
+2006,"White, Not Hispanic",Top 5%,400642
+2005,"White, Not Hispanic",Lowest,16235
+2005,"White, Not Hispanic",Second,40107
+2005,"White, Not Hispanic",Middle,66673
+2005,"White, Not Hispanic",Fourth,103025
+2005,"White, Not Hispanic",Highest,224103
+2005,"White, Not Hispanic",Top 5%,398341
+2004,"White, Not Hispanic",Lowest,16007
+2004,"White, Not Hispanic",Second,39440
+2004,"White, Not Hispanic",Middle,66246
+2004,"White, Not Hispanic",Fourth,102453
+2004,"White, Not Hispanic",Highest,218549
+2004,"White, Not Hispanic",Top 5%,381829
+2003,"White, Not Hispanic",Lowest,16102
+2003,"White, Not Hispanic",Second,39877
+2003,"White, Not Hispanic",Middle,66672
+2003,"White, Not Hispanic",Fourth,103604
+2003,"White, Not Hispanic",Highest,218851
+2003,"White, Not Hispanic",Top 5%,380084
+2002,"White, Not Hispanic",Lowest,16277
+2002,"White, Not Hispanic",Second,40091
+2002,"White, Not Hispanic",Middle,66939
+2002,"White, Not Hispanic",Fourth,102986
+2002,"White, Not Hispanic",Highest,216294
+2002,"White, Not Hispanic",Top 5%,377446
+2001,"White, Not Hispanic",Lowest,16593
+2001,"White, Not Hispanic",Second,40445
+2001,"White, Not Hispanic",Middle,67052
+2001,"White, Not Hispanic",Fourth,103469
+2001,"White, Not Hispanic",Highest,224387
+2001,"White, Not Hispanic",Top 5%,401506
+2000,"White, Not Hispanic",Lowest,16927
+2000,"White, Not Hispanic",Second,41245
+2000,"White, Not Hispanic",Middle,67981
+2000,"White, Not Hispanic",Fourth,104226
+2000,"White, Not Hispanic",Highest,224105
+2000,"White, Not Hispanic",Top 5%,398987
+1999,"White, Not Hispanic",Lowest,17437
+1999,"White, Not Hispanic",Second,41326
+1999,"White, Not Hispanic",Middle,68072
+1999,"White, Not Hispanic",Fourth,103933
+1999,"White, Not Hispanic",Highest,220122
+1999,"White, Not Hispanic",Top 5%,385797
+1998,"White, Not Hispanic",Lowest,16990
+1998,"White, Not Hispanic",Second,41020
+1998,"White, Not Hispanic",Middle,67182
+1998,"White, Not Hispanic",Fourth,101425
+1998,"White, Not Hispanic",Highest,213101
+1998,"White, Not Hispanic",Top 5%,374052
+1997,"White, Not Hispanic",Lowest,16323
+1997,"White, Not Hispanic",Second,39283
+1997,"White, Not Hispanic",Middle,64714
+1997,"White, Not Hispanic",Fourth,98319
+1997,"White, Not Hispanic",Highest,208092
+1997,"White, Not Hispanic",Top 5%,367805
+1996,"White, Not Hispanic",Lowest,16221
+1996,"White, Not Hispanic",Second,38469
+1996,"White, Not Hispanic",Middle,63129
+1996,"White, Not Hispanic",Fourth,95369
+1996,"White, Not Hispanic",Highest,197626
+1996,"White, Not Hispanic",Top 5%,343103
+1995,"White, Not Hispanic",Lowest,16327
+1995,"White, Not Hispanic",Second,38369
+1995,"White, Not Hispanic",Middle,62267
+1995,"White, Not Hispanic",Fourth,93677
+1995,"White, Not Hispanic",Highest,192541
+1995,"White, Not Hispanic",Top 5%,330780
+1994,"White, Not Hispanic",Lowest,15353
+1994,"White, Not Hispanic",Second,36716
+1994,"White, Not Hispanic",Middle,60178
+1994,"White, Not Hispanic",Fourth,91756
+1994,"White, Not Hispanic",Highest,191156
+1994,"White, Not Hispanic",Top 5%,332020
+1993,"White, Not Hispanic",Lowest,15051
+1993,"White, Not Hispanic",Second,36603
+1993,"White, Not Hispanic",Middle,59758
+1993,"White, Not Hispanic",Fourth,90495
+1993,"White, Not Hispanic",Highest,186176
+1993,"White, Not Hispanic",Top 5%,319969
+1992,"White, Not Hispanic",Lowest,15257
+1992,"White, Not Hispanic",Second,36609
+1992,"White, Not Hispanic",Middle,59790
+1992,"White, Not Hispanic",Fourth,89713
+1992,"White, Not Hispanic",Highest,171411
+1992,"White, Not Hispanic",Top 5%,272169
+1991,"White, Not Hispanic",Lowest,15482
+1991,"White, Not Hispanic",Second,37028
+1991,"White, Not Hispanic",Middle,59728
+1991,"White, Not Hispanic",Fourth,89319
+1991,"White, Not Hispanic",Highest,168984
+1991,"White, Not Hispanic",Top 5%,263570
+1990,"White, Not Hispanic",Lowest,15874
+1990,"White, Not Hispanic",Second,38029
+1990,"White, Not Hispanic",Middle,60845
+1990,"White, Not Hispanic",Fourth,90314
+1990,"White, Not Hispanic",Highest,173281
+1990,"White, Not Hispanic",Top 5%,276384
+1989,"White, Not Hispanic",Lowest,16180
+1989,"White, Not Hispanic",Second,38460
+1989,"White, Not Hispanic",Middle,62043
+1989,"White, Not Hispanic",Fourth,92021
+1989,"White, Not Hispanic",Highest,178604
+1989,"White, Not Hispanic",Top 5%,289292
+1988,"White, Not Hispanic",Lowest,15745
+1988,"White, Not Hispanic",Second,38029
+1988,"White, Not Hispanic",Middle,61505
+1988,"White, Not Hispanic",Fourth,90733
+1988,"White, Not Hispanic",Highest,171029
+1988,"White, Not Hispanic",Top 5%,269528
+1987,"White, Not Hispanic",Lowest,15455
+1987,"White, Not Hispanic",Second,37605
+1987,"White, Not Hispanic",Middle,60920
+1987,"White, Not Hispanic",Fourth,89792
+1987,"White, Not Hispanic",Highest,168149
+1987,"White, Not Hispanic",Top 5%,264705
+1986,"White, Not Hispanic",Lowest,14881
+1986,"White, Not Hispanic",Second,36837
+1986,"White, Not Hispanic",Middle,59822
+1986,"White, Not Hispanic",Fourth,88183
+1986,"White, Not Hispanic",Highest,165117
+1986,"White, Not Hispanic",Top 5%,259158
+1985,"White, Not Hispanic",Lowest,14494
+1985,"White, Not Hispanic",Second,35762
+1985,"White, Not Hispanic",Middle,57672
+1985,"White, Not Hispanic",Fourth,85045
+1985,"White, Not Hispanic",Highest,157492
+1985,"White, Not Hispanic",Top 5%,243291
+1984,"White, Not Hispanic",Lowest,14606
+1984,"White, Not Hispanic",Second,35225
+1984,"White, Not Hispanic",Middle,56621
+1984,"White, Not Hispanic",Fourth,83533
+1984,"White, Not Hispanic",Highest,151895
+1984,"White, Not Hispanic",Top 5%,229101
+1983,"White, Not Hispanic",Lowest,14225
+1983,"White, Not Hispanic",Second,34392
+1983,"White, Not Hispanic",Middle,55163
+1983,"White, Not Hispanic",Fourth,81129
+1983,"White, Not Hispanic",Highest,147410
+1983,"White, Not Hispanic",Top 5%,222818
+1982,"White, Not Hispanic",Lowest,13804
+1982,"White, Not Hispanic",Second,34069
+1982,"White, Not Hispanic",Middle,54734
+1982,"White, Not Hispanic",Fourth,80015
+1982,"White, Not Hispanic",Highest,145168
+1982,"White, Not Hispanic",Top 5%,218602
+1981,"White, Not Hispanic",Lowest,13999
+1981,"White, Not Hispanic",Second,33955
+1981,"White, Not Hispanic",Middle,55008
+1981,"White, Not Hispanic",Fourth,80261
+1981,"White, Not Hispanic",Highest,142139
+1981,"White, Not Hispanic",Top 5%,211159
+1980,"White, Not Hispanic",Lowest,14352
+1980,"White, Not Hispanic",Second,34889
+1980,"White, Not Hispanic",Middle,56034
+1980,"White, Not Hispanic",Fourth,80830
+1980,"White, Not Hispanic",Highest,142709
+1980,"White, Not Hispanic",Top 5%,213029
+1979,"White, Not Hispanic",Lowest,14665
+1979,"White, Not Hispanic",Second,35766
+1979,"White, Not Hispanic",Middle,57598
+1979,"White, Not Hispanic",Fourth,82876
+1979,"White, Not Hispanic",Highest,147721
+1979,"White, Not Hispanic",Top 5%,225498
+1978,"White, Not Hispanic",Lowest,14624
+1978,"White, Not Hispanic",Second,35360
+1978,"White, Not Hispanic",Middle,57232
+1978,"White, Not Hispanic",Fourth,82253
+1978,"White, Not Hispanic",Highest,146002
+1978,"White, Not Hispanic",Top 5%,223062
+1977,"White, Not Hispanic",Lowest,14016
+1977,"White, Not Hispanic",Second,34502
+1977,"White, Not Hispanic",Middle,55816
+1977,"White, Not Hispanic",Fourth,80210
+1977,"White, Not Hispanic",Highest,141791
+1977,"White, Not Hispanic",Top 5%,217619
+1976,"White, Not Hispanic",Lowest,14200
+1976,"White, Not Hispanic",Second,34442
+1976,"White, Not Hispanic",Middle,55336
+1976,"White, Not Hispanic",Fourth,78844
+1976,"White, Not Hispanic",Highest,138682
+1976,"White, Not Hispanic",Top 5%,211958
+1975,"White, Not Hispanic",Lowest,13795
+1975,"White, Not Hispanic",Second,33629
+1975,"White, Not Hispanic",Middle,53910
+1975,"White, Not Hispanic",Fourth,76977
+1975,"White, Not Hispanic",Highest,134990
+1975,"White, Not Hispanic",Top 5%,205312
+1974,"White, Not Hispanic",Lowest,14211
+1974,"White, Not Hispanic",Second,35240
+1974,"White, Not Hispanic",Middle,55331
+1974,"White, Not Hispanic",Fourth,78718
+1974,"White, Not Hispanic",Highest,138438
+1974,"White, Not Hispanic",Top 5%,210671
+1973,"White, Not Hispanic",Lowest,14194
+1973,"White, Not Hispanic",Second,35773
+1973,"White, Not Hispanic",Middle,57223
+1973,"White, Not Hispanic",Fourth,81092
+1973,"White, Not Hispanic",Highest,144107
+1973,"White, Not Hispanic",Top 5%,222346
+1972,"White, Not Hispanic",Lowest,13602
+1972,"White, Not Hispanic",Second,35272
+1972,"White, Not Hispanic",Middle,56113
+1972,"White, Not Hispanic",Fourth,79010
+1972,"White, Not Hispanic",Highest,140998
+1972,"White, Not Hispanic",Top 5%,218523
