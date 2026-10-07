@@ -170,7 +170,12 @@ figcaption { font-size: 0.8rem; line-height: 1.4; color: var(--ink-soft); }
 .contact-card h2 { border-color: var(--paper); color: var(--paper); }
 .contact-card h2 small { color: inherit; opacity: 0.7; }
 .contact-card p { color: inherit; opacity: 0.85; }
-.contact-rows { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.contact-rows { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; }
+@media (max-width: 1000px) { .contact-rows { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.viz-link { display: grid; gap: 0.3rem; padding: 1.1rem 1.25rem; border: 1px solid var(--gold); border-radius: 3px; background: var(--gold-wash); text-decoration: none; }
+.viz-link strong { font: 600 1.05rem/1.3 var(--body); }
+.viz-link .sub { color: var(--ink-soft); font-size: 0.88rem; }
+.viz-link:hover strong { color: var(--gold); }
 @media (max-width: 700px) { .contact-rows { grid-template-columns: minmax(0, 1fr); } }
 .contact-rows div { display: grid; gap: 0.25rem; min-width: 0; }
 .contact-rows span { font: 500 0.7rem/1.2 var(--mono); text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.7; }
@@ -194,6 +199,7 @@ footer { font: 400 0.75rem/1.5 var(--mono); color: var(--ink-soft); }
       <li><span>Email</span><a href="mailto:franklynstanislaus@gmail.com">franklynstanislaus@gmail.com</a></li>
       <li><span>Phone</span><a href="tel:+18703606559">870-360-6559</a></li>
       <li><span>LinkedIn</span><a href="https://www.linkedin.com/in/franklyn-stanislaus-0446bb1b0/" target="_blank" rel="noopener">Franklyn Stanislaus</a></li>
+      <li><span>Tableau</span><a href="https://public.tableau.com/app/profile/franklyn.stanislaus/vizzes" target="_blank" rel="noopener">Dashboard portfolio</a></li>
     </ul>
     <div class="actions">
       <a class="btn primary" id="resume-pdf" href="assets/docs/Franklyn_Stanislaus_Resume.pdf" target="_blank" rel="noopener">
@@ -320,6 +326,11 @@ footer { font: 400 0.75rem/1.5 var(--mono); color: var(--ink-soft); }
         <li><h3>Subscription vs. usage analysis</h3><span class="sub">Compared subscription and usage data to surface business insights.</span></li>
         <li><h3>Recruitment strategy database (ADE dataset)</h3><span class="sub">Developed a data-driven recruitment strategy database using the ADE dataset.</span></li>
       </ul>
+      <a class="viz-link" href="https://public.tableau.com/app/profile/franklyn.stanislaus/vizzes" target="_blank" rel="noopener">
+        <span class="eyebrow">Live portfolio</span>
+        <strong>Explore my interactive dashboards on Tableau Public ↗</strong>
+        <span class="sub">Click through, filter and explore the data behind my published Tableau work.</span>
+      </a>
     </section>
 
     <section id="education" aria-labelledby="edu-h">
@@ -396,6 +407,7 @@ footer { font: 400 0.75rem/1.5 var(--mono); color: var(--ink-soft); }
         <div><span>Email</span><b>franklynstanislaus@gmail.com</b><button class="copy" type="button" data-copy="franklynstanislaus@gmail.com">Copy</button></div>
         <div><span>Phone</span><b>870-360-6559</b><button class="copy" type="button" data-copy="870-360-6559">Copy</button></div>
         <div><span>LinkedIn</span><a href="https://www.linkedin.com/in/franklyn-stanislaus-0446bb1b0/" target="_blank" rel="noopener">View profile ↗</a></div>
+        <div><span>Tableau Public</span><a href="https://public.tableau.com/app/profile/franklyn.stanislaus/vizzes" target="_blank" rel="noopener">View dashboards ↗</a></div>
       </div>
     </section>
 
