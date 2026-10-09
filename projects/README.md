@@ -54,7 +54,9 @@ Columns in the medals file: `noc`, `country`, `team`, `year`, `city`, `event`, `
 
 **Dashboard:** Add a `race` filter applied to all sheets, and a `year` range slider. Put a one-line takeaway per chart as a text box.
 
-**Notes:** Race categories overlap ("Black Alone" vs "Black Alone or in Combination"), and Census changed its race definitions in 2002. Use one category at a time, and say so in the caption. Brackets are in nominal dollars.
+**Notes:** Race categories overlap ("Black Alone" vs "Black Alone or in Combination"), and Census changed its race definitions in 2002. Use one category at a time, and say so in the caption. All dollar figures, including the bracket boundaries, are already in inflation-adjusted 2019 dollars. The quintile file has no Asian rows, because the source mislabels its two Asian series.
+
+**Full step-by-step walkthrough:** [income-dashboard-guide.md](income-dashboard-guide.md)
 
 ---
 
@@ -72,9 +74,11 @@ Columns in the medals file: `noc`, `country`, `team`, `year`, `city`, `event`, `
 3. **Gap by age.** Use the earnings file. Filter `sex` to Men and Women, `race` to "All Races", and keep only the non-overlapping bands (16 to 19, 20 to 24, 25 to 34, 35 to 44, 45 to 54, 55 to 64, 65 years and over) and exclude the broad groups ("16 years and over", "16 to 24", "25 years and over", "25 to 54", "55 years and over"). `age` to Columns, `AVERAGE(median_weekly_earn)` to Rows, and `sex` to Color as clustered bars. The gap widens with age.
 4. **Largest workforce groups.** Use `n_persons` as bubble size in a packed-bubble chart by `age`. Filter to one `period`, because `n_persons` repeats every quarter.
 
-**Dashboard:** Add a `year` filter and a `race` parameter. Annotate the dip in early 2020 with the pandemic.
+**Dashboard:** Add a `year` filter and a `race` parameter. Annotate early 2020: median pay *jumped* because about 14 million mostly lower-paid full-time workers dropped out of the count.
 
 **Notes:** These are medians for full-time wage and salary workers. They are not adjusted for occupation or hours, so describe them as "median pay" and not "equal pay for equal work". Asian and Black series have fewer respondents and bounce more quarter to quarter.
+
+**Full step-by-step walkthrough:** [pay-gap-dashboard-guide.md](pay-gap-dashboard-guide.md)
 
 ---
 

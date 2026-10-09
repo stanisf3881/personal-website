@@ -54,6 +54,12 @@ d.rename(columns={"number": "households", "income_distribution": "pct_of_househo
 
 q = pd.read_csv(f"{T}/2021/2021-02-09/income_mean.csv")
 q = q[q.dollar_type == "2019 Dollars"].drop(columns="dollar_type")
+# The source labels both Asian series "Asian Alone" in 2019 dollars, so they can't be told apart: drop them.
+q = q[q.race != "Asian Alone"]
+# Match the race labels used in the distribution file.
+q["race"] = q.race.replace({"Hispanic": "Hispanic (Any Race)", "White, Not Hispanic": "White Alone, Not Hispanic"})
+q["quintile_order"] = q.income_quintile.map(
+    {"Lowest": 1, "Second": 2, "Middle": 3, "Fourth": 4, "Highest": 5, "Top 5%": 6})
 q.rename(columns={"income_dollars": "mean_income_2019_dollars"}).to_csv(
     OUT / "us_income_quintiles.csv", index=False)
 
