@@ -29,14 +29,17 @@ def group(e):
     if any(k in e for k in ("100 ", "200 ", "400 ", "60 ", "metres")): return "Sprints"
     return "Other"
 a["event_group"] = a.event.map(group)
-athletes = a[["id", "name", "sex", "age", "height", "weight", "team", "noc", "year", "city",
-              "event", "event_group", "medal"]].rename(columns={"id": "athlete_id"})
+# Early Games list clubs ("Racing Club de France") as the team; label each NOC by its most common team name.
+a["country"] = a.noc.map(a.groupby("noc").team.agg(lambda s: s.value_counts().index[0]))
+a["medal_rank"] = a.medal.map({"Gold": 1, "Silver": 2, "Bronze": 3, "None": 4})
+athletes = a[["id", "name", "sex", "age", "height", "weight", "team", "noc", "country", "year", "city",
+              "event", "event_group", "medal", "medal_rank"]].rename(columns={"id": "athlete_id"})
 athletes.to_csv(OUT / "olympic_athletics_athletes.csv", index=False)
 
 # One row per medal won by a country in an event (relay squads count once, not once per runner).
 medals = (a[a.medal != "None"]
           .drop_duplicates(["noc", "year", "event", "medal"])
-          [["noc", "team", "year", "city", "event", "event_group", "sex", "medal"]])
+          [["noc", "country", "team", "year", "city", "event", "event_group", "sex", "medal", "medal_rank"]])
 medals.to_csv(OUT / "olympic_athletics_medals.csv", index=False)
 
 # ---- 2. U.S. household income (Census CPS ASEC), 1967-2019 ----

@@ -21,7 +21,9 @@ All data comes from the open [TidyTuesday](https://github.com/rfordatascience/ti
 - `olympic_athletics_medals.csv`: one row per medal won by a country in an event (3,003 rows). A relay medal counts once for the country, not once per runner.
 - `olympic_athletics_athletes.csv`: one row per athlete per event (38,624 rows), with age, height, weight, event group and medal (`None` if no medal).
 
-Columns in the medals file: `noc`, `team`, `year`, `city`, `event`, `event_group`, `sex`, `medal`.
+Columns in the medals file: `noc`, `country`, `team`, `year`, `city`, `event`, `event_group`, `sex`, `medal`, `medal_rank`. Use `country` for labels: early Games list clubs in `team`.
+
+**Full step-by-step walkthrough:** [olympic-medals-dashboard-guide.md](olympic-medals-dashboard-guide.md)
 
 **Sheets to build**
 1. **Medal table.** Drag `noc` to Rows, `Number of Records` to Columns, `medal` to Color, and sort descending. Add a Top 10 filter on `noc`.
