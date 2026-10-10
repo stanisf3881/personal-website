@@ -1,0 +1,46 @@
+[
+  {
+    "EntityID": "US01",
+    "EntityName": "Tailwind Traders Inc.",
+    "Country": "United States",
+    "Currency": "USD",
+    "ControllerEmail": "controller.us@tailwind-demo.com",
+    "address": {
+      "City": "Chicago",
+      "Region": "Illinois"
+    }
+  },
+  {
+    "EntityID": "UK01",
+    "EntityName": "Tailwind Traders Ltd",
+    "Country": "United Kingdom",
+    "Currency": "GBP",
+    "ControllerEmail": "controller.uk@tailwind-demo.com",
+    "address": {
+      "City": "Manchester",
+      "Region": "Greater Manchester"
+    }
+  },
+  {
+    "EntityID": "CA01",
+    "EntityName": "Tailwind Traders Canada",
+    "Country": "Canada",
+    "Currency": "CAD",
+    "ControllerEmail": "controller.ca@tailwind-demo.com",
+    "address": {
+      "City": "Toronto",
+      "Region": "Ontario"
+    }
+  },
+  {
+    "EntityID": "MX01",
+    "EntityName": "Tailwind Traders México",
+    "Country": "Mexico",
+    "Currency": "MXN",
+    "ControllerEmail": "controller.mx@tailwind-demo.com",
+    "address": {
+      "City": "Monterrey",
+      "Region": "Nuevo León"
+    }
+  }
+]

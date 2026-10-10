@@ -1,0 +1,13 @@
+AccountCode,AccountName,AccountType,PLOrder
+4000,Retail Bakery Sales,Revenue,1
+4100,Wholesale Sales,Revenue,2
+4200,Catering Sales,Revenue,3
+5000,Flour and Dry Goods,Cost of Goods Sold,4
+5100,Dairy and Eggs,Cost of Goods Sold,5
+5200,Packaging,Cost of Goods Sold,6
+6000,Wages,Operating Expense,7
+6100,Rent,Operating Expense,8
+6200,Utilities,Operating Expense,9
+6300,Marketing,Operating Expense,10
+6400,Equipment Repairs,Operating Expense,11
+6500,Insurance,Operating Expense,12

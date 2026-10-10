@@ -1,0 +1,181 @@
+CustomerID,CustomerName,Region,Segment,PaymentTerms
+C0001,Maple Legal,South,Mid-Market,Net 45
+C0002,Delta Schools,East,Enterprise,Net 60
+C0003,Granite Consulting,East,Mid-Market,Net 45
+C0004,Alder Media,West,Mid-Market,Net 45
+C0005,Alder Legal,South,Small Business,Net 30
+C0006,Ridge Clinics,Central,Enterprise,Net 45
+C0007,Vista Foods,West,Small Business,Net 30
+C0008,Union Motors,East,Small Business,Net 30
+C0009,Alder Partners,West,Small Business,Net 30
+C0010,Ridge Studios,West,Small Business,Net 30
+C0011,Harbor Legal,South,Small Business,Net 30
+C0012,Cedar Foods,West,Small Business,Net 30
+C0013,Timber Builders,West,Small Business,Net 30
+C0014,Nimbus Schools,Central,Small Business,Net 30
+C0015,Granite Labs,East,Small Business,Net 30
+C0016,Birch Motors,West,Small Business,Net 30
+C0017,Pioneer Schools,Central,Small Business,Net 30
+C0018,Juniper Labs,South,Small Business,Net 30
+C0019,Union Media,Central,Mid-Market,Net 45
+C0020,Pioneer Logistics,East,Mid-Market,Net 30
+C0021,Birch Studios,Central,Small Business,Net 30
+C0022,Zenith Consulting,Central,Mid-Market,Net 30
+C0023,Nimbus Realty,Central,Mid-Market,Net 30
+C0024,Alder Foods,West,Small Business,Net 30
+C0025,Harbor Motors,Central,Small Business,Net 30
+C0026,Granite Legal,East,Mid-Market,Net 45
+C0027,Summit Partners,Central,Enterprise,Net 60
+C0028,Delta Clinics,West,Small Business,Net 30
+C0029,Timber Realty,East,Small Business,Net 30
+C0030,Birch Clinics,East,Small Business,Net 30
+C0031,Zenith Schools,West,Small Business,Net 30
+C0032,Delta Architects,East,Mid-Market,Net 30
+C0033,Maple Architects,South,Small Business,Net 30
+C0034,Granite Foods,Central,Small Business,Net 30
+C0035,Maple Schools,Central,Enterprise,Net 60
+C0036,Iron Legal,Central,Small Business,Net 30
+C0037,Quarry Logistics,West,Small Business,Net 30
+C0038,Ember Realty,West,Small Business,Net 30
+C0039,Willow Schools,East,Mid-Market,Net 30
+C0040,Union Clinics,South,Small Business,Net 30
+C0041,Orchard Studios,West,Mid-Market,Net 45
+C0042,Granite Media,South,Small Business,Net 30
+C0043,Falcon Labs,East,Mid-Market,Net 30
+C0044,Birch Schools,West,Mid-Market,Net 30
+C0045,Willow Legal,East,Small Business,Net 30
+C0046,Lumen Media,West,Small Business,Net 30
+C0047,Iron Media,South,Enterprise,Net 45
+C0048,Iron Clinics,East,Small Business,Net 30
+C0049,Ember Motors,Central,Small Business,Net 30
+C0050,Union Logistics,Central,Mid-Market,Net 30
+C0051,Cedar Media,West,Small Business,Net 30
+C0052,Lumen Architects,Central,Small Business,Net 30
+C0053,Harbor Foods,South,Small Business,Net 30
+C0054,Willow Studios,South,Enterprise,Net 60
+C0055,Lumen Dental,South,Mid-Market,Net 30
+C0056,Harbor Studios,South,Small Business,Net 30
+C0057,Birch Logistics,West,Mid-Market,Net 45
+C0058,Lumen Realty,West,Small Business,Net 30
+C0059,Cedar Motors,Central,Mid-Market,Net 45
+C0060,Falcon Realty,South,Mid-Market,Net 45
+C0061,Orchard Legal,South,Mid-Market,Net 30
+C0062,Granite Schools,South,Small Business,Net 30
+C0063,Nimbus Foods,Central,Mid-Market,Net 45
+C0064,Zenith Dental,West,Enterprise,Net 45
+C0065,Juniper Clinics,Central,Small Business,Net 30
+C0066,Cedar Logistics,West,Small Business,Net 30
+C0067,Nimbus Legal,Central,Small Business,Net 30
+C0068,Juniper Dental,West,Enterprise,Net 45
+C0069,Union Schools,East,Small Business,Net 30
+C0070,Harbor Partners,East,Enterprise,Net 45
+C0071,Vista Motors,South,Small Business,Net 30
+C0072,Willow Consulting,South,Mid-Market,Net 45
+C0073,Pioneer Labs,West,Small Business,Net 30
+C0074,Birch Architects,Central,Small Business,Net 30
+C0075,Ember Schools,East,Small Business,Net 30
+C0076,Orchard Dental,East,Mid-Market,Net 30
+C0077,Ridge Legal,South,Mid-Market,Net 45
+C0078,Zenith Labs,East,Small Business,Net 30
+C0079,Alder Realty,West,Small Business,Net 30
+C0080,Orchard Media,East,Mid-Market,Net 45
+C0081,Ember Partners,West,Small Business,Net 30
+C0082,Vista Realty,Central,Mid-Market,Net 30
+C0083,Nimbus Media,Central,Small Business,Net 30
+C0084,Juniper Motors,East,Small Business,Net 30
+C0085,Birch Legal,South,Small Business,Net 30
+C0086,Delta Logistics,South,Small Business,Net 30
+C0087,Delta Motors,West,Small Business,Net 30
+C0088,Alder Dental,South,Mid-Market,Net 30
+C0089,Birch Labs,West,Mid-Market,Net 30
+C0090,Iron Realty,Central,Small Business,Net 30
+C0091,Ember Studios,Central,Small Business,Net 30
+C0092,Willow Builders,South,Small Business,Net 30
+C0093,Granite Realty,East,Mid-Market,Net 30
+C0094,Juniper Legal,South,Mid-Market,Net 45
+C0095,Juniper Foods,West,Mid-Market,Net 45
+C0096,Pioneer Foods,South,Small Business,Net 30
+C0097,Alder Studios,Central,Mid-Market,Net 30
+C0098,Iron Architects,East,Small Business,Net 30
+C0099,Nimbus Studios,Central,Small Business,Net 30
+C0100,Summit Motors,West,Mid-Market,Net 30
+C0101,Summit Realty,West,Enterprise,Net 45
+C0102,Harbor Logistics,West,Small Business,Net 30
+C0103,Iron Motors,Central,Small Business,Net 30
+C0104,Pioneer Motors,West,Small Business,Net 30
+C0105,Ridge Media,East,Small Business,Net 30
+C0106,Union Dental,South,Mid-Market,Net 30
+C0107,Union Foods,East,Small Business,Net 30
+C0108,Cedar Legal,East,Mid-Market,Net 45
+C0109,Timber Labs,Central,Small Business,Net 30
+C0110,Vista Labs,East,Small Business,Net 30
+C0111,Vista Consulting,South,Small Business,Net 30
+C0112,Pioneer Media,Central,Small Business,Net 30
+C0113,Juniper Studios,Central,Small Business,Net 30
+C0114,Iron Consulting,Central,Small Business,Net 30
+C0115,Harbor Architects,West,Small Business,Net 30
+C0116,Zenith Clinics,West,Small Business,Net 30
+C0117,Falcon Media,West,Enterprise,Net 45
+C0118,Granite Studios,West,Small Business,Net 30
+C0119,Maple Builders,East,Enterprise,Net 45
+C0120,Willow Foods,East,Small Business,Net 30
+C0121,Pioneer Dental,South,Small Business,Net 30
+C0122,Falcon Builders,Central,Mid-Market,Net 45
+C0123,Ember Foods,South,Small Business,Net 30
+C0124,Orchard Foods,Central,Small Business,Net 30
+C0125,Orchard Labs,South,Small Business,Net 30
+C0126,Timber Media,West,Mid-Market,Net 30
+C0127,Keystone Logistics,West,Mid-Market,Net 45
+C0128,Iron Logistics,Central,Small Business,Net 30
+C0129,Ember Logistics,East,Small Business,Net 30
+C0130,Union Studios,West,Small Business,Net 30
+C0131,Iron Foods,South,Small Business,Net 30
+C0132,Iron Schools,West,Small Business,Net 30
+C0133,Orchard Architects,South,Mid-Market,Net 45
+C0134,Willow Partners,Central,Small Business,Net 30
+C0135,Juniper Schools,Central,Small Business,Net 30
+C0136,Cedar Schools,Central,Small Business,Net 30
+C0137,Orchard Consulting,West,Small Business,Net 30
+C0138,Ember Architects,South,Small Business,Net 30
+C0139,Harbor Clinics,South,Small Business,Net 30
+C0140,Vista Legal,South,Small Business,Net 30
+C0141,Iron Partners,West,Mid-Market,Net 30
+C0142,Lumen Clinics,Central,Small Business,Net 30
+C0143,Harbor Dental,Central,Small Business,Net 30
+C0144,Nimbus Clinics,West,Small Business,Net 30
+C0145,Lumen Schools,West,Mid-Market,Net 45
+C0146,Summit Architects,South,Small Business,Net 30
+C0147,Granite Builders,East,Enterprise,Net 45
+C0148,Juniper Consulting,South,Mid-Market,Net 30
+C0149,Iron Studios,West,Mid-Market,Net 30
+C0150,Union Labs,West,Mid-Market,Net 30
+C0151,Cedar Builders,South,Small Business,Net 30
+C0152,Delta Labs,West,Mid-Market,Net 30
+C0153,Lumen Studios,East,Small Business,Net 30
+C0154,Maple Consulting,South,Small Business,Net 30
+C0155,Timber Legal,East,Mid-Market,Net 30
+C0156,Lumen Consulting,Central,Mid-Market,Net 45
+C0157,Delta Legal,East,Small Business,Net 30
+C0158,Ember Consulting,East,Small Business,Net 30
+C0159,Summit Labs,East,Mid-Market,Net 30
+C0160,Pioneer Studios,Central,Small Business,Net 30
+C0161,Birch Foods,West,Small Business,Net 30
+C0162,Quarry Media,West,Small Business,Net 30
+C0163,Nimbus Architects,West,Mid-Market,Net 45
+C0164,Granite Logistics,Central,Small Business,Net 30
+C0165,Iron Dental,South,Small Business,Net 30
+C0166,Keystone Clinics,West,Mid-Market,Net 45
+C0167,Falcon Studios,Central,Enterprise,Net 45
+C0168,Falcon Partners,East,Small Business,Net 30
+C0169,Nimbus Labs,West,Mid-Market,Net 30
+C0170,Summit Clinics,Central,Small Business,Net 30
+C0171,Zenith Motors,South,Mid-Market,Net 45
+C0172,Keystone Legal,West,Small Business,Net 30
+C0173,Keystone Consulting,West,Mid-Market,Net 45
+C0174,Alder Labs,West,Small Business,Net 30
+C0175,Delta Media,South,Small Business,Net 30
+C0176,Cedar Clinics,Central,Small Business,Net 30
+C0177,Orchard Logistics,West,Small Business,Net 30
+C0178,Delta Partners,West,Mid-Market,Net 45
+C0179,Keystone Foods,Central,Enterprise,Net 45
+C0180,Vista Logistics,East,Small Business,Net 30

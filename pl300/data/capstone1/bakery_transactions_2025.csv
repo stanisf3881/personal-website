@@ -1,0 +1,639 @@
+TxnID,TxnDate,AccountCode,Payee,PaymentMethod,Amount
+T10001,2025-01-01,4000,Walk-in customers  ,Cash,703.99
+T10002,2025-01-01,5000,Millstone Flour Supply,Bank Transfer,1176.18
+T10003,2025-01-01,5100,Valley Dairy,bank transfer,513.34
+T10004,2025-01-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10005,2025-01-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10006,2025-01-02,4000,Walk-in customers  ,cash,933.71
+T10007,2025-01-02,5200,BoxCo Packaging,Card,471.64
+T10008,2025-01-03,4000,Walk-in customers  ,Card,621.23
+T10009,2025-01-03,4100,Pier 9 Market ,bank transfer,496.48
+T10010,2025-01-04,4000,Walk-in customers  ,Card,820.94
+T10011,2025-01-05,4000,Walk-in customers  ,cash,806.56
+T10012,2025-01-07,4000,Walk-in customers  ,cash,771.46
+T10013,2025-01-07,4100,Harbor Cafe Co,Bank transfer ,367.91
+T10014,2025-01-08,4000,Walk-in customers  ,card ,929.21
+T10015,2025-01-08,5000,Millstone Flour Supply,Bank Transfer,1001.61
+T10016,2025-01-08,5100,Valley Dairy,Bank transfer ,495.01
+T10017,2025-01-09,4000,Walk-in customers  ,card ,560.60
+T10018,2025-01-10,4000,Walk-in customers  ,cash,894.35
+T10019,2025-01-10,4100,Harbor Cafe Co,bank transfer,468.25
+T10020,2025-01-10,6200,City Power & Water,Bank Transfer,760.54
+T10021,2025-01-11,4000,Walk-in customers  ,Card,958.08
+T10022,2025-01-12,4000,Walk-in customers  ,CARD,575.44
+T10023,2025-01-14,4000,Walk-in customers  ,card ,840.45
+T10024,2025-01-14,4100,Pier 9 Market ,Bank Transfer,618.67
+T10025,2025-01-15,4000,Walk-in customers  ,Card,901.37
+T10026,2025-01-15,5000,Millstone Flour Supply,Bank Transfer,824.77
+T10027,2025-01-15,5100,Valley Dairy,Bank transfer ,508.51
+T10028,2025-01-15,6000,Payroll,Bank Transfer,8142.67
+T10029,2025-01-16,4000,Walk-in customers  ,card ,872.47
+T10030,2025-01-17,4000,Walk-in customers  ,CASH,823.76
+T10031,2025-01-17,4100,Harbor Cafe Co,Bank Transfer,689.34
+T10032,2025-01-18,4000,Walk-in customers  ,Card,666.39
+T10033,2025-01-18,4200,Lakeside Weddings,Bank Transfer,1079.67
+T10034,2025-01-19,4000,Walk-in customers  ,card ,602.95
+T10035,2025-01-21,4000,Walk-in customers  ,Cash,581.50
+T10036,2025-01-21,4100,Pier 9 Market ,Bank Transfer,414.89
+T10037,2025-01-22,4000,Walk-in customers  ,Card,950.86
+T10038,2025-01-22,5000,Millstone Flour Supply,Bank Transfer,914.87
+T10039,2025-01-22,5100,Valley Dairy,Bank Transfer,678.48
+T10040,2025-01-23,4000,Walk-in customers  ,card ,806.05
+T10041,2025-01-24,4000,Walk-in customers  ,cash,723.12
+T10042,2025-01-24,4100,Harbor Cafe Co,bank transfer,549.67
+T10043,2025-01-25,4000,Walk-in customers  ,Cash,904.89
+T10044,2025-01-25,4200,City Office Events,bank transfer,965.05
+T10045,2025-01-26,4000,Walk-in customers  ,Card,789.78
+T10046,2025-01-28,4000,Walk-in customers  ,Card,616.83
+T10047,2025-01-28,4100,Harbor Cafe Co,Bank Transfer,548.40
+T10048,2025-01-29,4000,Walk-in customers  ,CARD,683.72
+T10048,2025-01-29,4000,Walk-in customers  ,CARD,683.72
+T10049,2025-01-29,5000,Millstone Flour Supply,Bank Transfer,918.44
+T10050,2025-01-29,5100,Valley Dairy,bank transfer,645.58
+T10051,2025-01-30,4000,Walk-in customers  ,CARD,697.67
+T10052,2025-01-31,4000,Walk-in customers  ,Cash,929.78
+T10053,2025-01-31,4100,Pier 9 Market ,bank transfer,619.84
+T10054,2025-01-31,6000,Payroll,Bank Transfer,8308.52
+T10055,2025-02-01,4000,Walk-in customers  ,Card,773.70
+T10056,2025-02-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10057,2025-02-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10058,2025-02-02,4000,Walk-in customers  ,card ,633.35
+T10059,2025-02-04,4000,Walk-in customers  ,Card,876.44
+T10060,2025-02-04,4100,Harbor Cafe Co,Bank transfer ,355.39
+T10061,2025-02-05,4000,Walk-in customers  ,Card,942.04
+T10062,2025-02-05,5000,Millstone Flour Supply,Bank Transfer,1141.20
+T10063,2025-02-05,5100,Valley Dairy,bank transfer,657.81
+T10064,2025-02-06,4000,Walk-in customers  ,Card,907.90
+T10065,2025-02-06,5200,BoxCo Packaging,Card,572.19
+T10066,2025-02-07,4000,Walk-in customers  ,CASH,857.72
+T10067,2025-02-07,4100,Pier 9 Market ,Bank transfer ,623.20
+T10068,2025-02-08,4000,Walk-in customers  ,card ,654.91
+T10069,2025-02-09,4000,Walk-in customers  ,Cash,681.79
+T10070,2025-02-10,6200,City Power & Water,N/A,691.82
+T10071,2025-02-11,4000,Walk-in customers  ,Cash,926.99
+T10072,2025-02-11,4100,Pier 9 Market ,bank transfer,484.81
+T10073,2025-02-12,4000,Walk-in customers  ,card ,
+T10074,2025-02-12,5000,Millstone Flour Supply,Bank Transfer,877.22
+T10075,2025-02-12,5100,Valley Dairy,Bank transfer ,490.79
+T10076,2025-02-13,4000,Walk-in customers  ,cash,612.48
+T10077,2025-02-14,4000,Walk-in customers  ,Card,581.91
+T10078,2025-02-14,4100,Harbor Cafe Co,Bank Transfer,523.97
+T10079,2025-02-15,4000,Walk-in customers  ,Card,846.97
+T10080,2025-02-15,6000,Payroll,Bank Transfer,8020.58
+T10081,2025-02-16,4000,Walk-in customers  ,card ,707.93
+T10082,2025-02-18,4000,Walk-in customers  ,Card,719.77
+T10083,2025-02-18,4100,Harbor Cafe Co,bank transfer,513.31
+T10084,2025-02-18,6400,Oven Repair Pros,Card,1797.31
+T10085,2025-02-19,4000,Walk-in customers  ,Card,881.71
+T10086,2025-02-19,5000,Millstone Flour Supply,Bank Transfer,836.80
+T10087,2025-02-19,5100,Valley Dairy,bank transfer,623.39
+T10088,2025-02-20,4000,Walk-in customers  ,Card,963.35
+T10089,2025-02-21,4000,Walk-in customers  ,Card,631.93
+T10090,2025-02-21,4100,Harbor Cafe Co,bank transfer,609.39
+T10090,2025-02-21,4100,Harbor Cafe Co,bank transfer,609.39
+T10091,2025-02-22,4000,Walk-in customers  ,Card,864.81
+T10092,2025-02-22,4200,Lakeside Weddings,Bank Transfer,1971.58
+T10092,2025-02-22,4200,Lakeside Weddings,Bank Transfer,1971.58
+T10093,2025-02-23,4000,Walk-in customers  ,cash,1000.27
+T10094,2025-02-25,4000,Walk-in customers  ,cash,751.74
+T10095,2025-02-25,4100,Harbor Cafe Co,Bank Transfer,575.74
+T10096,2025-02-26,4000,Walk-in customers  ,CARD,629.10
+T10097,2025-02-26,5000,Millstone Flour Supply,Bank Transfer,1099.67
+T10098,2025-02-26,5100,Valley Dairy,Bank Transfer,507.64
+T10099,2025-02-27,4000,Walk-in customers  ,cash,794.57
+T10100,2025-02-28,4000,Walk-in customers  ,card ,633.58
+T10101,2025-02-28,4100,Pier 9 Market ,bank transfer,458.80
+T10102,2025-02-28,6000,Payroll,Bank Transfer,8390.81
+T10103,2025-03-01,4000,Walk-in customers  ,Card,1084.46
+T10104,2025-03-01,4200,Lakeside Weddings,Bank Transfer,2375.76
+T10105,2025-03-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10106,2025-03-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10107,2025-03-02,4000,Walk-in customers  ,CASH,640.92
+T10108,2025-03-04,4000,Walk-in customers  ,Card,916.40
+T10109,2025-03-04,4100,Harbor Cafe Co,Bank Transfer,540.69
+T10110,2025-03-05,4000,Walk-in customers  ,Card,706.62
+T10111,2025-03-05,5000,Millstone Flour Supply,Bank Transfer,872.79
+T10112,2025-03-05,5100,Valley Dairy,Bank Transfer,679.93
+T10113,2025-03-06,4000,Walk-in customers  ,cash,814.57
+T10113,2025-03-06,4000,Walk-in customers  ,cash,814.57
+T10114,2025-03-06,5200,BoxCo Packaging,Card,448.82
+T10115,2025-03-07,4000,Walk-in customers  ,cash,1083.37
+T10116,2025-03-07,4100,Harbor Cafe Co,bank transfer,638.39
+T10117,2025-03-08,4000,Walk-in customers  ,CASH,668.75
+T10118,2025-03-09,4000,Walk-in customers  ,cash,949.28
+T10119,2025-03-10,6200,City Power & Water,N/A,664.20
+T10120,2025-03-11,4000,Walk-in customers  ,Card,770.76
+T10121,2025-03-11,4100,Harbor Cafe Co,Bank transfer ,473.23
+T10122,2025-03-12,4000,Walk-in customers  ,CASH,
+T10123,2025-03-12,5000,Millstone Flour Supply,Bank Transfer,1298.09
+T10124,2025-03-12,5100,Valley Dairy,Bank Transfer,697.54
+T10125,2025-03-13,4000,Walk-in customers  ,cash,942.83
+T10126,2025-03-14,4000,Walk-in customers  ,CARD,899.50
+T10127,2025-03-14,4100,Harbor Cafe Co,Bank Transfer,388.88
+T10128,2025-03-15,4000,Walk-in customers  ,CASH,820.34
+T10129,2025-03-15,6000,Payroll,Bank Transfer,7810.84
+T10130,2025-03-16,4000,Walk-in customers  ,card ,993.76
+T10131,2025-03-18,4000,Walk-in customers  ,CARD,679.77
+T10132,2025-03-18,4100,Pier 9 Market ,bank transfer,685.34
+T10132,2025-03-18,4100,Pier 9 Market ,bank transfer,685.34
+T10133,2025-03-19,4000,Walk-in customers  ,cash,909.09
+T10134,2025-03-19,5000,Millstone Flour Supply,Bank Transfer,1270.62
+T10135,2025-03-19,5100,Valley Dairy,bank transfer,734.90
+T10136,2025-03-20,4000,Walk-in customers  ,Card,838.41
+T10137,2025-03-20,6300,Local Ads Network,Card,2148.91
+T10138,2025-03-21,4000,Walk-in customers  ,cash,921.32
+T10139,2025-03-21,4100,Pier 9 Market ,Bank transfer ,570.63
+T10140,2025-03-22,4000,Walk-in customers  ,Card,1072.85
+T10141,2025-03-22,4200,Lakeside Weddings,bank transfer,840.37
+T10142,2025-03-23,4000,Walk-in customers  ,CASH,963.94
+T10143,2025-03-25,4000,Walk-in customers  ,card ,641.80
+T10144,2025-03-25,4100,Pier 9 Market ,bank transfer,448.33
+T10145,2025-03-26,4000,Walk-in customers  ,CARD,622.57
+T10146,2025-03-26,5000,Millstone Flour Supply,Bank Transfer,1303.34
+T10147,2025-03-26,5100,Valley Dairy,Bank transfer ,608.89
+T10148,2025-03-27,4000,Walk-in customers  ,Card,876.56
+T10149,2025-03-28,4000,Walk-in customers  ,cash,807.56
+T10150,2025-03-28,4100,Harbor Cafe Co,bank transfer,386.00
+T10151,2025-03-29,4000,Walk-in customers  ,CARD,816.86
+T10152,2025-03-29,4200,City Office Events,Card,1156.79
+T10153,2025-03-30,4000,Walk-in customers  ,card ,995.13
+T10154,2025-03-31,6000,Payroll,Bank Transfer,8059.27
+T10155,2025-04-01,4000,Walk-in customers  ,Card,999.31
+T10156,2025-04-01,4100,Harbor Cafe Co,Bank Transfer,735.23
+T10157,2025-04-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10158,2025-04-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10159,2025-04-02,4000,Walk-in customers  ,card ,951.40
+T10160,2025-04-02,5000,Millstone Flour Supply,Bank Transfer,1370.07
+T10161,2025-04-02,5100,Valley Dairy,Bank transfer ,519.62
+T10162,2025-04-03,4000,Walk-in customers  ,Card,921.58
+T10163,2025-04-03,5200,BoxCo Packaging,Card,435.50
+T10164,2025-04-04,4000,Walk-in customers  ,CARD,807.91
+T10165,2025-04-04,4100,Harbor Cafe Co,Bank Transfer,760.23
+T10166,2025-04-05,4000,Walk-in customers  ,cash,749.58
+T10167,2025-04-05,4200,City Office Events,Bank Transfer,1856.12
+T10167,2025-04-05,4200,City Office Events,Bank Transfer,1856.12
+T10168,2025-04-06,4000,Walk-in customers  ,CASH,917.96
+T10169,2025-04-08,4000,Walk-in customers  ,Card,709.62
+T10170,2025-04-08,4100,Pier 9 Market ,Bank transfer ,676.45
+T10171,2025-04-09,4000,Walk-in customers  ,CARD,686.01
+T10172,2025-04-09,5000,Millstone Flour Supply,Bank Transfer,933.64
+T10173,2025-04-09,5100,Valley Dairy,Bank transfer ,685.33
+T10173,2025-04-09,5100,Valley Dairy,Bank transfer ,685.33
+T10174,2025-04-10,4000,Walk-in customers  ,card ,1076.42
+T10175,2025-04-10,6200,City Power & Water,Bank Transfer,610.51
+T10176,2025-04-11,4000,Walk-in customers  ,card ,1111.96
+T10177,2025-04-11,4100,Pier 9 Market ,Bank Transfer,515.28
+T10178,2025-04-12,4000,Walk-in customers  ,CASH,664.71
+T10179,2025-04-13,4000,Walk-in customers  ,CASH,771.52
+T10180,2025-04-15,4000,Walk-in customers  ,CASH,739.04
+T10181,2025-04-15,4100,Pier 9 Market ,bank transfer,640.97
+T10182,2025-04-15,6000,Payroll,Bank Transfer,8300.63
+T10183,2025-04-16,4000,Walk-in customers  ,card ,847.87
+T10184,2025-04-16,5000,Millstone Flour Supply,Bank Transfer,904.74
+T10185,2025-04-16,5100,Valley Dairy,bank transfer,557.35
+T10186,2025-04-17,4000,Walk-in customers  ,CASH,1047.76
+T10187,2025-04-18,4000,Walk-in customers  ,Card,813.10
+T10188,2025-04-18,4100,Pier 9 Market ,Bank transfer ,615.10
+T10189,2025-04-19,4000,Walk-in customers  ,Card,925.51
+T10190,2025-04-20,4000,Walk-in customers  ,Card,1102.99
+T10191,2025-04-22,4000,Walk-in customers  ,Card,718.04
+T10192,2025-04-22,4100,Harbor Cafe Co,Bank transfer ,530.28
+T10193,2025-04-23,4000,Walk-in customers  ,Cash,716.64
+T10194,2025-04-23,5000,Millstone Flour Supply,Bank Transfer,1300.17
+T10195,2025-04-23,5100,Valley Dairy,Bank Transfer,503.77
+T10196,2025-04-24,4000,Walk-in customers  ,CASH,952.39
+T10197,2025-04-25,4000,Walk-in customers  ,Card,792.86
+T10198,2025-04-25,4100,Pier 9 Market ,Bank Transfer,714.55
+T10199,2025-04-26,4000,Walk-in customers  ,CARD,823.09
+T10200,2025-04-27,4000,Walk-in customers  ,card ,1098.28
+T10201,2025-04-29,4000,Walk-in customers  ,CARD,1034.32
+T10202,2025-04-29,4100,Pier 9 Market ,bank transfer,625.55
+T10203,2025-04-30,4000,Walk-in customers  ,Cash,961.24
+T10204,2025-04-30,5000,Millstone Flour Supply,Bank Transfer,1391.30
+T10205,2025-04-30,5100,Valley Dairy,Bank transfer ,624.16
+T10206,2025-04-30,6000,Payroll,Bank Transfer,8178.39
+T10207,2025-05-01,4000,Walk-in customers  ,CARD,740.95
+T10207,2025-05-01,4000,Walk-in customers  ,CARD,740.95
+T10208,2025-05-01,5200,BoxCo Packaging,Card,538.83
+T10209,2025-05-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10210,2025-05-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10211,2025-05-02,4000,Walk-in customers  ,Cash,1106.30
+T10212,2025-05-02,4100,Pier 9 Market ,Bank Transfer,625.60
+T10213,2025-05-03,4000,Walk-in customers  ,Cash,1017.81
+T10214,2025-05-04,4000,Walk-in customers  ,card ,1032.10
+T10215,2025-05-06,4000,Walk-in customers  ,Card,1131.50
+T10216,2025-05-06,4100,Harbor Cafe Co,bank transfer,852.27
+T10217,2025-05-07,4000,Walk-in customers  ,Card,799.76
+T10218,2025-05-07,5000,Millstone Flour Supply,Bank Transfer,1120.14
+T10219,2025-05-07,5100,Valley Dairy,Bank transfer ,686.40
+T10220,2025-05-08,4000,Walk-in customers  ,Card,800.38
+T10221,2025-05-09,4000,Walk-in customers  ,Card,906.74
+T10222,2025-05-09,4100,Harbor Cafe Co,Bank Transfer,520.95
+T10223,2025-05-10,4000,Walk-in customers  ,CASH,1080.44
+T10224,2025-05-10,6200,City Power & Water,Bank Transfer,735.29
+T10225,2025-05-11,4000,Walk-in customers  ,card ,970.27
+T10226,2025-05-13,4000,Walk-in customers  ,Card,1104.30
+T10227,2025-05-13,4100,Pier 9 Market ,bank transfer,861.58
+T10228,2025-05-14,4000,Walk-in customers  ,Card,830.34
+T10229,2025-05-14,5000,Millstone Flour Supply,Bank Transfer,1153.96
+T10230,2025-05-14,5100,Valley Dairy,Bank Transfer,802.48
+T10231,2025-05-15,4000,Walk-in customers  ,Card,703.42
+T10231,2025-05-15,4000,Walk-in customers  ,Card,703.42
+T10232,2025-05-15,6000,Payroll,Bank Transfer,8549.44
+T10233,2025-05-16,4000,Walk-in customers  ,Card,852.61
+T10234,2025-05-16,4100,Pier 9 Market ,Bank Transfer,811.12
+T10235,2025-05-17,4000,Walk-in customers  ,CARD,1175.03
+T10236,2025-05-17,4200,Lakeside Weddings,Card,1398.71
+T10237,2025-05-18,4000,Walk-in customers  ,CASH,852.42
+T10238,2025-05-20,4000,Walk-in customers  ,CASH,891.17
+T10239,2025-05-20,4100,Pier 9 Market ,Bank transfer ,826.37
+T10240,2025-05-21,4000,Walk-in customers  ,CARD,744.42
+T10241,2025-05-21,5000,Millstone Flour Supply,Bank Transfer,1021.13
+T10242,2025-05-21,5100,Valley Dairy,bank transfer,604.70
+T10243,2025-05-22,4000,Walk-in customers  ,cash,780.35
+T10244,2025-05-23,4000,Walk-in customers  ,cash,1178.87
+T10245,2025-05-23,4100,Pier 9 Market ,Bank Transfer,585.88
+T10246,2025-05-24,4000,Walk-in customers  ,cash,1133.04
+T10247,2025-05-25,4000,Walk-in customers  ,cash,722.22
+T10248,2025-05-27,4000,Walk-in customers  ,CASH,1146.43
+T10249,2025-05-27,4100,Harbor Cafe Co,Bank Transfer,526.91
+T10250,2025-05-28,4000,Walk-in customers  ,Card,796.63
+T10251,2025-05-28,5000,Millstone Flour Supply,Bank Transfer,1225.70
+T10252,2025-05-28,5100,Valley Dairy,Bank transfer ,
+T10253,2025-05-29,4000,Walk-in customers  ,Cash,817.69
+T10254,2025-05-30,4000,Walk-in customers  ,CASH,1095.61
+T10255,2025-05-30,4100,Pier 9 Market ,bank transfer,838.86
+T10256,2025-05-31,4000,Walk-in customers  ,Cash,828.16
+T10257,2025-05-31,4200,City Office Events,Card,
+T10258,2025-05-31,6000,Payroll,Bank Transfer,8547.62
+T10259,2025-06-01,4000,Walk-in customers  ,cash,728.44
+T10260,2025-06-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10261,2025-06-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10262,2025-06-03,4000,Walk-in customers  ,Cash,782.54
+T10263,2025-06-03,4100,Harbor Cafe Co,Bank Transfer,646.27
+T10264,2025-06-04,4000,Walk-in customers  ,card ,1147.44
+T10265,2025-06-04,5000,Millstone Flour Supply,Bank Transfer,1319.15
+T10266,2025-06-04,5100,Valley Dairy,bank transfer,804.46
+T10267,2025-06-05,4000,Walk-in customers  ,card ,688.99
+T10268,2025-06-05,5200,BoxCo Packaging,Card,347.62
+T10269,2025-06-06,4000,Walk-in customers  ,CASH,1001.87
+T10270,2025-06-06,4100,Pier 9 Market ,Bank transfer ,866.97
+T10271,2025-06-07,4000,Walk-in customers  ,CARD,1084.45
+T10272,2025-06-08,4000,Walk-in customers  ,cash,979.31
+T10273,2025-06-10,4000,Walk-in customers  ,Cash,824.92
+T10274,2025-06-10,4100,Pier 9 Market ,Bank transfer ,448.50
+T10275,2025-06-10,6200,City Power & Water,Bank Transfer,723.24
+T10276,2025-06-11,4000,Walk-in customers  ,CASH,962.91
+T10277,2025-06-11,5000,Millstone Flour Supply,Bank Transfer,1194.39
+T10278,2025-06-11,5100,Valley Dairy,Bank transfer ,681.11
+T10279,2025-06-12,4000,Walk-in customers  ,Card,972.53
+T10280,2025-06-13,4000,Walk-in customers  ,Card,678.99
+T10281,2025-06-13,4100,Harbor Cafe Co,Bank Transfer,700.16
+T10282,2025-06-14,4000,Walk-in customers  ,Card,1125.05
+T10283,2025-06-15,4000,Walk-in customers  ,CASH,994.39
+T10284,2025-06-15,6000,Payroll,Bank Transfer,8250.07
+T10285,2025-06-17,4000,Walk-in customers  ,CARD,1084.62
+T10286,2025-06-17,4100,Harbor Cafe Co,bank transfer,748.73
+T10287,2025-06-18,4000,Walk-in customers  ,card ,1054.31
+T10288,2025-06-18,5000,Millstone Flour Supply,Bank Transfer,955.35
+T10289,2025-06-18,5100,Valley Dairy,bank transfer,707.26
+T10290,2025-06-19,4000,Walk-in customers  ,Card,1043.41
+T10291,2025-06-20,4000,Walk-in customers  ,Cash,1092.10
+T10292,2025-06-20,4100,Pier 9 Market ,Bank transfer ,820.42
+T10293,2025-06-20,6300,Local Ads Network,Card,1813.73
+T10294,2025-06-21,4000,Walk-in customers  ,Cash,904.34
+T10295,2025-06-21,4200,Lakeside Weddings,Card,2623.80
+T10296,2025-06-22,4000,Walk-in customers  ,Card,837.61
+T10297,2025-06-24,4000,Walk-in customers  ,card ,900.90
+T10298,2025-06-24,4100,Pier 9 Market ,bank transfer,461.41
+T10299,2025-06-25,4000,Walk-in customers  ,CARD,938.89
+T10300,2025-06-25,5000,Millstone Flour Supply,Bank Transfer,1155.30
+T10301,2025-06-25,5100,Valley Dairy,Bank Transfer,727.24
+T10302,2025-06-26,4000,Walk-in customers  ,Cash,720.09
+T10303,2025-06-27,4000,Walk-in customers  ,CARD,687.99
+T10303,2025-06-27,4000,Walk-in customers  ,CARD,687.99
+T10304,2025-06-27,4100,Harbor Cafe Co,Bank Transfer,855.04
+T10305,2025-06-28,4000,Walk-in customers  ,Card,746.74
+T10306,2025-06-29,4000,Walk-in customers  ,CARD,1058.34
+T10307,2025-06-30,6000,Payroll,Bank Transfer,8250.23
+T10308,2025-07-01,4000,Walk-in customers  ,CARD,1112.42
+T10309,2025-07-01,4100,Harbor Cafe Co,Bank transfer ,711.17
+T10310,2025-07-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10311,2025-07-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10312,2025-07-02,4000,Walk-in customers  ,CASH,894.56
+T10313,2025-07-02,5000,Millstone Flour Supply,Bank Transfer,1148.91
+T10314,2025-07-02,5100,Valley Dairy,bank transfer,599.19
+T10315,2025-07-03,4000,Walk-in customers  ,Cash,749.46
+T10316,2025-07-03,5200,BoxCo Packaging,Card,544.07
+T10317,2025-07-04,4000,Walk-in customers  ,Cash,849.32
+T10318,2025-07-04,4100,Harbor Cafe Co,Bank Transfer,498.70
+T10319,2025-07-05,4000,Walk-in customers  ,Cash,1006.36
+T10320,2025-07-05,4200,Lakeside Weddings,bank transfer,1644.43
+T10321,2025-07-06,4000,Walk-in customers  ,CASH,1037.23
+T10322,2025-07-08,4000,Walk-in customers  ,cash,829.03
+T10323,2025-07-08,4100,Harbor Cafe Co,bank transfer,707.27
+T10324,2025-07-09,4000,Walk-in customers  ,Card,881.44
+T10325,2025-07-09,5000,Millstone Flour Supply,Bank Transfer,1321.08
+T10326,2025-07-09,5100,Valley Dairy,Bank transfer ,772.95
+T10327,2025-07-10,4000,Walk-in customers  ,CASH,904.41
+T10328,2025-07-10,6200,City Power & Water,N/A,788.57
+T10329,2025-07-11,4000,Walk-in customers  ,CASH,815.19
+T10330,2025-07-11,4100,Pier 9 Market ,Bank Transfer,783.20
+T10331,2025-07-12,4000,Walk-in customers  ,card ,863.14
+T10332,2025-07-13,4000,Walk-in customers  ,Card,654.78
+T10333,2025-07-15,4000,Walk-in customers  ,Card,697.41
+T10334,2025-07-15,4100,Pier 9 Market ,Bank transfer ,
+T10335,2025-07-15,6000,Payroll,Bank Transfer,8249.60
+T10336,2025-07-16,4000,Walk-in customers  ,CASH,794.16
+T10337,2025-07-16,5000,Millstone Flour Supply,Bank Transfer,1148.94
+T10338,2025-07-16,5100,Valley Dairy,bank transfer,744.51
+T10339,2025-07-17,4000,Walk-in customers  ,card ,1059.89
+T10340,2025-07-18,4000,Walk-in customers  ,CARD,930.33
+T10341,2025-07-18,4100,Pier 9 Market ,Bank Transfer,756.64
+T10342,2025-07-19,4000,Walk-in customers  ,cash,1015.42
+T10343,2025-07-19,4200,Lakeside Weddings,bank transfer,800.11
+T10344,2025-07-20,4000,Walk-in customers  ,CASH,716.29
+T10345,2025-07-22,4000,Walk-in customers  ,Card,1046.12
+T10346,2025-07-22,4100,Harbor Cafe Co,Bank transfer ,757.17
+T10347,2025-07-23,4000,Walk-in customers  ,card ,717.77
+T10348,2025-07-23,5000,Millstone Flour Supply,Bank Transfer,901.77
+T10349,2025-07-23,5100,Valley Dairy,Bank Transfer,747.41
+T10350,2025-07-24,4000,Walk-in customers  ,Cash,1043.23
+T10351,2025-07-25,4000,Walk-in customers  ,Card,1108.16
+T10352,2025-07-25,4100,Harbor Cafe Co,Bank transfer ,444.32
+T10353,2025-07-26,4000,Walk-in customers  ,card ,847.27
+T10354,2025-07-26,4200,Lakeside Weddings,bank transfer,2458.11
+T10355,2025-07-27,4000,Walk-in customers  ,Card,704.77
+T10356,2025-07-29,4000,Walk-in customers  ,card ,632.48
+T10357,2025-07-29,4100,Harbor Cafe Co,bank transfer,550.17
+T10358,2025-07-30,4000,Walk-in customers  ,Card,886.16
+T10359,2025-07-30,5000,Millstone Flour Supply,Bank Transfer,957.10
+T10360,2025-07-30,5100,Valley Dairy,bank transfer,576.11
+T10361,2025-07-31,4000,Walk-in customers  ,Card,906.28
+T10362,2025-07-31,6000,Payroll,Bank Transfer,8326.84
+T10363,2025-08-01,4000,Walk-in customers  ,Cash,701.33
+T10364,2025-08-01,4100,Harbor Cafe Co,bank transfer,461.77
+T10365,2025-08-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10366,2025-08-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10367,2025-08-02,4000,Walk-in customers  ,Cash,682.64
+T10368,2025-08-02,4200,City Office Events,Card,2290.27
+T10369,2025-08-03,4000,Walk-in customers  ,cash,670.33
+T10370,2025-08-05,4000,Walk-in customers  ,Cash,746.28
+T10371,2025-08-05,4100,Harbor Cafe Co,Bank Transfer,807.85
+T10372,2025-08-06,4000,Walk-in customers  ,CARD,1074.35
+T10373,2025-08-06,5000,Millstone Flour Supply,Bank Transfer,1229.84
+T10374,2025-08-06,5100,Valley Dairy,bank transfer,602.78
+T10375,2025-08-07,4000,Walk-in customers  ,Cash,925.78
+T10376,2025-08-07,5200,BoxCo Packaging,Card,501.46
+T10377,2025-08-08,4000,Walk-in customers  ,Card,1073.25
+T10378,2025-08-08,4100,Pier 9 Market ,Bank transfer ,852.43
+T10379,2025-08-09,4000,Walk-in customers  ,CASH,735.19
+T10380,2025-08-10,4000,Walk-in customers  ,Card,657.02
+T10381,2025-08-10,6200,City Power & Water,Bank Transfer,768.30
+T10382,2025-08-12,4000,Walk-in customers  ,cash,918.76
+T10383,2025-08-12,4100,Pier 9 Market ,Bank Transfer,829.92
+T10384,2025-08-13,4000,Walk-in customers  ,cash,728.27
+T10385,2025-08-13,5000,Millstone Flour Supply,Bank Transfer,909.77
+T10386,2025-08-13,5100,Valley Dairy,Bank transfer ,516.23
+T10387,2025-08-14,4000,Walk-in customers  ,Cash,715.81
+T10388,2025-08-15,4000,Walk-in customers  ,CASH,871.83
+T10389,2025-08-15,4100,Pier 9 Market ,Bank transfer ,761.10
+T10390,2025-08-15,6000,Payroll,Bank Transfer,8367.40
+T10391,2025-08-16,4000,Walk-in customers  ,CARD,783.31
+T10392,2025-08-16,4200,City Office Events,bank transfer,1355.85
+T10393,2025-08-17,4000,Walk-in customers  ,Card,1038.19
+T10394,2025-08-18,6400,Oven Repair Pros,Card,1745.04
+T10395,2025-08-19,4000,Walk-in customers  ,card ,779.88
+T10396,2025-08-19,4100,Pier 9 Market ,Bank transfer ,700.69
+T10397,2025-08-20,4000,Walk-in customers  ,Cash,943.91
+T10398,2025-08-20,5000,Millstone Flour Supply,Bank Transfer,1110.75
+T10399,2025-08-20,5100,Valley Dairy,Bank transfer ,722.35
+T10400,2025-08-21,4000,Walk-in customers  ,CARD,1077.01
+T10401,2025-08-22,4000,Walk-in customers  ,card ,781.70
+T10402,2025-08-22,4100,Pier 9 Market ,Bank Transfer,762.62
+T10403,2025-08-23,4000,Walk-in customers  ,Card,674.16
+T10404,2025-08-24,4000,Walk-in customers  ,CARD,947.92
+T10405,2025-08-26,4000,Walk-in customers  ,CARD,765.33
+T10406,2025-08-26,4100,Harbor Cafe Co,Bank Transfer,670.06
+T10407,2025-08-27,4000,Walk-in customers  ,cash,629.87
+T10408,2025-08-27,5000,Millstone Flour Supply,Bank Transfer,1151.38
+T10409,2025-08-27,5100,Valley Dairy,Bank transfer ,596.69
+T10410,2025-08-28,4000,Walk-in customers  ,card ,875.22
+T10411,2025-08-29,4000,Walk-in customers  ,CARD,1054.54
+T10412,2025-08-29,4100,Harbor Cafe Co,Bank Transfer,604.74
+T10413,2025-08-30,4000,Walk-in customers  ,Cash,918.35
+T10414,2025-08-31,4000,Walk-in customers  ,cash,712.04
+T10415,2025-08-31,6000,Payroll,Bank Transfer,8059.46
+T10416,2025-09-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10417,2025-09-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10418,2025-09-02,4000,Walk-in customers  ,cash,852.79
+T10419,2025-09-02,4100,Pier 9 Market ,Bank transfer ,592.17
+T10420,2025-09-03,4000,Walk-in customers  ,card ,932.16
+T10421,2025-09-03,5000,Millstone Flour Supply,Bank Transfer,1073.79
+T10422,2025-09-03,5100,Valley Dairy,Bank transfer ,748.08
+T10423,2025-09-04,4000,Walk-in customers  ,Card,807.76
+T10424,2025-09-04,5200,BoxCo Packaging,Card,
+T10425,2025-09-05,4000,Walk-in customers  ,CARD,708.05
+T10426,2025-09-05,4100,Pier 9 Market ,Bank transfer ,742.01
+T10427,2025-09-06,4000,Walk-in customers  ,CASH,757.12
+T10428,2025-09-07,4000,Walk-in customers  ,Card,1089.71
+T10429,2025-09-09,4000,Walk-in customers  ,Card,710.65
+T10430,2025-09-09,4100,Pier 9 Market ,Bank transfer ,426.57
+T10431,2025-09-10,4000,Walk-in customers  ,Cash,1094.05
+T10432,2025-09-10,5000,Millstone Flour Supply,Bank Transfer,1182.77
+T10433,2025-09-10,5100,Valley Dairy,Bank transfer ,660.31
+T10434,2025-09-10,6200,City Power & Water,Bank Transfer,753.11
+T10435,2025-09-11,4000,Walk-in customers  ,Card,958.53
+T10436,2025-09-12,4000,Walk-in customers  ,card ,
+T10437,2025-09-12,4100,Pier 9 Market ,Bank transfer ,859.38
+T10438,2025-09-13,4000,Walk-in customers  ,Card,789.54
+T10439,2025-09-13,4200,Lakeside Weddings,Bank transfer ,861.19
+T10440,2025-09-14,4000,Walk-in customers  ,Card,1114.95
+T10441,2025-09-15,6000,Payroll,Bank Transfer,8345.50
+T10442,2025-09-16,4000,Walk-in customers  ,Cash,809.49
+T10443,2025-09-16,4100,Harbor Cafe Co,bank transfer,879.69
+T10444,2025-09-17,4000,Walk-in customers  ,card ,741.74
+T10445,2025-09-17,5000,Millstone Flour Supply,Bank Transfer,1068.72
+T10446,2025-09-17,5100,Valley Dairy,Bank Transfer,687.11
+T10447,2025-09-18,4000,Walk-in customers  ,Card,1044.67
+T10448,2025-09-18,6400,Oven Repair Pros,Card,2422.73
+T10449,2025-09-19,4000,Walk-in customers  ,card ,887.40
+T10450,2025-09-19,4100,Harbor Cafe Co,bank transfer,606.83
+T10451,2025-09-20,4000,Walk-in customers  ,CASH,908.76
+T10452,2025-09-20,4200,Lakeside Weddings,Bank Transfer,1313.41
+T10453,2025-09-21,4000,Walk-in customers  ,Card,791.08
+T10454,2025-09-23,4000,Walk-in customers  ,card ,960.18
+T10454,2025-09-23,4000,Walk-in customers  ,card ,960.18
+T10455,2025-09-23,4100,Harbor Cafe Co,bank transfer,784.42
+T10456,2025-09-24,4000,Walk-in customers  ,Card,749.79
+T10457,2025-09-24,5000,Millstone Flour Supply,Bank Transfer,1243.96
+T10458,2025-09-24,5100,Valley Dairy,Bank Transfer,700.64
+T10459,2025-09-25,4000,Walk-in customers  ,Card,770.46
+T10460,2025-09-26,4000,Walk-in customers  ,Card,1094.91
+T10461,2025-09-26,4100,Harbor Cafe Co,Bank transfer ,515.30
+T10462,2025-09-27,4000,Walk-in customers  ,Card,1069.08
+T10463,2025-09-28,4000,Walk-in customers  ,card ,925.10
+T10464,2025-09-30,4000,Walk-in customers  ,CARD,864.21
+T10465,2025-09-30,4100,Pier 9 Market ,Bank transfer ,820.69
+T10466,2025-09-30,6000,Payroll,Bank Transfer,8393.93
+T10467,2025-10-01,4000,Walk-in customers  ,CASH,731.55
+T10468,2025-10-01,5000,Millstone Flour Supply,Bank Transfer,1303.14
+T10469,2025-10-01,5100,Valley Dairy,Bank Transfer,743.54
+T10470,2025-10-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10471,2025-10-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10472,2025-10-02,4000,Walk-in customers  ,Cash,898.37
+T10473,2025-10-02,5200,BoxCo Packaging,Card,378.44
+T10474,2025-10-03,4000,Walk-in customers  ,card ,1171.52
+T10474,2025-10-03,4000,Walk-in customers  ,card ,1171.52
+T10475,2025-10-03,4100,Harbor Cafe Co,bank transfer,649.10
+T10476,2025-10-04,4000,Walk-in customers  ,card ,946.13
+T10477,2025-10-05,4000,Walk-in customers  ,Card,756.89
+T10478,2025-10-07,4000,Walk-in customers  ,card ,791.67
+T10479,2025-10-07,4100,Pier 9 Market ,Bank Transfer,832.14
+T10480,2025-10-08,4000,Walk-in customers  ,cash,1238.71
+T10481,2025-10-08,5000,Millstone Flour Supply,Bank Transfer,1137.59
+T10482,2025-10-08,5100,Valley Dairy,Bank Transfer,744.98
+T10483,2025-10-09,4000,Walk-in customers  ,cash,1118.44
+T10484,2025-10-10,4000,Walk-in customers  ,Card,1125.71
+T10485,2025-10-10,4100,Harbor Cafe Co,Bank Transfer,625.75
+T10486,2025-10-10,6200,City Power & Water,Bank Transfer,604.71
+T10487,2025-10-11,4000,Walk-in customers  ,Card,981.69
+T10488,2025-10-12,4000,Walk-in customers  ,Cash,913.27
+T10489,2025-10-14,4000,Walk-in customers  ,CASH,1026.92
+T10490,2025-10-14,4100,Harbor Cafe Co,bank transfer,741.91
+T10491,2025-10-15,4000,Walk-in customers  ,cash,1095.36
+T10492,2025-10-15,5000,Millstone Flour Supply,Bank Transfer,1265.59
+T10493,2025-10-15,5100,Valley Dairy,Bank Transfer,594.76
+T10494,2025-10-15,6000,Payroll,Bank Transfer,8476.45
+T10495,2025-10-16,4000,Walk-in customers  ,card ,706.89
+T10496,2025-10-17,4000,Walk-in customers  ,cash,1049.69
+T10497,2025-10-17,4100,Harbor Cafe Co,Bank Transfer,840.94
+T10498,2025-10-18,4000,Walk-in customers  ,Cash,1213.76
+T10499,2025-10-19,4000,Walk-in customers  ,cash,1224.30
+T10500,2025-10-20,6300,Local Ads Network,Card,1236.92
+T10501,2025-10-21,4000,Walk-in customers  ,card ,932.75
+T10502,2025-10-21,4100,Harbor Cafe Co,bank transfer,447.49
+T10503,2025-10-22,4000,Walk-in customers  ,Card,984.92
+T10504,2025-10-22,5000,Millstone Flour Supply,Bank Transfer,1007.68
+T10505,2025-10-22,5100,Valley Dairy,Bank Transfer,541.96
+T10505,2025-10-22,5100,Valley Dairy,Bank Transfer,541.96
+T10506,2025-10-23,4000,Walk-in customers  ,CASH,987.57
+T10507,2025-10-24,4000,Walk-in customers  ,cash,1041.02
+T10508,2025-10-24,4100,Harbor Cafe Co,Bank transfer ,824.24
+T10509,2025-10-25,4000,Walk-in customers  ,CASH,1102.38
+T10510,2025-10-26,4000,Walk-in customers  ,cash,879.42
+T10511,2025-10-28,4000,Walk-in customers  ,Cash,1099.68
+T10512,2025-10-28,4100,Pier 9 Market ,bank transfer,776.74
+T10513,2025-10-29,4000,Walk-in customers  ,card ,945.70
+T10514,2025-10-29,5000,Millstone Flour Supply,Bank Transfer,1476.59
+T10515,2025-10-29,5100,Valley Dairy,Bank Transfer,614.33
+T10516,2025-10-30,4000,Walk-in customers  ,CARD,923.82
+T10517,2025-10-31,4000,Walk-in customers  ,Card,829.03
+T10518,2025-10-31,4100,Pier 9 Market ,bank transfer,553.96
+T10519,2025-10-31,6000,Payroll,Bank Transfer,7818.07
+T10520,2025-11-01,4000,Walk-in customers  ,CASH,1180.71
+T10521,2025-11-01,4200,Lakeside Weddings,Bank transfer ,1939.06
+T10522,2025-11-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10523,2025-11-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10524,2025-11-02,4000,Walk-in customers  ,Card,841.79
+T10525,2025-11-04,4000,Walk-in customers  ,Cash,1347.71
+T10526,2025-11-04,4100,Harbor Cafe Co,Bank Transfer,682.44
+T10527,2025-11-05,4000,Walk-in customers  ,Card,
+T10528,2025-11-05,5000,Millstone Flour Supply,Bank Transfer,1509.38
+T10529,2025-11-05,5100,Valley Dairy,Bank transfer ,862.81
+T10530,2025-11-06,4000,Walk-in customers  ,cash,1362.14
+T10531,2025-11-06,5200,BoxCo Packaging,Card,316.84
+T10532,2025-11-07,4000,Walk-in customers  ,card ,1010.62
+T10532,2025-11-07,4000,Walk-in customers  ,card ,1010.62
+T10533,2025-11-07,4100,Harbor Cafe Co,Bank transfer ,1007.67
+T10534,2025-11-08,4000,Walk-in customers  ,CASH,1310.70
+T10535,2025-11-09,4000,Walk-in customers  ,cash,922.41
+T10536,2025-11-10,6200,City Power & Water,N/A,524.00
+T10537,2025-11-11,4000,Walk-in customers  ,CASH,1030.25
+T10538,2025-11-11,4100,Harbor Cafe Co,Bank transfer ,929.49
+T10539,2025-11-12,4000,Walk-in customers  ,CASH,1279.89
+T10540,2025-11-12,5000,Millstone Flour Supply,Bank Transfer,1317.22
+T10541,2025-11-12,5100,Valley Dairy,Bank transfer ,786.77
+T10542,2025-11-13,4000,Walk-in customers  ,Card,793.47
+T10543,2025-11-14,4000,Walk-in customers  ,card ,986.18
+T10544,2025-11-14,4100,Pier 9 Market ,Bank transfer ,825.21
+T10545,2025-11-15,4000,Walk-in customers  ,CASH,1010.50
+T10546,2025-11-15,4200,City Office Events,Bank transfer ,1726.04
+T10547,2025-11-15,6000,Payroll,Bank Transfer,8769.86
+T10548,2025-11-16,4000,Walk-in customers  ,cash,876.54
+T10549,2025-11-18,4000,Walk-in customers  ,CASH,957.04
+T10550,2025-11-18,4100,Harbor Cafe Co,Bank Transfer,934.32
+T10551,2025-11-19,4000,Walk-in customers  ,CASH,1285.51
+T10552,2025-11-19,5000,Millstone Flour Supply,Bank Transfer,1594.42
+T10553,2025-11-19,5100,Valley Dairy,bank transfer,745.37
+T10554,2025-11-20,4000,Walk-in customers  ,Card,1081.27
+T10555,2025-11-20,6300,Local Ads Network,Card,1865.50
+T10556,2025-11-21,4000,Walk-in customers  ,Card,1205.69
+T10557,2025-11-21,4100,Pier 9 Market ,Bank Transfer,546.42
+T10558,2025-11-22,4000,Walk-in customers  ,Cash,780.49
+T10559,2025-11-23,4000,Walk-in customers  ,CASH,1343.91
+T10560,2025-11-25,4000,Walk-in customers  ,Cash,1007.85
+T10561,2025-11-25,4100,Harbor Cafe Co,Bank transfer ,923.53
+T10562,2025-11-26,4000,Walk-in customers  ,card ,825.33
+T10563,2025-11-26,5000,Millstone Flour Supply,Bank Transfer,1301.45
+T10564,2025-11-26,5100,Valley Dairy,Bank transfer ,797.06
+T10565,2025-11-27,4000,Walk-in customers  ,cash,1069.09
+T10566,2025-11-28,4000,Walk-in customers  ,card ,1136.67
+T10567,2025-11-28,4100,Pier 9 Market ,Bank Transfer,1067.77
+T10568,2025-11-29,4000,Walk-in customers  ,cash,1046.19
+T10569,2025-11-29,4200,City Office Events,bank transfer,2737.60
+T10570,2025-11-30,4000,Walk-in customers  ,Card,1013.80
+T10571,2025-11-30,6000,Payroll,Bank Transfer,8714.42
+T10572,2025-12-01,6100,Harbor Street Properties,Bank Transfer,4200.00
+T10573,2025-12-01,6500,Anchor Insurance,Bank Transfer,385.00
+T10574,2025-12-02,4000,Walk-in customers  ,cash,952.24
+T10575,2025-12-02,4100,Pier 9 Market ,Bank transfer ,649.19
+T10576,2025-12-03,4000,Walk-in customers  ,Card,1392.70
+T10577,2025-12-03,5000,Millstone Flour Supply,Bank Transfer,1798.63
+T10578,2025-12-03,5100,Valley Dairy,Bank Transfer,1077.80
+T10579,2025-12-04,4000,Walk-in customers  ,CARD,1512.21
+T10580,2025-12-04,5200,BoxCo Packaging,Card,562.99
+T10581,2025-12-05,4000,Walk-in customers  ,card ,888.87
+T10582,2025-12-05,4100,Pier 9 Market ,Bank Transfer,1130.99
+T10583,2025-12-06,4000,Walk-in customers  ,Card,1241.42
+T10584,2025-12-07,4000,Walk-in customers  ,cash,1066.35
+T10585,2025-12-09,4000,Walk-in customers  ,Cash,1457.65
+T10586,2025-12-09,4100,Harbor Cafe Co,bank transfer,737.48
+T10587,2025-12-10,4000,Walk-in customers  ,Cash,1539.67
+T10588,2025-12-10,5000,Millstone Flour Supply,Bank Transfer,1368.24
+T10589,2025-12-10,5100,Valley Dairy,Bank Transfer,814.08
+T10590,2025-12-10,6200,City Power & Water,N/A,558.36
+T10591,2025-12-11,4000,Walk-in customers  ,card ,1044.47
+T10592,2025-12-12,4000,Walk-in customers  ,cash,928.01
+T10593,2025-12-12,4100,Pier 9 Market ,Bank transfer ,1001.38
+T10594,2025-12-13,4000,Walk-in customers  ,CARD,894.04
+T10595,2025-12-13,4200,City Office Events,Bank Transfer,3000.81
+T10596,2025-12-14,4000,Walk-in customers  ,Cash,1274.51
+T10597,2025-12-15,6000,Payroll,Bank Transfer,8799.81
+T10598,2025-12-16,4000,Walk-in customers  ,cash,1288.62
+T10599,2025-12-16,4100,Pier 9 Market ,Bank transfer ,1117.47
+T10600,2025-12-17,4000,Walk-in customers  ,card ,1143.11
+T10601,2025-12-17,5000,Millstone Flour Supply,Bank Transfer,1880.68
+T10602,2025-12-17,5100,Valley Dairy,bank transfer,706.75
+T10603,2025-12-18,4000,Walk-in customers  ,CASH,987.41
+T10604,2025-12-19,4000,Walk-in customers  ,CASH,970.00
+T10605,2025-12-19,4100,Pier 9 Market ,Bank Transfer,1115.95
+T10606,2025-12-20,4000,Walk-in customers  ,card ,922.53
+T10607,2025-12-20,4200,Lakeside Weddings,Card,2029.93
+T10608,2025-12-21,4000,Walk-in customers  ,Cash,1369.50
+T10609,2025-12-23,4000,Walk-in customers  ,card ,1290.03
+T10610,2025-12-23,4100,Pier 9 Market ,bank transfer,666.01
+T10611,2025-12-24,4000,Walk-in customers  ,CARD,1484.81
+T10612,2025-12-24,5000,Millstone Flour Supply,Bank Transfer,1547.88
+T10613,2025-12-24,5100,Valley Dairy,bank transfer,972.11
+T10614,2025-12-25,4000,Walk-in customers  ,CASH,1162.36
+T10615,2025-12-26,4000,Walk-in customers  ,cash,1002.08
+T10616,2025-12-26,4100,Pier 9 Market ,Bank Transfer,927.56
+T10617,2025-12-27,4000,Walk-in customers  ,Card,1140.14
+T10618,2025-12-28,4000,Walk-in customers  ,card ,967.28
+T10619,2025-12-30,4000,Walk-in customers  ,CARD,1181.91
+T10620,2025-12-30,4100,Harbor Cafe Co,Bank Transfer,610.82
+T10621,2025-12-31,4000,Walk-in customers  ,CASH,1450.80
+T10622,2025-12-31,5000,Millstone Flour Supply,Bank Transfer,1559.81
+T10623,2025-12-31,5100,Valley Dairy,bank transfer,677.31
+T10624,2025-12-31,6000,Payroll,Bank Transfer,

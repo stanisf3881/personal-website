@@ -1,0 +1,12 @@
+AccountID,AccountName,AccountGroup,NormalBalance,SortOrder
+40100,Product Revenue,Revenue,Credit,1
+40200,Service Revenue,Revenue,Credit,2
+50100,Cost of Products Sold,Cost of Sales,Debit,3
+50200,Cost of Services,Cost of Sales,Debit,4
+60100,Salaries and Benefits,Operating Expenses,Debit,5
+60200,Rent and Facilities,Operating Expenses,Debit,6
+60300,Travel,Operating Expenses,Debit,7
+60400,Software and IT,Operating Expenses,Debit,8
+60500,Marketing,Operating Expenses,Debit,9
+70100,Interest Expense,Other Income and Expense,Debit,10
+70200,Interest Income,Other Income and Expense,Credit,11
