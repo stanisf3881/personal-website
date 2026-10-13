@@ -100,8 +100,11 @@ A **calculated field** is a new column you define with a formula. Tableau works 
 
 #### How to create one (repeat for each row of the table below)
 1. Make sure you're on a worksheet (e.g. **Sheet 1**), not the Data Source page.
-2. Open the **Analysis** menu at the top of the window → **Create Calculated Field…**
-   - Or right-click any empty space in the Data pane → **Create Calculated Field…**
+2. Make sure the **Data** tab is selected at the top of the left panel, not **Analytics**. Analytics only lists reference lines and doesn't offer calculated fields. Then use any of these:
+   - Right-click empty white space in the Data pane → **Create Calculated Field…**
+   - Right-click any field (e.g. **Medal**) → **Create → Calculated Field…**
+   - Click the small **▾** arrow at the top of the Data pane, next to the search box → **Create Calculated Field…**
+   - Desktop app only: the **Analysis** menu in the top menu bar → **Create Calculated Field…** (the browser editor has no such menu bar)
 3. A small editor window opens. At the top is a name box that says **Calculation1**. Click it, delete the text, and type the **Name** from the table (e.g. `Medals`).
 4. Click in the large white box below it and type the **Formula** from the table.
    - Field names go inside square brackets and must match the Data pane exactly, e.g. `[Medal]`. If your field still shows as lowercase `medal`, type `[medal]` instead.
