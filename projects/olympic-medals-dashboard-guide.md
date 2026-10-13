@@ -94,19 +94,71 @@ Look at the small icon above each column in the preview grid:
 5. **Give Sex readable names.** Right-click **Sex** → **Aliases…** → set `F` = **Women**, `M` = **Men** → **OK**.
 
 ### Step 1.4 Create calculated fields
-For each one: menu **Analysis → Create Calculated Field…**, type the name, paste the formula, click **OK**.
+A **calculated field** is a new column you define with a formula. Tableau works it out for every row of the data. You'll make seven of them.
 
-| Name | Formula | Why |
-|---|---|---|
-| **Medals** | `1` | One per row; `SUM(Medals)` = medal count. It works the same in every Tableau version. |
-| **Gold Medals** | `IF [Medal] = "Gold" THEN 1 ELSE 0 END` | For tooltips |
-| **Silver Medals** | `IF [Medal] = "Silver" THEN 1 ELSE 0 END` | For tooltips |
-| **Bronze Medals** | `IF [Medal] = "Bronze" THEN 1 ELSE 0 END` | For tooltips |
-| **Nations** | `COUNTD([Country])` | KPI tile |
-| **Events** | `COUNTD([Event])` | KPI tile |
-| **Games** | `COUNTD([Year])` | KPI tile |
+> ⚠️ **`Medal` vs `Medals`.** Your data already has a field called **Medal** (no "s"). It holds the words Gold / Silver / Bronze and has a blue **Abc** icon. The first field you create is **Medals** (with an "s"), which counts medals. Keep the two straight; mixing them up is the most common mistake in Part 2.
 
-Then set number formats. Right-click **Medals** → **Default Properties → Number Format… → Number (Custom)**, set **Decimal places 0**, and leave **Include thousands separators** on. Do the same for the other six fields.
+#### How to create one (repeat for each row of the table below)
+1. Make sure you're on a worksheet (e.g. **Sheet 1**), not the Data Source page.
+2. Open the **Analysis** menu at the top of the window → **Create Calculated Field…**
+   - Or right-click any empty space in the Data pane → **Create Calculated Field…**
+3. A small editor window opens. At the top is a name box that says **Calculation1**. Click it, delete the text, and type the **Name** from the table (e.g. `Medals`).
+4. Click in the large white box below it and type the **Formula** from the table.
+   - Field names go inside square brackets and must match the Data pane exactly, e.g. `[Medal]`. If your field still shows as lowercase `medal`, type `[medal]` instead.
+   - Shortcut: type `[` and Tableau lists the fields; double-click one to insert it.
+   - Use plain straight quotes `"Gold"`. Curly quotes `“Gold”`, which phones and Word often produce when you copy and paste, cause errors.
+   - Words inside quotes must match the data exactly, including capitals: `"Gold"`, not `"gold"`.
+5. Look at the bottom-left of the editor:
+   - ✅ **"The calculation is valid."** Click **OK**.
+   - ❌ **"The calculation contains errors"** (red). Click the red text to see what's wrong. It's usually a typo in a field name, a missing `]`, a missing `END`, or curly quotes.
+6. The new field appears in the Data pane with an **=** in front of its icon (e.g. **=#**), meaning it's calculated. Number fields like these land **below the divider line**, as measures.
+
+| # | Name | Formula (type exactly) | What it does |
+|---|---|---|---|
+| 1 | **Medals** | `1` | Gives every row the value 1. Each row is one medal, so adding them up (`SUM(Medals)`) counts medals. |
+| 2 | **Gold Medals** | `IF [Medal] = "Gold" THEN 1 ELSE 0 END` | 1 if the row is a gold medal, otherwise 0. Adding it up counts golds. |
+| 3 | **Silver Medals** | `IF [Medal] = "Silver" THEN 1 ELSE 0 END` | Same for silver |
+| 4 | **Bronze Medals** | `IF [Medal] = "Bronze" THEN 1 ELSE 0 END` | Same for bronze |
+| 5 | **Nations** | `COUNTD([Country])` | Counts **distinct** countries in view (KPI tile) |
+| 6 | **Events** | `COUNTD([Event])` | Counts distinct events (KPI tile) |
+| 7 | **Games** | `COUNTD([Year])` | Counts distinct Olympic years (KPI tile) |
+
+Formulas 2–4 can be typed on one line, or split over several lines; Tableau doesn't mind.
+
+#### What you should see afterwards
+In the Data pane, below the divider line (measures):
+
+```
+=#  Bronze Medals
+=#  Events
+=#  Games
+=#  Gold Medals
+=#  Medals          ← the one you'll use most
+=#  Nations
+=#  Silver Medals
+ #  Medal Rank
+```
+
+When you drag these onto a shelf, the pill text tells you how Tableau will add them up:
+- **Medals** and **Gold / Silver / Bronze Medals** show as `SUM(Medals)`, `SUM(Gold Medals)` and so on.
+- **Nations**, **Events** and **Games** show as `AGG(Nations)` and so on. "AGG" appears because the formula already contains its own aggregation (COUNTD). That's expected.
+
+If you made a mistake, right-click the field in the Data pane → **Edit…** to fix the formula, or **Rename** to fix the name.
+
+#### Set number formats (once per field)
+This makes numbers display as whole numbers with commas (3,003, not 3003.00).
+1. In the Data pane, right-click **Medals** → **Default Properties** → **Number Format…**
+2. In the list on the left, pick **Number (Custom)**.
+3. Set **Decimal places** to `0`. Leave **Include thousands separators** ticked. Click **OK**.
+4. Repeat for **Gold Medals, Silver Medals, Bronze Medals, Nations, Events, Games**.
+
+> ✅ **Checkpoint for Step 1.4:**
+> 1. Drag **Medals** onto **Text** on the Marks card. You should see **3,003**.
+> 2. Drag **Gold Medals** onto **Text** as well; Tableau shows both numbers. You should see **1,000** gold.
+>    - Silver should give 1,004 and Bronze 999. Gold + Silver + Bronze = 3,003.
+> 3. Undo with **Ctrl+Z** (Mac **⌘Z**) until the sheet is empty again.
+>
+> If you see 0 golds, the formula's `"Gold"` doesn't match the data. Check capitals and quote marks.
 
 ### Step 1.5 Create the "Top N" parameter
 This lets viewers choose how many nations to show.
