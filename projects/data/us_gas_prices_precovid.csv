@@ -1,0 +1,931 @@
+date,year,month,month_name,geo_level,geo_code,geo_name,padd_region,regular_gas_usd_gal
+2015-01-01,2015,1,Jan,National,US,United States,United States,2.116
+2015-02-01,2015,2,Feb,National,US,United States,United States,2.216
+2015-03-01,2015,3,Mar,National,US,United States,United States,2.464
+2015-04-01,2015,4,Apr,National,US,United States,United States,2.469
+2015-05-01,2015,5,May,National,US,United States,United States,2.718
+2015-06-01,2015,6,Jun,National,US,United States,United States,2.802
+2015-07-01,2015,7,Jul,National,US,United States,United States,2.794
+2015-08-01,2015,8,Aug,National,US,United States,United States,2.636
+2015-09-01,2015,9,Sep,National,US,United States,United States,2.365
+2015-10-01,2015,10,Oct,National,US,United States,United States,2.29
+2015-11-01,2015,11,Nov,National,US,United States,United States,2.158
+2015-12-01,2015,12,Dec,National,US,United States,United States,2.038
+2016-01-01,2016,1,Jan,National,US,United States,United States,1.949
+2016-02-01,2016,2,Feb,National,US,United States,United States,1.764
+2016-03-01,2016,3,Mar,National,US,United States,United States,1.969
+2016-04-01,2016,4,Apr,National,US,United States,United States,2.113
+2016-05-01,2016,5,May,National,US,United States,United States,2.268
+2016-06-01,2016,6,Jun,National,US,United States,United States,2.366
+2016-07-01,2016,7,Jul,National,US,United States,United States,2.239
+2016-08-01,2016,8,Aug,National,US,United States,United States,2.178
+2016-09-01,2016,9,Sep,National,US,United States,United States,2.219
+2016-10-01,2016,10,Oct,National,US,United States,United States,2.249
+2016-11-01,2016,11,Nov,National,US,United States,United States,2.182
+2016-12-01,2016,12,Dec,National,US,United States,United States,2.254
+2017-01-01,2017,1,Jan,National,US,United States,United States,2.349
+2017-02-01,2017,2,Feb,National,US,United States,United States,2.304
+2017-03-01,2017,3,Mar,National,US,United States,United States,2.325
+2017-04-01,2017,4,Apr,National,US,United States,United States,2.417
+2017-05-01,2017,5,May,National,US,United States,United States,2.391
+2017-06-01,2017,6,Jun,National,US,United States,United States,2.347
+2017-07-01,2017,7,Jul,National,US,United States,United States,2.3
+2017-08-01,2017,8,Aug,National,US,United States,United States,2.38
+2017-09-01,2017,9,Sep,National,US,United States,United States,2.645
+2017-10-01,2017,10,Oct,National,US,United States,United States,2.505
+2017-11-01,2017,11,Nov,National,US,United States,United States,2.564
+2017-12-01,2017,12,Dec,National,US,United States,United States,2.477
+2018-01-01,2018,1,Jan,National,US,United States,United States,2.555
+2018-02-01,2018,2,Feb,National,US,United States,United States,2.587
+2018-03-01,2018,3,Mar,National,US,United States,United States,2.591
+2018-04-01,2018,4,Apr,National,US,United States,United States,2.757
+2018-05-01,2018,5,May,National,US,United States,United States,2.901
+2018-06-01,2018,6,Jun,National,US,United States,United States,2.891
+2018-07-01,2018,7,Jul,National,US,United States,United States,2.849
+2018-08-01,2018,8,Aug,National,US,United States,United States,2.836
+2018-09-01,2018,9,Sep,National,US,United States,United States,2.836
+2018-10-01,2018,10,Oct,National,US,United States,United States,2.86
+2018-11-01,2018,11,Nov,National,US,United States,United States,2.647
+2018-12-01,2018,12,Dec,National,US,United States,United States,2.366
+2019-01-01,2019,1,Jan,National,US,United States,United States,2.248
+2019-02-01,2019,2,Feb,National,US,United States,United States,2.309
+2019-03-01,2019,3,Mar,National,US,United States,United States,2.516
+2019-04-01,2019,4,Apr,National,US,United States,United States,2.798
+2019-05-01,2019,5,May,National,US,United States,United States,2.859
+2019-06-01,2019,6,Jun,National,US,United States,United States,2.716
+2019-07-01,2019,7,Jul,National,US,United States,United States,2.74
+2019-08-01,2019,8,Aug,National,US,United States,United States,2.621
+2019-09-01,2019,9,Sep,National,US,United States,United States,2.592
+2019-10-01,2019,10,Oct,National,US,United States,United States,2.627
+2019-11-01,2019,11,Nov,National,US,United States,United States,2.598
+2019-12-01,2019,12,Dec,National,US,United States,United States,2.555
+2020-01-01,2020,1,Jan,National,US,United States,United States,2.548
+2020-02-01,2020,2,Feb,National,US,United States,United States,2.442
+2015-01-01,2015,1,Jan,PADD,R10,East Coast (PADD 1),East Coast,2.218
+2015-02-01,2015,2,Feb,PADD,R10,East Coast (PADD 1),East Coast,2.209
+2015-03-01,2015,3,Mar,PADD,R10,East Coast (PADD 1),East Coast,2.388
+2015-04-01,2015,4,Apr,PADD,R10,East Coast (PADD 1),East Coast,2.417
+2015-05-01,2015,5,May,PADD,R10,East Coast (PADD 1),East Coast,2.62
+2015-06-01,2015,6,Jun,PADD,R10,East Coast (PADD 1),East Coast,2.712
+2015-07-01,2015,7,Jul,PADD,R10,East Coast (PADD 1),East Coast,2.679
+2015-08-01,2015,8,Aug,PADD,R10,East Coast (PADD 1),East Coast,2.474
+2015-09-01,2015,9,Sep,PADD,R10,East Coast (PADD 1),East Coast,2.238
+2015-10-01,2015,10,Oct,PADD,R10,East Coast (PADD 1),East Coast,2.165
+2015-11-01,2015,11,Nov,PADD,R10,East Coast (PADD 1),East Coast,2.125
+2015-12-01,2015,12,Dec,PADD,R10,East Coast (PADD 1),East Coast,2.042
+2016-01-01,2016,1,Jan,PADD,R10,East Coast (PADD 1),East Coast,1.935
+2016-02-01,2016,2,Feb,PADD,R10,East Coast (PADD 1),East Coast,1.771
+2016-03-01,2016,3,Mar,PADD,R10,East Coast (PADD 1),East Coast,1.905
+2016-04-01,2016,4,Apr,PADD,R10,East Coast (PADD 1),East Coast,2.072
+2016-05-01,2016,5,May,PADD,R10,East Coast (PADD 1),East Coast,2.237
+2016-06-01,2016,6,Jun,PADD,R10,East Coast (PADD 1),East Coast,2.289
+2016-07-01,2016,7,Jul,PADD,R10,East Coast (PADD 1),East Coast,2.177
+2016-08-01,2016,8,Aug,PADD,R10,East Coast (PADD 1),East Coast,2.108
+2016-09-01,2016,9,Sep,PADD,R10,East Coast (PADD 1),East Coast,2.179
+2016-10-01,2016,10,Oct,PADD,R10,East Coast (PADD 1),East Coast,2.225
+2016-11-01,2016,11,Nov,PADD,R10,East Coast (PADD 1),East Coast,2.198
+2016-12-01,2016,12,Dec,PADD,R10,East Coast (PADD 1),East Coast,2.273
+2017-01-01,2017,1,Jan,PADD,R10,East Coast (PADD 1),East Coast,2.365
+2017-02-01,2017,2,Feb,PADD,R10,East Coast (PADD 1),East Coast,2.294
+2017-03-01,2017,3,Mar,PADD,R10,East Coast (PADD 1),East Coast,2.275
+2017-04-01,2017,4,Apr,PADD,R10,East Coast (PADD 1),East Coast,2.373
+2017-05-01,2017,5,May,PADD,R10,East Coast (PADD 1),East Coast,2.345
+2017-06-01,2017,6,Jun,PADD,R10,East Coast (PADD 1),East Coast,2.288
+2017-07-01,2017,7,Jul,PADD,R10,East Coast (PADD 1),East Coast,2.242
+2017-08-01,2017,8,Aug,PADD,R10,East Coast (PADD 1),East Coast,2.326
+2017-09-01,2017,9,Sep,PADD,R10,East Coast (PADD 1),East Coast,2.697
+2017-10-01,2017,10,Oct,PADD,R10,East Coast (PADD 1),East Coast,2.496
+2017-11-01,2017,11,Nov,PADD,R10,East Coast (PADD 1),East Coast,2.514
+2017-12-01,2017,12,Dec,PADD,R10,East Coast (PADD 1),East Coast,2.455
+2018-01-01,2018,1,Jan,PADD,R10,East Coast (PADD 1),East Coast,2.53
+2018-02-01,2018,2,Feb,PADD,R10,East Coast (PADD 1),East Coast,2.577
+2018-03-01,2018,3,Mar,PADD,R10,East Coast (PADD 1),East Coast,2.543
+2018-04-01,2018,4,Apr,PADD,R10,East Coast (PADD 1),East Coast,2.703
+2018-05-01,2018,5,May,PADD,R10,East Coast (PADD 1),East Coast,2.846
+2018-06-01,2018,6,Jun,PADD,R10,East Coast (PADD 1),East Coast,2.82
+2018-07-01,2018,7,Jul,PADD,R10,East Coast (PADD 1),East Coast,2.783
+2018-08-01,2018,8,Aug,PADD,R10,East Coast (PADD 1),East Coast,2.787
+2018-09-01,2018,9,Sep,PADD,R10,East Coast (PADD 1),East Coast,2.78
+2018-10-01,2018,10,Oct,PADD,R10,East Coast (PADD 1),East Coast,2.788
+2018-11-01,2018,11,Nov,PADD,R10,East Coast (PADD 1),East Coast,2.588
+2018-12-01,2018,12,Dec,PADD,R10,East Coast (PADD 1),East Coast,2.341
+2019-01-01,2019,1,Jan,PADD,R10,East Coast (PADD 1),East Coast,2.231
+2019-02-01,2019,2,Feb,PADD,R10,East Coast (PADD 1),East Coast,2.274
+2019-03-01,2019,3,Mar,PADD,R10,East Coast (PADD 1),East Coast,2.475
+2019-04-01,2019,4,Apr,PADD,R10,East Coast (PADD 1),East Coast,2.7
+2019-05-01,2019,5,May,PADD,R10,East Coast (PADD 1),East Coast,2.741
+2019-06-01,2019,6,Jun,PADD,R10,East Coast (PADD 1),East Coast,2.596
+2019-07-01,2019,7,Jul,PADD,R10,East Coast (PADD 1),East Coast,2.654
+2019-08-01,2019,8,Aug,PADD,R10,East Coast (PADD 1),East Coast,2.538
+2019-09-01,2019,9,Sep,PADD,R10,East Coast (PADD 1),East Coast,2.488
+2019-10-01,2019,10,Oct,PADD,R10,East Coast (PADD 1),East Coast,2.471
+2019-11-01,2019,11,Nov,PADD,R10,East Coast (PADD 1),East Coast,2.466
+2019-12-01,2019,12,Dec,PADD,R10,East Coast (PADD 1),East Coast,2.476
+2020-01-01,2020,1,Jan,PADD,R10,East Coast (PADD 1),East Coast,2.501
+2020-02-01,2020,2,Feb,PADD,R10,East Coast (PADD 1),East Coast,2.382
+2015-01-01,2015,1,Jan,PADD,R20,Midwest (PADD 2),Midwest,1.945
+2015-02-01,2015,2,Feb,PADD,R20,Midwest (PADD 2),Midwest,2.177
+2015-03-01,2015,3,Mar,PADD,R20,Midwest (PADD 2),Midwest,2.354
+2015-04-01,2015,4,Apr,PADD,R20,Midwest (PADD 2),Midwest,2.363
+2015-05-01,2015,5,May,PADD,R20,Midwest (PADD 2),Midwest,2.565
+2015-06-01,2015,6,Jun,PADD,R20,Midwest (PADD 2),Midwest,2.729
+2015-07-01,2015,7,Jul,PADD,R20,Midwest (PADD 2),Midwest,2.678
+2015-08-01,2015,8,Aug,PADD,R20,Midwest (PADD 2),Midwest,2.584
+2015-09-01,2015,9,Sep,PADD,R20,Midwest (PADD 2),Midwest,2.305
+2015-10-01,2015,10,Oct,PADD,R20,Midwest (PADD 2),Midwest,2.321
+2015-11-01,2015,11,Nov,PADD,R20,Midwest (PADD 2),Midwest,2.076
+2015-12-01,2015,12,Dec,PADD,R20,Midwest (PADD 2),Midwest,1.878
+2016-01-01,2016,1,Jan,PADD,R20,Midwest (PADD 2),Midwest,1.756
+2016-02-01,2016,2,Feb,PADD,R20,Midwest (PADD 2),Midwest,1.599
+2016-03-01,2016,3,Mar,PADD,R20,Midwest (PADD 2),Midwest,1.91
+2016-04-01,2016,4,Apr,PADD,R20,Midwest (PADD 2),Midwest,2.027
+2016-05-01,2016,5,May,PADD,R20,Midwest (PADD 2),Midwest,2.219
+2016-06-01,2016,6,Jun,PADD,R20,Midwest (PADD 2),Midwest,2.384
+2016-07-01,2016,7,Jul,PADD,R20,Midwest (PADD 2),Midwest,2.148
+2016-08-01,2016,8,Aug,PADD,R20,Midwest (PADD 2),Midwest,2.142
+2016-09-01,2016,9,Sep,PADD,R20,Midwest (PADD 2),Midwest,2.153
+2016-10-01,2016,10,Oct,PADD,R20,Midwest (PADD 2),Midwest,2.146
+2016-11-01,2016,11,Nov,PADD,R20,Midwest (PADD 2),Midwest,2.032
+2016-12-01,2016,12,Dec,PADD,R20,Midwest (PADD 2),Midwest,2.185
+2017-01-01,2017,1,Jan,PADD,R20,Midwest (PADD 2),Midwest,2.272
+2017-02-01,2017,2,Feb,PADD,R20,Midwest (PADD 2),Midwest,2.199
+2017-03-01,2017,3,Mar,PADD,R20,Midwest (PADD 2),Midwest,2.222
+2017-04-01,2017,4,Apr,PADD,R20,Midwest (PADD 2),Midwest,2.334
+2017-05-01,2017,5,May,PADD,R20,Midwest (PADD 2),Midwest,2.281
+2017-06-01,2017,6,Jun,PADD,R20,Midwest (PADD 2),Midwest,2.231
+2017-07-01,2017,7,Jul,PADD,R20,Midwest (PADD 2),Midwest,2.207
+2017-08-01,2017,8,Aug,PADD,R20,Midwest (PADD 2),Midwest,2.285
+2017-09-01,2017,9,Sep,PADD,R20,Midwest (PADD 2),Midwest,2.473
+2017-10-01,2017,10,Oct,PADD,R20,Midwest (PADD 2),Midwest,2.386
+2017-11-01,2017,11,Nov,PADD,R20,Midwest (PADD 2),Midwest,2.498
+2017-12-01,2017,12,Dec,PADD,R20,Midwest (PADD 2),Midwest,2.365
+2018-01-01,2018,1,Jan,PADD,R20,Midwest (PADD 2),Midwest,2.473
+2018-02-01,2018,2,Feb,PADD,R20,Midwest (PADD 2),Midwest,2.448
+2018-03-01,2018,3,Mar,PADD,R20,Midwest (PADD 2),Midwest,2.469
+2018-04-01,2018,4,Apr,PADD,R20,Midwest (PADD 2),Midwest,2.62
+2018-05-01,2018,5,May,PADD,R20,Midwest (PADD 2),Midwest,2.803
+2018-06-01,2018,6,Jun,PADD,R20,Midwest (PADD 2),Midwest,2.793
+2018-07-01,2018,7,Jul,PADD,R20,Midwest (PADD 2),Midwest,2.769
+2018-08-01,2018,8,Aug,PADD,R20,Midwest (PADD 2),Midwest,2.753
+2018-09-01,2018,9,Sep,PADD,R20,Midwest (PADD 2),Midwest,2.755
+2018-10-01,2018,10,Oct,PADD,R20,Midwest (PADD 2),Midwest,2.748
+2018-11-01,2018,11,Nov,PADD,R20,Midwest (PADD 2),Midwest,2.462
+2018-12-01,2018,12,Dec,PADD,R20,Midwest (PADD 2),Midwest,2.126
+2019-01-01,2019,1,Jan,PADD,R20,Midwest (PADD 2),Midwest,2.035
+2019-02-01,2019,2,Feb,PADD,R20,Midwest (PADD 2),Midwest,2.186
+2019-03-01,2019,3,Mar,PADD,R20,Midwest (PADD 2),Midwest,2.442
+2019-04-01,2019,4,Apr,PADD,R20,Midwest (PADD 2),Midwest,2.704
+2019-05-01,2019,5,May,PADD,R20,Midwest (PADD 2),Midwest,2.74
+2019-06-01,2019,6,Jun,PADD,R20,Midwest (PADD 2),Midwest,2.617
+2019-07-01,2019,7,Jul,PADD,R20,Midwest (PADD 2),Midwest,2.682
+2019-08-01,2019,8,Aug,PADD,R20,Midwest (PADD 2),Midwest,2.542
+2019-09-01,2019,9,Sep,PADD,R20,Midwest (PADD 2),Midwest,2.486
+2019-10-01,2019,10,Oct,PADD,R20,Midwest (PADD 2),Midwest,2.466
+2019-11-01,2019,11,Nov,PADD,R20,Midwest (PADD 2),Midwest,2.423
+2019-12-01,2019,12,Dec,PADD,R20,Midwest (PADD 2),Midwest,2.419
+2020-01-01,2020,1,Jan,PADD,R20,Midwest (PADD 2),Midwest,2.409
+2020-02-01,2020,2,Feb,PADD,R20,Midwest (PADD 2),Midwest,2.309
+2015-01-01,2015,1,Jan,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.9
+2015-02-01,2015,2,Feb,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.007
+2015-03-01,2015,3,Mar,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.208
+2015-04-01,2015,4,Apr,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.23
+2015-05-01,2015,5,May,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.443
+2015-06-01,2015,6,Jun,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.546
+2015-07-01,2015,7,Jul,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.494
+2015-08-01,2015,8,Aug,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.31
+2015-09-01,2015,9,Sep,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.067
+2015-10-01,2015,10,Oct,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.009
+2015-11-01,2015,11,Nov,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.898
+2015-12-01,2015,12,Dec,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.786
+2016-01-01,2016,1,Jan,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.694
+2016-02-01,2016,2,Feb,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.553
+2016-03-01,2016,3,Mar,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.754
+2016-04-01,2016,4,Apr,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.882
+2016-05-01,2016,5,May,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.025
+2016-06-01,2016,6,Jun,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.118
+2016-07-01,2016,7,Jul,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.027
+2016-08-01,2016,8,Aug,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.957
+2016-09-01,2016,9,Sep,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.977
+2016-10-01,2016,10,Oct,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.037
+2016-11-01,2016,11,Nov,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.954
+2016-12-01,2016,12,Dec,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.03
+2017-01-01,2017,1,Jan,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.134
+2017-02-01,2017,2,Feb,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.072
+2017-03-01,2017,3,Mar,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.082
+2017-04-01,2017,4,Apr,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.196
+2017-05-01,2017,5,May,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.159
+2017-06-01,2017,6,Jun,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.114
+2017-07-01,2017,7,Jul,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.043
+2017-08-01,2017,8,Aug,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.143
+2017-09-01,2017,9,Sep,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.474
+2017-10-01,2017,10,Oct,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.28
+2017-11-01,2017,11,Nov,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.275
+2017-12-01,2017,12,Dec,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.2
+2018-01-01,2018,1,Jan,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.282
+2018-02-01,2018,2,Feb,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.306
+2018-03-01,2018,3,Mar,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.309
+2018-04-01,2018,4,Apr,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.496
+2018-05-01,2018,5,May,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.65
+2018-06-01,2018,6,Jun,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.673
+2018-07-01,2018,7,Jul,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.598
+2018-08-01,2018,8,Aug,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.578
+2018-09-01,2018,9,Sep,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.56
+2018-10-01,2018,10,Oct,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.59
+2018-11-01,2018,11,Nov,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.342
+2018-12-01,2018,12,Dec,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.027
+2019-01-01,2019,1,Jan,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,1.917
+2019-02-01,2019,2,Feb,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.013
+2019-03-01,2019,3,Mar,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.27
+2019-04-01,2019,4,Apr,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.51
+2019-05-01,2019,5,May,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.516
+2019-06-01,2019,6,Jun,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.355
+2019-07-01,2019,7,Jul,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.425
+2019-08-01,2019,8,Aug,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.31
+2019-09-01,2019,9,Sep,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.275
+2019-10-01,2019,10,Oct,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.266
+2019-11-01,2019,11,Nov,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.238
+2019-12-01,2019,12,Dec,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.231
+2020-01-01,2020,1,Jan,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.244
+2020-02-01,2020,2,Feb,PADD,R30,Gulf Coast (PADD 3),Gulf Coast,2.114
+2015-01-01,2015,1,Jan,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,1.97
+2015-02-01,2015,2,Feb,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,1.962
+2015-03-01,2015,3,Mar,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.252
+2015-04-01,2015,4,Apr,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.394
+2015-05-01,2015,5,May,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.654
+2015-06-01,2015,6,Jun,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.772
+2015-07-01,2015,7,Jul,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.831
+2015-08-01,2015,8,Aug,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.81
+2015-09-01,2015,9,Sep,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.64
+2015-10-01,2015,10,Oct,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.39
+2015-11-01,2015,11,Nov,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.14
+2015-12-01,2015,12,Dec,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,1.994
+2016-01-01,2016,1,Jan,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,1.919
+2016-02-01,2016,2,Feb,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,1.724
+2016-03-01,2016,3,Mar,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,1.875
+2016-04-01,2016,4,Apr,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.041
+2016-05-01,2016,5,May,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.248
+2016-06-01,2016,6,Jun,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.321
+2016-07-01,2016,7,Jul,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.283
+2016-08-01,2016,8,Aug,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.237
+2016-09-01,2016,9,Sep,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.263
+2016-10-01,2016,10,Oct,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.267
+2016-11-01,2016,11,Nov,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.209
+2016-12-01,2016,12,Dec,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.138
+2017-01-01,2017,1,Jan,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.254
+2017-02-01,2017,2,Feb,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.247
+2017-03-01,2017,3,Mar,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.3
+2017-04-01,2017,4,Apr,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.355
+2017-05-01,2017,5,May,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.397
+2017-06-01,2017,6,Jun,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.414
+2017-07-01,2017,7,Jul,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.34
+2017-08-01,2017,8,Aug,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.435
+2017-09-01,2017,9,Sep,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.6
+2017-10-01,2017,10,Oct,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.536
+2017-11-01,2017,11,Nov,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.54
+2017-12-01,2017,12,Dec,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.494
+2018-01-01,2018,1,Jan,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.458
+2018-02-01,2018,2,Feb,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.487
+2018-03-01,2018,3,Mar,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.458
+2018-04-01,2018,4,Apr,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.709
+2018-05-01,2018,5,May,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.926
+2018-06-01,2018,6,Jun,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.981
+2018-07-01,2018,7,Jul,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.947
+2018-08-01,2018,8,Aug,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.956
+2018-09-01,2018,9,Sep,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,3.011
+2018-10-01,2018,10,Oct,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.98
+2018-11-01,2018,11,Nov,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.863
+2018-12-01,2018,12,Dec,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.572
+2019-01-01,2019,1,Jan,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.296
+2019-02-01,2019,2,Feb,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.179
+2019-03-01,2019,3,Mar,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.297
+2019-04-01,2019,4,Apr,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.65
+2019-05-01,2019,5,May,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.961
+2019-06-01,2019,6,Jun,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.927
+2019-07-01,2019,7,Jul,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.767
+2019-08-01,2019,8,Aug,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.677
+2019-09-01,2019,9,Sep,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.664
+2019-10-01,2019,10,Oct,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.721
+2019-11-01,2019,11,Nov,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.818
+2019-12-01,2019,12,Dec,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.738
+2020-01-01,2020,1,Jan,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.594
+2020-02-01,2020,2,Feb,PADD,R40,Rocky Mountain (PADD 4),Rocky Mountain,2.487
+2015-01-01,2015,1,Jan,PADD,R50,West Coast (PADD 5),West Coast,2.446
+2015-02-01,2015,2,Feb,PADD,R50,West Coast (PADD 5),West Coast,2.546
+2015-03-01,2015,3,Mar,PADD,R50,West Coast (PADD 5),West Coast,3.095
+2015-04-01,2015,4,Apr,PADD,R50,West Coast (PADD 5),West Coast,3.007
+2015-05-01,2015,5,May,PADD,R50,West Coast (PADD 5),West Coast,3.465
+2015-06-01,2015,6,Jun,PADD,R50,West Coast (PADD 5),West Coast,3.359
+2015-07-01,2015,7,Jul,PADD,R50,West Coast (PADD 5),West Coast,3.509
+2015-08-01,2015,8,Aug,PADD,R50,West Coast (PADD 5),West Coast,3.33
+2015-09-01,2015,9,Sep,PADD,R50,West Coast (PADD 5),West Coast,2.958
+2015-10-01,2015,10,Oct,PADD,R50,West Coast (PADD 5),West Coast,2.727
+2015-11-01,2015,11,Nov,PADD,R50,West Coast (PADD 5),West Coast,2.616
+2015-12-01,2015,12,Dec,PADD,R50,West Coast (PADD 5),West Coast,2.563
+2016-01-01,2016,1,Jan,PADD,R50,West Coast (PADD 5),West Coast,2.569
+2016-02-01,2016,2,Feb,PADD,R50,West Coast (PADD 5),West Coast,2.251
+2016-03-01,2016,3,Mar,PADD,R50,West Coast (PADD 5),West Coast,2.422
+2016-04-01,2016,4,Apr,PADD,R50,West Coast (PADD 5),West Coast,2.583
+2016-05-01,2016,5,May,PADD,R50,West Coast (PADD 5),West Coast,2.649
+2016-06-01,2016,6,Jun,PADD,R50,West Coast (PADD 5),West Coast,2.726
+2016-07-01,2016,7,Jul,PADD,R50,West Coast (PADD 5),West Coast,2.72
+2016-08-01,2016,8,Aug,PADD,R50,West Coast (PADD 5),West Coast,2.577
+2016-09-01,2016,9,Sep,PADD,R50,West Coast (PADD 5),West Coast,2.632
+2016-10-01,2016,10,Oct,PADD,R50,West Coast (PADD 5),West Coast,2.682
+2016-11-01,2016,11,Nov,PADD,R50,West Coast (PADD 5),West Coast,2.624
+2016-12-01,2016,12,Dec,PADD,R50,West Coast (PADD 5),West Coast,2.571
+2017-01-01,2017,1,Jan,PADD,R50,West Coast (PADD 5),West Coast,2.674
+2017-02-01,2017,2,Feb,PADD,R50,West Coast (PADD 5),West Coast,2.745
+2017-03-01,2017,3,Mar,PADD,R50,West Coast (PADD 5),West Coast,2.845
+2017-04-01,2017,4,Apr,PADD,R50,West Coast (PADD 5),West Coast,2.875
+2017-05-01,2017,5,May,PADD,R50,West Coast (PADD 5),West Coast,2.901
+2017-06-01,2017,6,Jun,PADD,R50,West Coast (PADD 5),West Coast,2.88
+2017-07-01,2017,7,Jul,PADD,R50,West Coast (PADD 5),West Coast,2.816
+2017-08-01,2017,8,Aug,PADD,R50,West Coast (PADD 5),West Coast,2.874
+2017-09-01,2017,9,Sep,PADD,R50,West Coast (PADD 5),West Coast,3.02
+2017-10-01,2017,10,Oct,PADD,R50,West Coast (PADD 5),West Coast,2.943
+2017-11-01,2017,11,Nov,PADD,R50,West Coast (PADD 5),West Coast,3.055
+2017-12-01,2017,12,Dec,PADD,R50,West Coast (PADD 5),West Coast,2.977
+2018-01-01,2018,1,Jan,PADD,R50,West Coast (PADD 5),West Coast,3.022
+2018-02-01,2018,2,Feb,PADD,R50,West Coast (PADD 5),West Coast,3.138
+2018-03-01,2018,3,Mar,PADD,R50,West Coast (PADD 5),West Coast,3.2
+2018-04-01,2018,4,Apr,PADD,R50,West Coast (PADD 5),West Coast,3.369
+2018-05-01,2018,5,May,PADD,R50,West Coast (PADD 5),West Coast,3.442
+2018-06-01,2018,6,Jun,PADD,R50,West Coast (PADD 5),West Coast,3.439
+2018-07-01,2018,7,Jul,PADD,R50,West Coast (PADD 5),West Coast,3.374
+2018-08-01,2018,8,Aug,PADD,R50,West Coast (PADD 5),West Coast,3.322
+2018-09-01,2018,9,Sep,PADD,R50,West Coast (PADD 5),West Coast,3.34
+2018-10-01,2018,10,Oct,PADD,R50,West Coast (PADD 5),West Coast,3.472
+2018-11-01,2018,11,Nov,PADD,R50,West Coast (PADD 5),West Coast,3.377
+2018-12-01,2018,12,Dec,PADD,R50,West Coast (PADD 5),West Coast,3.133
+2019-01-01,2019,1,Jan,PADD,R50,West Coast (PADD 5),West Coast,2.969
+2019-02-01,2019,2,Feb,PADD,R50,West Coast (PADD 5),West Coast,2.922
+2019-03-01,2019,3,Mar,PADD,R50,West Coast (PADD 5),West Coast,3.024
+2019-04-01,2019,4,Apr,PADD,R50,West Coast (PADD 5),West Coast,3.512
+2019-05-01,2019,5,May,PADD,R50,West Coast (PADD 5),West Coast,3.674
+2019-06-01,2019,6,Jun,PADD,R50,West Coast (PADD 5),West Coast,3.49
+2019-07-01,2019,7,Jul,PADD,R50,West Coast (PADD 5),West Coast,3.351
+2019-08-01,2019,8,Aug,PADD,R50,West Coast (PADD 5),West Coast,3.255
+2019-09-01,2019,9,Sep,PADD,R50,West Coast (PADD 5),West Coast,3.328
+2019-10-01,2019,10,Oct,PADD,R50,West Coast (PADD 5),West Coast,3.64
+2019-11-01,2019,11,Nov,PADD,R50,West Coast (PADD 5),West Coast,3.551
+2019-12-01,2019,12,Dec,PADD,R50,West Coast (PADD 5),West Coast,3.293
+2020-01-01,2020,1,Jan,PADD,R50,West Coast (PADD 5),West Coast,3.19
+2020-02-01,2020,2,Feb,PADD,R50,West Coast (PADD 5),West Coast,3.144
+2015-01-01,2015,1,Jan,State,CA,California,West Coast,2.547
+2015-02-01,2015,2,Feb,State,CA,California,West Coast,2.706
+2015-03-01,2015,3,Mar,State,CA,California,West Coast,3.338
+2015-04-01,2015,4,Apr,State,CA,California,West Coast,3.21
+2015-05-01,2015,5,May,State,CA,California,West Coast,3.752
+2015-06-01,2015,6,Jun,State,CA,California,West Coast,3.545
+2015-07-01,2015,7,Jul,State,CA,California,West Coast,3.755
+2015-08-01,2015,8,Aug,State,CA,California,West Coast,3.54
+2015-09-01,2015,9,Sep,State,CA,California,West Coast,3.122
+2015-10-01,2015,10,Oct,State,CA,California,West Coast,2.893
+2015-11-01,2015,11,Nov,State,CA,California,West Coast,2.766
+2015-12-01,2015,12,Dec,State,CA,California,West Coast,2.724
+2016-01-01,2016,1,Jan,State,CA,California,West Coast,2.768
+2016-02-01,2016,2,Feb,State,CA,California,West Coast,2.423
+2016-03-01,2016,3,Mar,State,CA,California,West Coast,2.625
+2016-04-01,2016,4,Apr,State,CA,California,West Coast,2.768
+2016-05-01,2016,5,May,State,CA,California,West Coast,2.8
+2016-06-01,2016,6,Jun,State,CA,California,West Coast,2.875
+2016-07-01,2016,7,Jul,State,CA,California,West Coast,2.857
+2016-08-01,2016,8,Aug,State,CA,California,West Coast,2.692
+2016-09-01,2016,9,Sep,State,CA,California,West Coast,2.747
+2016-10-01,2016,10,Oct,State,CA,California,West Coast,2.807
+2016-11-01,2016,11,Nov,State,CA,California,West Coast,2.732
+2016-12-01,2016,12,Dec,State,CA,California,West Coast,2.681
+2017-01-01,2017,1,Jan,State,CA,California,West Coast,2.79
+2017-02-01,2017,2,Feb,State,CA,California,West Coast,2.888
+2017-03-01,2017,3,Mar,State,CA,California,West Coast,3.001
+2017-04-01,2017,4,Apr,State,CA,California,West Coast,3.009
+2017-05-01,2017,5,May,State,CA,California,West Coast,3.043
+2017-06-01,2017,6,Jun,State,CA,California,West Coast,3.023
+2017-07-01,2017,7,Jul,State,CA,California,West Coast,2.95
+2017-08-01,2017,8,Aug,State,CA,California,West Coast,3.017
+2017-09-01,2017,9,Sep,State,CA,California,West Coast,3.164
+2017-10-01,2017,10,Oct,State,CA,California,West Coast,3.08
+2017-11-01,2017,11,Nov,State,CA,California,West Coast,3.235
+2017-12-01,2017,12,Dec,State,CA,California,West Coast,3.13
+2018-01-01,2018,1,Jan,State,CA,California,West Coast,3.21
+2018-02-01,2018,2,Feb,State,CA,California,West Coast,3.359
+2018-03-01,2018,3,Mar,State,CA,California,West Coast,3.417
+2018-04-01,2018,4,Apr,State,CA,California,West Coast,3.558
+2018-05-01,2018,5,May,State,CA,California,West Coast,3.621
+2018-06-01,2018,6,Jun,State,CA,California,West Coast,3.601
+2018-07-01,2018,7,Jul,State,CA,California,West Coast,3.53
+2018-08-01,2018,8,Aug,State,CA,California,West Coast,3.481
+2018-09-01,2018,9,Sep,State,CA,California,West Coast,3.515
+2018-10-01,2018,10,Oct,State,CA,California,West Coast,3.686
+2018-11-01,2018,11,Nov,State,CA,California,West Coast,3.558
+2018-12-01,2018,12,Dec,State,CA,California,West Coast,3.292
+2019-01-01,2019,1,Jan,State,CA,California,West Coast,3.156
+2019-02-01,2019,2,Feb,State,CA,California,West Coast,3.158
+2019-03-01,2019,3,Mar,State,CA,California,West Coast,3.268
+2019-04-01,2019,4,Apr,State,CA,California,West Coast,3.82
+2019-05-01,2019,5,May,State,CA,California,West Coast,3.947
+2019-06-01,2019,6,Jun,State,CA,California,West Coast,3.717
+2019-07-01,2019,7,Jul,State,CA,California,West Coast,3.595
+2019-08-01,2019,8,Aug,State,CA,California,West Coast,3.482
+2019-09-01,2019,9,Sep,State,CA,California,West Coast,3.609
+2019-10-01,2019,10,Oct,State,CA,California,West Coast,4.04
+2019-11-01,2019,11,Nov,State,CA,California,West Coast,3.869
+2019-12-01,2019,12,Dec,State,CA,California,West Coast,3.531
+2020-01-01,2020,1,Jan,State,CA,California,West Coast,3.411
+2020-02-01,2020,2,Feb,State,CA,California,West Coast,3.364
+2015-01-01,2015,1,Jan,State,WA,Washington,West Coast,2.3
+2015-02-01,2015,2,Feb,State,WA,Washington,West Coast,2.237
+2015-03-01,2015,3,Mar,State,WA,Washington,West Coast,2.737
+2015-04-01,2015,4,Apr,State,WA,Washington,West Coast,2.731
+2015-05-01,2015,5,May,State,WA,Washington,West Coast,2.978
+2015-06-01,2015,6,Jun,State,WA,Washington,West Coast,3.097
+2015-07-01,2015,7,Jul,State,WA,Washington,West Coast,3.163
+2015-08-01,2015,8,Aug,State,WA,Washington,West Coast,3.038
+2015-09-01,2015,9,Sep,State,WA,Washington,West Coast,2.697
+2015-10-01,2015,10,Oct,State,WA,Washington,West Coast,2.44
+2015-11-01,2015,11,Nov,State,WA,Washington,West Coast,2.432
+2015-12-01,2015,12,Dec,State,WA,Washington,West Coast,2.392
+2016-01-01,2016,1,Jan,State,WA,Washington,West Coast,2.329
+2016-02-01,2016,2,Feb,State,WA,Washington,West Coast,2.044
+2016-03-01,2016,3,Mar,State,WA,Washington,West Coast,2.171
+2016-04-01,2016,4,Apr,State,WA,Washington,West Coast,2.284
+2016-05-01,2016,5,May,State,WA,Washington,West Coast,2.502
+2016-06-01,2016,6,Jun,State,WA,Washington,West Coast,2.614
+2016-07-01,2016,7,Jul,State,WA,Washington,West Coast,2.634
+2016-08-01,2016,8,Aug,State,WA,Washington,West Coast,2.551
+2016-09-01,2016,9,Sep,State,WA,Washington,West Coast,2.643
+2016-10-01,2016,10,Oct,State,WA,Washington,West Coast,2.684
+2016-11-01,2016,11,Nov,State,WA,Washington,West Coast,2.624
+2016-12-01,2016,12,Dec,State,WA,Washington,West Coast,2.536
+2017-01-01,2017,1,Jan,State,WA,Washington,West Coast,2.679
+2017-02-01,2017,2,Feb,State,WA,Washington,West Coast,2.698
+2017-03-01,2017,3,Mar,State,WA,Washington,West Coast,2.798
+2017-04-01,2017,4,Apr,State,WA,Washington,West Coast,2.876
+2017-05-01,2017,5,May,State,WA,Washington,West Coast,2.871
+2017-06-01,2017,6,Jun,State,WA,Washington,West Coast,2.816
+2017-07-01,2017,7,Jul,State,WA,Washington,West Coast,2.776
+2017-08-01,2017,8,Aug,State,WA,Washington,West Coast,2.858
+2017-09-01,2017,9,Sep,State,WA,Washington,West Coast,3.029
+2017-10-01,2017,10,Oct,State,WA,Washington,West Coast,2.916
+2017-11-01,2017,11,Nov,State,WA,Washington,West Coast,2.967
+2017-12-01,2017,12,Dec,State,WA,Washington,West Coast,2.922
+2018-01-01,2018,1,Jan,State,WA,Washington,West Coast,2.9
+2018-02-01,2018,2,Feb,State,WA,Washington,West Coast,2.964
+2018-03-01,2018,3,Mar,State,WA,Washington,West Coast,3.039
+2018-04-01,2018,4,Apr,State,WA,Washington,West Coast,3.2
+2018-05-01,2018,5,May,State,WA,Washington,West Coast,3.331
+2018-06-01,2018,6,Jun,State,WA,Washington,West Coast,3.362
+2018-07-01,2018,7,Jul,State,WA,Washington,West Coast,3.32
+2018-08-01,2018,8,Aug,State,WA,Washington,West Coast,3.281
+2018-09-01,2018,9,Sep,State,WA,Washington,West Coast,3.292
+2018-10-01,2018,10,Oct,State,WA,Washington,West Coast,3.393
+2018-11-01,2018,11,Nov,State,WA,Washington,West Coast,3.356
+2018-12-01,2018,12,Dec,State,WA,Washington,West Coast,3.078
+2019-01-01,2019,1,Jan,State,WA,Washington,West Coast,2.84
+2019-02-01,2019,2,Feb,State,WA,Washington,West Coast,2.741
+2019-03-01,2019,3,Mar,State,WA,Washington,West Coast,2.833
+2019-04-01,2019,4,Apr,State,WA,Washington,West Coast,3.248
+2019-05-01,2019,5,May,State,WA,Washington,West Coast,3.445
+2019-06-01,2019,6,Jun,State,WA,Washington,West Coast,3.324
+2019-07-01,2019,7,Jul,State,WA,Washington,West Coast,3.17
+2019-08-01,2019,8,Aug,State,WA,Washington,West Coast,3.092
+2019-09-01,2019,9,Sep,State,WA,Washington,West Coast,3.057
+2019-10-01,2019,10,Oct,State,WA,Washington,West Coast,3.221
+2019-11-01,2019,11,Nov,State,WA,Washington,West Coast,3.271
+2019-12-01,2019,12,Dec,State,WA,Washington,West Coast,3.085
+2020-01-01,2020,1,Jan,State,WA,Washington,West Coast,2.948
+2020-02-01,2020,2,Feb,State,WA,Washington,West Coast,2.911
+2015-01-01,2015,1,Jan,State,CO,Colorado,Rocky Mountain,1.928
+2015-02-01,2015,2,Feb,State,CO,Colorado,Rocky Mountain,2.027
+2015-03-01,2015,3,Mar,State,CO,Colorado,Rocky Mountain,2.209
+2015-04-01,2015,4,Apr,State,CO,Colorado,Rocky Mountain,2.294
+2015-05-01,2015,5,May,State,CO,Colorado,Rocky Mountain,2.536
+2015-06-01,2015,6,Jun,State,CO,Colorado,Rocky Mountain,2.625
+2015-07-01,2015,7,Jul,State,CO,Colorado,Rocky Mountain,2.72
+2015-08-01,2015,8,Aug,State,CO,Colorado,Rocky Mountain,2.797
+2015-09-01,2015,9,Sep,State,CO,Colorado,Rocky Mountain,2.567
+2015-10-01,2015,10,Oct,State,CO,Colorado,Rocky Mountain,2.287
+2015-11-01,2015,11,Nov,State,CO,Colorado,Rocky Mountain,2.007
+2015-12-01,2015,12,Dec,State,CO,Colorado,Rocky Mountain,1.864
+2016-01-01,2016,1,Jan,State,CO,Colorado,Rocky Mountain,1.798
+2016-02-01,2016,2,Feb,State,CO,Colorado,Rocky Mountain,1.61
+2016-03-01,2016,3,Mar,State,CO,Colorado,Rocky Mountain,1.893
+2016-04-01,2016,4,Apr,State,CO,Colorado,Rocky Mountain,1.997
+2016-05-01,2016,5,May,State,CO,Colorado,Rocky Mountain,2.163
+2016-06-01,2016,6,Jun,State,CO,Colorado,Rocky Mountain,2.251
+2016-07-01,2016,7,Jul,State,CO,Colorado,Rocky Mountain,2.195
+2016-08-01,2016,8,Aug,State,CO,Colorado,Rocky Mountain,2.109
+2016-09-01,2016,9,Sep,State,CO,Colorado,Rocky Mountain,2.167
+2016-10-01,2016,10,Oct,State,CO,Colorado,Rocky Mountain,2.158
+2016-11-01,2016,11,Nov,State,CO,Colorado,Rocky Mountain,2.056
+2016-12-01,2016,12,Dec,State,CO,Colorado,Rocky Mountain,2.071
+2017-01-01,2017,1,Jan,State,CO,Colorado,Rocky Mountain,2.227
+2017-02-01,2017,2,Feb,State,CO,Colorado,Rocky Mountain,2.159
+2017-03-01,2017,3,Mar,State,CO,Colorado,Rocky Mountain,2.165
+2017-04-01,2017,4,Apr,State,CO,Colorado,Rocky Mountain,2.275
+2017-05-01,2017,5,May,State,CO,Colorado,Rocky Mountain,2.312
+2017-06-01,2017,6,Jun,State,CO,Colorado,Rocky Mountain,2.287
+2017-07-01,2017,7,Jul,State,CO,Colorado,Rocky Mountain,2.211
+2017-08-01,2017,8,Aug,State,CO,Colorado,Rocky Mountain,2.299
+2017-09-01,2017,9,Sep,State,CO,Colorado,Rocky Mountain,2.513
+2017-10-01,2017,10,Oct,State,CO,Colorado,Rocky Mountain,2.439
+2017-11-01,2017,11,Nov,State,CO,Colorado,Rocky Mountain,2.523
+2017-12-01,2017,12,Dec,State,CO,Colorado,Rocky Mountain,2.449
+2018-01-01,2018,1,Jan,State,CO,Colorado,Rocky Mountain,2.409
+2018-02-01,2018,2,Feb,State,CO,Colorado,Rocky Mountain,2.435
+2018-03-01,2018,3,Mar,State,CO,Colorado,Rocky Mountain,2.39
+2018-04-01,2018,4,Apr,State,CO,Colorado,Rocky Mountain,2.561
+2018-05-01,2018,5,May,State,CO,Colorado,Rocky Mountain,2.756
+2018-06-01,2018,6,Jun,State,CO,Colorado,Rocky Mountain,2.819
+2018-07-01,2018,7,Jul,State,CO,Colorado,Rocky Mountain,2.763
+2018-08-01,2018,8,Aug,State,CO,Colorado,Rocky Mountain,2.747
+2018-09-01,2018,9,Sep,State,CO,Colorado,Rocky Mountain,2.847
+2018-10-01,2018,10,Oct,State,CO,Colorado,Rocky Mountain,2.897
+2018-11-01,2018,11,Nov,State,CO,Colorado,Rocky Mountain,2.705
+2018-12-01,2018,12,Dec,State,CO,Colorado,Rocky Mountain,2.363
+2019-01-01,2019,1,Jan,State,CO,Colorado,Rocky Mountain,2.075
+2019-02-01,2019,2,Feb,State,CO,Colorado,Rocky Mountain,2.017
+2019-03-01,2019,3,Mar,State,CO,Colorado,Rocky Mountain,2.286
+2019-04-01,2019,4,Apr,State,CO,Colorado,Rocky Mountain,2.617
+2019-05-01,2019,5,May,State,CO,Colorado,Rocky Mountain,2.808
+2019-06-01,2019,6,Jun,State,CO,Colorado,Rocky Mountain,2.763
+2019-07-01,2019,7,Jul,State,CO,Colorado,Rocky Mountain,2.621
+2019-08-01,2019,8,Aug,State,CO,Colorado,Rocky Mountain,2.496
+2019-09-01,2019,9,Sep,State,CO,Colorado,Rocky Mountain,2.579
+2019-10-01,2019,10,Oct,State,CO,Colorado,Rocky Mountain,2.706
+2019-11-01,2019,11,Nov,State,CO,Colorado,Rocky Mountain,2.773
+2019-12-01,2019,12,Dec,State,CO,Colorado,Rocky Mountain,2.725
+2020-01-01,2020,1,Jan,State,CO,Colorado,Rocky Mountain,2.588
+2020-02-01,2020,2,Feb,State,CO,Colorado,Rocky Mountain,2.446
+2015-01-01,2015,1,Jan,State,TX,Texas,Gulf Coast,1.889
+2015-02-01,2015,2,Feb,State,TX,Texas,Gulf Coast,2.005
+2015-03-01,2015,3,Mar,State,TX,Texas,Gulf Coast,2.221
+2015-04-01,2015,4,Apr,State,TX,Texas,Gulf Coast,2.242
+2015-05-01,2015,5,May,State,TX,Texas,Gulf Coast,2.447
+2015-06-01,2015,6,Jun,State,TX,Texas,Gulf Coast,2.559
+2015-07-01,2015,7,Jul,State,TX,Texas,Gulf Coast,2.519
+2015-08-01,2015,8,Aug,State,TX,Texas,Gulf Coast,2.334
+2015-09-01,2015,9,Sep,State,TX,Texas,Gulf Coast,2.066
+2015-10-01,2015,10,Oct,State,TX,Texas,Gulf Coast,2.006
+2015-11-01,2015,11,Nov,State,TX,Texas,Gulf Coast,1.894
+2015-12-01,2015,12,Dec,State,TX,Texas,Gulf Coast,1.789
+2016-01-01,2016,1,Jan,State,TX,Texas,Gulf Coast,1.694
+2016-02-01,2016,2,Feb,State,TX,Texas,Gulf Coast,1.549
+2016-03-01,2016,3,Mar,State,TX,Texas,Gulf Coast,1.757
+2016-04-01,2016,4,Apr,State,TX,Texas,Gulf Coast,1.89
+2016-05-01,2016,5,May,State,TX,Texas,Gulf Coast,2.023
+2016-06-01,2016,6,Jun,State,TX,Texas,Gulf Coast,2.13
+2016-07-01,2016,7,Jul,State,TX,Texas,Gulf Coast,2.043
+2016-08-01,2016,8,Aug,State,TX,Texas,Gulf Coast,1.969
+2016-09-01,2016,9,Sep,State,TX,Texas,Gulf Coast,1.966
+2016-10-01,2016,10,Oct,State,TX,Texas,Gulf Coast,2.02
+2016-11-01,2016,11,Nov,State,TX,Texas,Gulf Coast,1.944
+2016-12-01,2016,12,Dec,State,TX,Texas,Gulf Coast,2.018
+2017-01-01,2017,1,Jan,State,TX,Texas,Gulf Coast,2.132
+2017-02-01,2017,2,Feb,State,TX,Texas,Gulf Coast,2.068
+2017-03-01,2017,3,Mar,State,TX,Texas,Gulf Coast,2.082
+2017-04-01,2017,4,Apr,State,TX,Texas,Gulf Coast,2.208
+2017-05-01,2017,5,May,State,TX,Texas,Gulf Coast,2.174
+2017-06-01,2017,6,Jun,State,TX,Texas,Gulf Coast,2.135
+2017-07-01,2017,7,Jul,State,TX,Texas,Gulf Coast,2.056
+2017-08-01,2017,8,Aug,State,TX,Texas,Gulf Coast,2.154
+2017-09-01,2017,9,Sep,State,TX,Texas,Gulf Coast,2.504
+2017-10-01,2017,10,Oct,State,TX,Texas,Gulf Coast,2.286
+2017-11-01,2017,11,Nov,State,TX,Texas,Gulf Coast,2.261
+2017-12-01,2017,12,Dec,State,TX,Texas,Gulf Coast,2.186
+2018-01-01,2018,1,Jan,State,TX,Texas,Gulf Coast,2.277
+2018-02-01,2018,2,Feb,State,TX,Texas,Gulf Coast,2.287
+2018-03-01,2018,3,Mar,State,TX,Texas,Gulf Coast,2.313
+2018-04-01,2018,4,Apr,State,TX,Texas,Gulf Coast,2.485
+2018-05-01,2018,5,May,State,TX,Texas,Gulf Coast,2.665
+2018-06-01,2018,6,Jun,State,TX,Texas,Gulf Coast,2.703
+2018-07-01,2018,7,Jul,State,TX,Texas,Gulf Coast,2.614
+2018-08-01,2018,8,Aug,State,TX,Texas,Gulf Coast,2.574
+2018-09-01,2018,9,Sep,State,TX,Texas,Gulf Coast,2.558
+2018-10-01,2018,10,Oct,State,TX,Texas,Gulf Coast,2.572
+2018-11-01,2018,11,Nov,State,TX,Texas,Gulf Coast,2.31
+2018-12-01,2018,12,Dec,State,TX,Texas,Gulf Coast,1.998
+2019-01-01,2019,1,Jan,State,TX,Texas,Gulf Coast,1.902
+2019-02-01,2019,2,Feb,State,TX,Texas,Gulf Coast,2.007
+2019-03-01,2019,3,Mar,State,TX,Texas,Gulf Coast,2.26
+2019-04-01,2019,4,Apr,State,TX,Texas,Gulf Coast,2.521
+2019-05-01,2019,5,May,State,TX,Texas,Gulf Coast,2.534
+2019-06-01,2019,6,Jun,State,TX,Texas,Gulf Coast,2.368
+2019-07-01,2019,7,Jul,State,TX,Texas,Gulf Coast,2.449
+2019-08-01,2019,8,Aug,State,TX,Texas,Gulf Coast,2.333
+2019-09-01,2019,9,Sep,State,TX,Texas,Gulf Coast,2.285
+2019-10-01,2019,10,Oct,State,TX,Texas,Gulf Coast,2.25
+2019-11-01,2019,11,Nov,State,TX,Texas,Gulf Coast,2.225
+2019-12-01,2019,12,Dec,State,TX,Texas,Gulf Coast,2.211
+2020-01-01,2020,1,Jan,State,TX,Texas,Gulf Coast,2.218
+2020-02-01,2020,2,Feb,State,TX,Texas,Gulf Coast,2.085
+2015-01-01,2015,1,Jan,State,MN,Minnesota,Midwest,1.957
+2015-02-01,2015,2,Feb,State,MN,Minnesota,Midwest,2.156
+2015-03-01,2015,3,Mar,State,MN,Minnesota,Midwest,2.381
+2015-04-01,2015,4,Apr,State,MN,Minnesota,Midwest,2.309
+2015-05-01,2015,5,May,State,MN,Minnesota,Midwest,2.541
+2015-06-01,2015,6,Jun,State,MN,Minnesota,Midwest,2.65
+2015-07-01,2015,7,Jul,State,MN,Minnesota,Midwest,2.686
+2015-08-01,2015,8,Aug,State,MN,Minnesota,Midwest,2.561
+2015-09-01,2015,9,Sep,State,MN,Minnesota,Midwest,2.286
+2015-10-01,2015,10,Oct,State,MN,Minnesota,Midwest,2.389
+2015-11-01,2015,11,Nov,State,MN,Minnesota,Midwest,2.13
+2015-12-01,2015,12,Dec,State,MN,Minnesota,Midwest,1.885
+2016-01-01,2016,1,Jan,State,MN,Minnesota,Midwest,1.755
+2016-02-01,2016,2,Feb,State,MN,Minnesota,Midwest,1.605
+2016-03-01,2016,3,Mar,State,MN,Minnesota,Midwest,1.951
+2016-04-01,2016,4,Apr,State,MN,Minnesota,Midwest,1.963
+2016-05-01,2016,5,May,State,MN,Minnesota,Midwest,2.171
+2016-06-01,2016,6,Jun,State,MN,Minnesota,Midwest,2.253
+2016-07-01,2016,7,Jul,State,MN,Minnesota,Midwest,2.117
+2016-08-01,2016,8,Aug,State,MN,Minnesota,Midwest,2.144
+2016-09-01,2016,9,Sep,State,MN,Minnesota,Midwest,2.172
+2016-10-01,2016,10,Oct,State,MN,Minnesota,Midwest,2.14
+2016-11-01,2016,11,Nov,State,MN,Minnesota,Midwest,1.991
+2016-12-01,2016,12,Dec,State,MN,Minnesota,Midwest,2.107
+2017-01-01,2017,1,Jan,State,MN,Minnesota,Midwest,2.303
+2017-02-01,2017,2,Feb,State,MN,Minnesota,Midwest,2.26
+2017-03-01,2017,3,Mar,State,MN,Minnesota,Midwest,2.253
+2017-04-01,2017,4,Apr,State,MN,Minnesota,Midwest,2.301
+2017-05-01,2017,5,May,State,MN,Minnesota,Midwest,2.292
+2017-06-01,2017,6,Jun,State,MN,Minnesota,Midwest,2.26
+2017-07-01,2017,7,Jul,State,MN,Minnesota,Midwest,2.228
+2017-08-01,2017,8,Aug,State,MN,Minnesota,Midwest,2.299
+2017-09-01,2017,9,Sep,State,MN,Minnesota,Midwest,2.463
+2017-10-01,2017,10,Oct,State,MN,Minnesota,Midwest,2.391
+2017-11-01,2017,11,Nov,State,MN,Minnesota,Midwest,2.494
+2017-12-01,2017,12,Dec,State,MN,Minnesota,Midwest,2.398
+2018-01-01,2018,1,Jan,State,MN,Minnesota,Midwest,2.47
+2018-02-01,2018,2,Feb,State,MN,Minnesota,Midwest,2.539
+2018-03-01,2018,3,Mar,State,MN,Minnesota,Midwest,2.485
+2018-04-01,2018,4,Apr,State,MN,Minnesota,Midwest,2.523
+2018-05-01,2018,5,May,State,MN,Minnesota,Midwest,2.746
+2018-06-01,2018,6,Jun,State,MN,Minnesota,Midwest,2.784
+2018-07-01,2018,7,Jul,State,MN,Minnesota,Midwest,2.754
+2018-08-01,2018,8,Aug,State,MN,Minnesota,Midwest,2.75
+2018-09-01,2018,9,Sep,State,MN,Minnesota,Midwest,2.738
+2018-10-01,2018,10,Oct,State,MN,Minnesota,Midwest,2.784
+2018-11-01,2018,11,Nov,State,MN,Minnesota,Midwest,2.546
+2018-12-01,2018,12,Dec,State,MN,Minnesota,Midwest,2.213
+2019-01-01,2019,1,Jan,State,MN,Minnesota,Midwest,2.036
+2019-02-01,2019,2,Feb,State,MN,Minnesota,Midwest,2.144
+2019-03-01,2019,3,Mar,State,MN,Minnesota,Midwest,2.445
+2019-04-01,2019,4,Apr,State,MN,Minnesota,Midwest,2.681
+2019-05-01,2019,5,May,State,MN,Minnesota,Midwest,2.711
+2019-06-01,2019,6,Jun,State,MN,Minnesota,Midwest,2.606
+2019-07-01,2019,7,Jul,State,MN,Minnesota,Midwest,2.587
+2019-08-01,2019,8,Aug,State,MN,Minnesota,Midwest,2.537
+2019-09-01,2019,9,Sep,State,MN,Minnesota,Midwest,2.497
+2019-10-01,2019,10,Oct,State,MN,Minnesota,Midwest,2.482
+2019-11-01,2019,11,Nov,State,MN,Minnesota,Midwest,2.448
+2019-12-01,2019,12,Dec,State,MN,Minnesota,Midwest,2.378
+2020-01-01,2020,1,Jan,State,MN,Minnesota,Midwest,2.396
+2020-02-01,2020,2,Feb,State,MN,Minnesota,Midwest,2.285
+2015-01-01,2015,1,Jan,State,OH,Ohio,Midwest,1.927
+2015-02-01,2015,2,Feb,State,OH,Ohio,Midwest,2.232
+2015-03-01,2015,3,Mar,State,OH,Ohio,Midwest,2.337
+2015-04-01,2015,4,Apr,State,OH,Ohio,Midwest,2.377
+2015-05-01,2015,5,May,State,OH,Ohio,Midwest,2.566
+2015-06-01,2015,6,Jun,State,OH,Ohio,Midwest,2.777
+2015-07-01,2015,7,Jul,State,OH,Ohio,Midwest,2.628
+2015-08-01,2015,8,Aug,State,OH,Ohio,Midwest,2.511
+2015-09-01,2015,9,Sep,State,OH,Ohio,Midwest,2.252
+2015-10-01,2015,10,Oct,State,OH,Ohio,Midwest,2.322
+2015-11-01,2015,11,Nov,State,OH,Ohio,Midwest,2.022
+2015-12-01,2015,12,Dec,State,OH,Ohio,Midwest,1.882
+2016-01-01,2016,1,Jan,State,OH,Ohio,Midwest,1.723
+2016-02-01,2016,2,Feb,State,OH,Ohio,Midwest,1.618
+2016-03-01,2016,3,Mar,State,OH,Ohio,Midwest,1.897
+2016-04-01,2016,4,Apr,State,OH,Ohio,Midwest,2.062
+2016-05-01,2016,5,May,State,OH,Ohio,Midwest,2.301
+2016-06-01,2016,6,Jun,State,OH,Ohio,Midwest,2.528
+2016-07-01,2016,7,Jul,State,OH,Ohio,Midwest,2.102
+2016-08-01,2016,8,Aug,State,OH,Ohio,Midwest,2.12
+2016-09-01,2016,9,Sep,State,OH,Ohio,Midwest,2.103
+2016-10-01,2016,10,Oct,State,OH,Ohio,Midwest,2.138
+2016-11-01,2016,11,Nov,State,OH,Ohio,Midwest,2.064
+2016-12-01,2016,12,Dec,State,OH,Ohio,Midwest,2.273
+2017-01-01,2017,1,Jan,State,OH,Ohio,Midwest,2.196
+2017-02-01,2017,2,Feb,State,OH,Ohio,Midwest,2.08
+2017-03-01,2017,3,Mar,State,OH,Ohio,Midwest,2.157
+2017-04-01,2017,4,Apr,State,OH,Ohio,Midwest,2.336
+2017-05-01,2017,5,May,State,OH,Ohio,Midwest,2.262
+2017-06-01,2017,6,Jun,State,OH,Ohio,Midwest,2.209
+2017-07-01,2017,7,Jul,State,OH,Ohio,Midwest,2.192
+2017-08-01,2017,8,Aug,State,OH,Ohio,Midwest,2.239
+2017-09-01,2017,9,Sep,State,OH,Ohio,Midwest,2.372
+2017-10-01,2017,10,Oct,State,OH,Ohio,Midwest,2.335
+2017-11-01,2017,11,Nov,State,OH,Ohio,Midwest,2.504
+2017-12-01,2017,12,Dec,State,OH,Ohio,Midwest,2.288
+2018-01-01,2018,1,Jan,State,OH,Ohio,Midwest,2.413
+2018-02-01,2018,2,Feb,State,OH,Ohio,Midwest,2.321
+2018-03-01,2018,3,Mar,State,OH,Ohio,Midwest,2.406
+2018-04-01,2018,4,Apr,State,OH,Ohio,Midwest,2.604
+2018-05-01,2018,5,May,State,OH,Ohio,Midwest,2.774
+2018-06-01,2018,6,Jun,State,OH,Ohio,Midwest,2.672
+2018-07-01,2018,7,Jul,State,OH,Ohio,Midwest,2.738
+2018-08-01,2018,8,Aug,State,OH,Ohio,Midwest,2.73
+2018-09-01,2018,9,Sep,State,OH,Ohio,Midwest,2.732
+2018-10-01,2018,10,Oct,State,OH,Ohio,Midwest,2.659
+2018-11-01,2018,11,Nov,State,OH,Ohio,Midwest,2.375
+2018-12-01,2018,12,Dec,State,OH,Ohio,Midwest,2.031
+2019-01-01,2019,1,Jan,State,OH,Ohio,Midwest,1.958
+2019-02-01,2019,2,Feb,State,OH,Ohio,Midwest,2.198
+2019-03-01,2019,3,Mar,State,OH,Ohio,Midwest,2.402
+2019-04-01,2019,4,Apr,State,OH,Ohio,Midwest,2.616
+2019-05-01,2019,5,May,State,OH,Ohio,Midwest,2.657
+2019-06-01,2019,6,Jun,State,OH,Ohio,Midwest,2.55
+2019-07-01,2019,7,Jul,State,OH,Ohio,Midwest,2.695
+2019-08-01,2019,8,Aug,State,OH,Ohio,Midwest,2.57
+2019-09-01,2019,9,Sep,State,OH,Ohio,Midwest,2.536
+2019-10-01,2019,10,Oct,State,OH,Ohio,Midwest,2.502
+2019-11-01,2019,11,Nov,State,OH,Ohio,Midwest,2.468
+2019-12-01,2019,12,Dec,State,OH,Ohio,Midwest,2.552
+2020-01-01,2020,1,Jan,State,OH,Ohio,Midwest,2.46
+2020-02-01,2020,2,Feb,State,OH,Ohio,Midwest,2.315
+2015-01-01,2015,1,Jan,State,FL,Florida,East Coast,2.141
+2015-02-01,2015,2,Feb,State,FL,Florida,East Coast,2.186
+2015-03-01,2015,3,Mar,State,FL,Florida,East Coast,2.424
+2015-04-01,2015,4,Apr,State,FL,Florida,East Coast,2.458
+2015-05-01,2015,5,May,State,FL,Florida,East Coast,2.574
+2015-06-01,2015,6,Jun,State,FL,Florida,East Coast,2.653
+2015-07-01,2015,7,Jul,State,FL,Florida,East Coast,2.578
+2015-08-01,2015,8,Aug,State,FL,Florida,East Coast,2.346
+2015-09-01,2015,9,Sep,State,FL,Florida,East Coast,2.125
+2015-10-01,2015,10,Oct,State,FL,Florida,East Coast,2.122
+2015-11-01,2015,11,Nov,State,FL,Florida,East Coast,2.079
+2015-12-01,2015,12,Dec,State,FL,Florida,East Coast,1.993
+2016-01-01,2016,1,Jan,State,FL,Florida,East Coast,1.889
+2016-02-01,2016,2,Feb,State,FL,Florida,East Coast,1.73
+2016-03-01,2016,3,Mar,State,FL,Florida,East Coast,1.942
+2016-04-01,2016,4,Apr,State,FL,Florida,East Coast,2.026
+2016-05-01,2016,5,May,State,FL,Florida,East Coast,2.175
+2016-06-01,2016,6,Jun,State,FL,Florida,East Coast,2.276
+2016-07-01,2016,7,Jul,State,FL,Florida,East Coast,2.124
+2016-08-01,2016,8,Aug,State,FL,Florida,East Coast,2.06
+2016-09-01,2016,9,Sep,State,FL,Florida,East Coast,2.145
+2016-10-01,2016,10,Oct,State,FL,Florida,East Coast,2.182
+2016-11-01,2016,11,Nov,State,FL,Florida,East Coast,2.089
+2016-12-01,2016,12,Dec,State,FL,Florida,East Coast,2.237
+2017-01-01,2017,1,Jan,State,FL,Florida,East Coast,2.335
+2017-02-01,2017,2,Feb,State,FL,Florida,East Coast,2.223
+2017-03-01,2017,3,Mar,State,FL,Florida,East Coast,2.231
+2017-04-01,2017,4,Apr,State,FL,Florida,East Coast,2.384
+2017-05-01,2017,5,May,State,FL,Florida,East Coast,2.303
+2017-06-01,2017,6,Jun,State,FL,Florida,East Coast,2.256
+2017-07-01,2017,7,Jul,State,FL,Florida,East Coast,2.145
+2017-08-01,2017,8,Aug,State,FL,Florida,East Coast,2.247
+2017-09-01,2017,9,Sep,State,FL,Florida,East Coast,2.673
+2017-10-01,2017,10,Oct,State,FL,Florida,East Coast,2.417
+2017-11-01,2017,11,Nov,State,FL,Florida,East Coast,2.43
+2017-12-01,2017,12,Dec,State,FL,Florida,East Coast,2.342
+2018-01-01,2018,1,Jan,State,FL,Florida,East Coast,2.461
+2018-02-01,2018,2,Feb,State,FL,Florida,East Coast,2.542
+2018-03-01,2018,3,Mar,State,FL,Florida,East Coast,2.488
+2018-04-01,2018,4,Apr,State,FL,Florida,East Coast,2.636
+2018-05-01,2018,5,May,State,FL,Florida,East Coast,2.781
+2018-06-01,2018,6,Jun,State,FL,Florida,East Coast,2.732
+2018-07-01,2018,7,Jul,State,FL,Florida,East Coast,2.715
+2018-08-01,2018,8,Aug,State,FL,Florida,East Coast,2.724
+2018-09-01,2018,9,Sep,State,FL,Florida,East Coast,2.723
+2018-10-01,2018,10,Oct,State,FL,Florida,East Coast,2.747
+2018-11-01,2018,11,Nov,State,FL,Florida,East Coast,2.496
+2018-12-01,2018,12,Dec,State,FL,Florida,East Coast,2.229
+2019-01-01,2019,1,Jan,State,FL,Florida,East Coast,2.146
+2019-02-01,2019,2,Feb,State,FL,Florida,East Coast,2.242
+2019-03-01,2019,3,Mar,State,FL,Florida,East Coast,2.504
+2019-04-01,2019,4,Apr,State,FL,Florida,East Coast,2.697
+2019-05-01,2019,5,May,State,FL,Florida,East Coast,2.635
+2019-06-01,2019,6,Jun,State,FL,Florida,East Coast,2.468
+2019-07-01,2019,7,Jul,State,FL,Florida,East Coast,2.568
+2019-08-01,2019,8,Aug,State,FL,Florida,East Coast,2.376
+2019-09-01,2019,9,Sep,State,FL,Florida,East Coast,2.398
+2019-10-01,2019,10,Oct,State,FL,Florida,East Coast,2.384
+2019-11-01,2019,11,Nov,State,FL,Florida,East Coast,2.351
+2019-12-01,2019,12,Dec,State,FL,Florida,East Coast,2.421
+2020-01-01,2020,1,Jan,State,FL,Florida,East Coast,2.455
+2020-02-01,2020,2,Feb,State,FL,Florida,East Coast,2.327
+2015-01-01,2015,1,Jan,State,NY,New York,East Coast,2.512
+2015-02-01,2015,2,Feb,State,NY,New York,East Coast,2.409
+2015-03-01,2015,3,Mar,State,NY,New York,East Coast,2.562
+2015-04-01,2015,4,Apr,State,NY,New York,East Coast,2.595
+2015-05-01,2015,5,May,State,NY,New York,East Coast,2.793
+2015-06-01,2015,6,Jun,State,NY,New York,East Coast,2.879
+2015-07-01,2015,7,Jul,State,NY,New York,East Coast,2.883
+2015-08-01,2015,8,Aug,State,NY,New York,East Coast,2.688
+2015-09-01,2015,9,Sep,State,NY,New York,East Coast,2.442
+2015-10-01,2015,10,Oct,State,NY,New York,East Coast,2.314
+2015-11-01,2015,11,Nov,State,NY,New York,East Coast,2.284
+2015-12-01,2015,12,Dec,State,NY,New York,East Coast,2.223
+2016-01-01,2016,1,Jan,State,NY,New York,East Coast,2.107
+2016-02-01,2016,2,Feb,State,NY,New York,East Coast,1.944
+2016-03-01,2016,3,Mar,State,NY,New York,East Coast,1.999
+2016-04-01,2016,4,Apr,State,NY,New York,East Coast,2.186
+2016-05-01,2016,5,May,State,NY,New York,East Coast,2.344
+2016-06-01,2016,6,Jun,State,NY,New York,East Coast,2.385
+2016-07-01,2016,7,Jul,State,NY,New York,East Coast,2.341
+2016-08-01,2016,8,Aug,State,NY,New York,East Coast,2.27
+2016-09-01,2016,9,Sep,State,NY,New York,East Coast,2.267
+2016-10-01,2016,10,Oct,State,NY,New York,East Coast,2.309
+2016-11-01,2016,11,Nov,State,NY,New York,East Coast,2.334
+2016-12-01,2016,12,Dec,State,NY,New York,East Coast,2.378
+2017-01-01,2017,1,Jan,State,NY,New York,East Coast,2.477
+2017-02-01,2017,2,Feb,State,NY,New York,East Coast,2.41
+2017-03-01,2017,3,Mar,State,NY,New York,East Coast,2.367
+2017-04-01,2017,4,Apr,State,NY,New York,East Coast,2.449
+2017-05-01,2017,5,May,State,NY,New York,East Coast,2.454
+2017-06-01,2017,6,Jun,State,NY,New York,East Coast,2.42
+2017-07-01,2017,7,Jul,State,NY,New York,East Coast,2.37
+2017-08-01,2017,8,Aug,State,NY,New York,East Coast,2.435
+2017-09-01,2017,9,Sep,State,NY,New York,East Coast,2.757
+2017-10-01,2017,10,Oct,State,NY,New York,East Coast,2.597
+2017-11-01,2017,11,Nov,State,NY,New York,East Coast,2.61
+2017-12-01,2017,12,Dec,State,NY,New York,East Coast,2.56
+2018-01-01,2018,1,Jan,State,NY,New York,East Coast,2.626
+2018-02-01,2018,2,Feb,State,NY,New York,East Coast,2.678
+2018-03-01,2018,3,Mar,State,NY,New York,East Coast,2.633
+2018-04-01,2018,4,Apr,State,NY,New York,East Coast,2.798
+2018-05-01,2018,5,May,State,NY,New York,East Coast,2.974
+2018-06-01,2018,6,Jun,State,NY,New York,East Coast,2.987
+2018-07-01,2018,7,Jul,State,NY,New York,East Coast,2.925
+2018-08-01,2018,8,Aug,State,NY,New York,East Coast,2.91
+2018-09-01,2018,9,Sep,State,NY,New York,East Coast,2.907
+2018-10-01,2018,10,Oct,State,NY,New York,East Coast,2.908
+2018-11-01,2018,11,Nov,State,NY,New York,East Coast,2.797
+2018-12-01,2018,12,Dec,State,NY,New York,East Coast,2.605
+2019-01-01,2019,1,Jan,State,NY,New York,East Coast,2.444
+2019-02-01,2019,2,Feb,State,NY,New York,East Coast,2.398
+2019-03-01,2019,3,Mar,State,NY,New York,East Coast,2.555
+2019-04-01,2019,4,Apr,State,NY,New York,East Coast,2.772
+2019-05-01,2019,5,May,State,NY,New York,East Coast,2.897
+2019-06-01,2019,6,Jun,State,NY,New York,East Coast,2.79
+2019-07-01,2019,7,Jul,State,NY,New York,East Coast,2.799
+2019-08-01,2019,8,Aug,State,NY,New York,East Coast,2.75
+2019-09-01,2019,9,Sep,State,NY,New York,East Coast,2.655
+2019-10-01,2019,10,Oct,State,NY,New York,East Coast,2.602
+2019-11-01,2019,11,Nov,State,NY,New York,East Coast,2.6
+2019-12-01,2019,12,Dec,State,NY,New York,East Coast,2.596
+2020-01-01,2020,1,Jan,State,NY,New York,East Coast,2.632
+2020-02-01,2020,2,Feb,State,NY,New York,East Coast,2.53
+2015-01-01,2015,1,Jan,State,MA,Massachusetts,East Coast,2.249
+2015-02-01,2015,2,Feb,State,MA,Massachusetts,East Coast,2.165
+2015-03-01,2015,3,Mar,State,MA,Massachusetts,East Coast,2.362
+2015-04-01,2015,4,Apr,State,MA,Massachusetts,East Coast,2.39
+2015-05-01,2015,5,May,State,MA,Massachusetts,East Coast,2.628
+2015-06-01,2015,6,Jun,State,MA,Massachusetts,East Coast,2.727
+2015-07-01,2015,7,Jul,State,MA,Massachusetts,East Coast,2.713
+2015-08-01,2015,8,Aug,State,MA,Massachusetts,East Coast,2.508
+2015-09-01,2015,9,Sep,State,MA,Massachusetts,East Coast,2.273
+2015-10-01,2015,10,Oct,State,MA,Massachusetts,East Coast,2.143
+2015-11-01,2015,11,Nov,State,MA,Massachusetts,East Coast,2.104
+2015-12-01,2015,12,Dec,State,MA,Massachusetts,East Coast,2.05
+2016-01-01,2016,1,Jan,State,MA,Massachusetts,East Coast,1.944
+2016-02-01,2016,2,Feb,State,MA,Massachusetts,East Coast,1.79
+2016-03-01,2016,3,Mar,State,MA,Massachusetts,East Coast,1.87
+2016-04-01,2016,4,Apr,State,MA,Massachusetts,East Coast,2.072
+2016-05-01,2016,5,May,State,MA,Massachusetts,East Coast,2.257
+2016-06-01,2016,6,Jun,State,MA,Massachusetts,East Coast,2.323
+2016-07-01,2016,7,Jul,State,MA,Massachusetts,East Coast,2.239
+2016-08-01,2016,8,Aug,State,MA,Massachusetts,East Coast,2.119
+2016-09-01,2016,9,Sep,State,MA,Massachusetts,East Coast,2.149
+2016-10-01,2016,10,Oct,State,MA,Massachusetts,East Coast,2.203
+2016-11-01,2016,11,Nov,State,MA,Massachusetts,East Coast,2.168
+2016-12-01,2016,12,Dec,State,MA,Massachusetts,East Coast,2.221
+2017-01-01,2017,1,Jan,State,MA,Massachusetts,East Coast,2.287
+2017-02-01,2017,2,Feb,State,MA,Massachusetts,East Coast,2.238
+2017-03-01,2017,3,Mar,State,MA,Massachusetts,East Coast,2.223
+2017-04-01,2017,4,Apr,State,MA,Massachusetts,East Coast,2.308
+2017-05-01,2017,5,May,State,MA,Massachusetts,East Coast,2.376
+2017-06-01,2017,6,Jun,State,MA,Massachusetts,East Coast,2.319
+2017-07-01,2017,7,Jul,State,MA,Massachusetts,East Coast,2.27
+2017-08-01,2017,8,Aug,State,MA,Massachusetts,East Coast,2.35
+2017-09-01,2017,9,Sep,State,MA,Massachusetts,East Coast,2.732
+2017-10-01,2017,10,Oct,State,MA,Massachusetts,East Coast,2.613
+2017-11-01,2017,11,Nov,State,MA,Massachusetts,East Coast,2.58
+2017-12-01,2017,12,Dec,State,MA,Massachusetts,East Coast,2.528
+2018-01-01,2018,1,Jan,State,MA,Massachusetts,East Coast,2.54
+2018-02-01,2018,2,Feb,State,MA,Massachusetts,East Coast,2.59
+2018-03-01,2018,3,Mar,State,MA,Massachusetts,East Coast,2.538
+2018-04-01,2018,4,Apr,State,MA,Massachusetts,East Coast,2.674
+2018-05-01,2018,5,May,State,MA,Massachusetts,East Coast,2.873
+2018-06-01,2018,6,Jun,State,MA,Massachusetts,East Coast,2.904
+2018-07-01,2018,7,Jul,State,MA,Massachusetts,East Coast,2.878
+2018-08-01,2018,8,Aug,State,MA,Massachusetts,East Coast,2.864
+2018-09-01,2018,9,Sep,State,MA,Massachusetts,East Coast,2.843
+2018-10-01,2018,10,Oct,State,MA,Massachusetts,East Coast,2.828
+2018-11-01,2018,11,Nov,State,MA,Massachusetts,East Coast,2.718
+2018-12-01,2018,12,Dec,State,MA,Massachusetts,East Coast,2.562
+2019-01-01,2019,1,Jan,State,MA,Massachusetts,East Coast,2.41
+2019-02-01,2019,2,Feb,State,MA,Massachusetts,East Coast,2.347
+2019-03-01,2019,3,Mar,State,MA,Massachusetts,East Coast,2.434
+2019-04-01,2019,4,Apr,State,MA,Massachusetts,East Coast,2.648
+2019-05-01,2019,5,May,State,MA,Massachusetts,East Coast,2.818
+2019-06-01,2019,6,Jun,State,MA,Massachusetts,East Coast,2.707
+2019-07-01,2019,7,Jul,State,MA,Massachusetts,East Coast,2.694
+2019-08-01,2019,8,Aug,State,MA,Massachusetts,East Coast,2.659
+2019-09-01,2019,9,Sep,State,MA,Massachusetts,East Coast,2.572
+2019-10-01,2019,10,Oct,State,MA,Massachusetts,East Coast,2.548
+2019-11-01,2019,11,Nov,State,MA,Massachusetts,East Coast,2.539
+2019-12-01,2019,12,Dec,State,MA,Massachusetts,East Coast,2.535
+2020-01-01,2020,1,Jan,State,MA,Massachusetts,East Coast,2.555
+2020-02-01,2020,2,Feb,State,MA,Massachusetts,East Coast,2.488
