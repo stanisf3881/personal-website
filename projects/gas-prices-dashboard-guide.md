@@ -199,6 +199,7 @@ Question 1: *Is there a seasonal pattern in the national price?*
    3. At the bottom of the popup, click **More Colors…**. This opens the color picker, which is where the hex code goes:
       - **Windows:** a dialog with an **HTML** box. Delete what's in it, type `#B5471B`, press **Enter**, then click **OK**.
       - **Mac:** the Colors window. Click the **sliders** tab (second icon from the left), type `B5471B` in the **Hex Color #** box, press **Enter**, then close the window.
+      - **Browser editor (Tableau Public "Create → Web Authoring"):** the popup has only a swatch grid, **Opacity**, and **Border**, with no **More Colors…**, so you can't type a hex code. Either build this in the free desktop app, or pick the closest swatch (the orange one, second row, left column) and accept an approximate color. The rest of this guide assumes the desktop app.
       - If you see **Edit Colors…** instead of **More Colors…**, a field is sitting on Color. Drag that pill off the Color button first (you want no field there), then click **Color** again.
    4. Leave **Opacity** at 100%.
    5. Click **Size**. Drag the slider about a quarter of the way from the left. Tableau shows a slider, not pixels; "about 2px" means a thin line. Compare it against the other lines in the guide's picture and adjust by eye.
