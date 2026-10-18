@@ -268,6 +268,7 @@ Right-click each row's axis → **Edit Axis…**
 Headline and core share the same scale, so a flat core line sitting beside a bumpy headline line is a fair comparison. Gasoline has its own much larger scale; the axis titles state this, so readers aren't misled into thinking the swings are equal.
 
 ### 3b Clean up and annotate
+**Desktop app:**
 - **Zero lines:** **Format → Lines → Zero lines**: thin `#DDDDD5` on the Rows tab. Grid lines **None**. Axis rulers **None**.
 - **Axis title orientation:** right-click each axis title → **Format…** → **Alignment → Direction: Horizontal**, font 8pt `#6E6E6E`, so they read as row labels.
 - **Date axis:** show the year only: right-click the Date axis → **Format…** → **Scale → Dates → Custom** `yyyy`, and put ticks at January only (**Edit Axis → Tick Marks → Major: Fixed, Tick interval 1 year**).
@@ -276,6 +277,31 @@ Headline and core share the same scale, so a flat core line sitting beside a bum
   - Gasoline row, highest point (Feb 2017): *+30.7% (Feb 2017)*
   - Headline row, highest point (Jul 2018): *2.95% (Jul 2018)*
   - Core row, anywhere: *1.6%–2.4% all five years*
+
+**Browser editor (Web Authoring).** It has fewer format options and no hex box, so use swatches and skip anything you can't find. None of these steps changes the data.
+1. **Open the Format pane:** click **Format** in the top menu, or right-click an empty spot in the chart → **Format…**. A pane opens on the left. At its top, tabs or icons let you choose what to format (**Lines**, **Font**, **Alignment**, **Shading**, **Borders**, depending on your version).
+2. **Grid lines, zero lines and axis rulers:** in the Format pane, open **Lines**. Pick the **Rows** tab if it has one.
+   - Set **Grid lines** to **None**.
+   - Set **Zero lines** to **Solid** (or leave it on) and pick the lightest gray swatch. If there's a width option, choose the thinnest.
+   - Set **Axis rulers** to **None**.
+3. **Axis titles as row labels:** click one of the vertical axis titles (for example "Gasoline CPI YoY") once so it's selected, then in the Format pane open **Alignment** and look for **Direction**. Choose **Horizontal**. In **Font**, choose size **8** and the gray swatch. Repeat for the other two titles.
+   - If you can't find **Direction**, skip it. The titles can stay rotated.
+   - If a horizontal title is too wide and squeezes the chart, leave it rotated or shorten the title (double-click it and type a shorter name, like "Gasoline").
+4. **Date axis, years only:** click a year label on the bottom axis (a number like 2016) so the axis is selected, then in the Format pane open **Scale** or **Axis** and look for **Dates**.
+   - If you see a date format list, choose the option that shows only the year (for example **2015**) instead of **Mar 2015**.
+   - If there's no year-only option, leave the axis as it is. The month-year labels are fine, and each annotation already names its month.
+   - For tick marks: right-click the date axis → **Edit Axis…**. If a **Tick Marks** tab exists, set **Major tick marks** to **Fixed**, **Tick interval 1**, unit **Year**. If it doesn't, skip it.
+5. **Annotations:**
+   1. Hover over the point until it highlights, then **right-click** it.
+   2. Choose **Annotate → Mark**.
+   3. In the box, delete the default text and type the text below. Click **OK** or click outside the box.
+   4. Drag the box beside the point so it doesn't cover the line.
+   - If the annotation dialog offers a text-color or font option, choose the black swatch and size 8. If not, leave the default.
+   - **Gasoline row**, lowest point (Jan 2015, the far left of the top row): *−35.4% (Jan 2015)*
+   - **Gasoline row**, highest point (Feb 2017, the top peak): *+30.7% (Feb 2017)*
+   - **Headline row**, highest point (Jul 2018): *2.95% (Jul 2018)*
+   - **Core row**, any point in the middle: *1.6%–2.4% all five years*
+   - To find a specific point, hover over it: the tooltip shows the date and value. Check that it says the right month before you annotate.
 - **Background:** **Format → Shading → Worksheet** `#FFFFF8`.
 - **Tooltip** (each row, same pattern; edit the Marks tab per row):
   ```
