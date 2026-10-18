@@ -284,9 +284,11 @@ Headline and core share the same scale, so a flat core line sitting beside a bum
    - Set **Grid lines** to **None**.
    - Set **Zero lines** to **Solid** (or leave it on) and pick the lightest gray swatch. If there's a width option, choose the thinnest.
    - Set **Axis rulers** to **None**.
-3. **Axis titles as row labels:** click one of the vertical axis titles (for example "Gasoline CPI YoY") once so it's selected, then in the Format pane open **Alignment** and look for **Direction**. Choose **Horizontal**. In **Font**, choose size **8** and the gray swatch. Repeat for the other two titles.
-   - If you can't find **Direction**, skip it. The titles can stay rotated.
-   - If a horizontal title is too wide and squeezes the chart, leave it rotated or shorten the title (double-click it and type a shorter name, like "Gasoline").
+3. **Axis titles as row labels.** The worksheet-level Format pane (the one with **Fonts**, **Shading**, **Borders**, **Lines**, **Interactive Controls**) has no **Alignment**. Rotated titles are fine in the browser editor; the real fix is to make them short enough to read:
+   1. Right-click the vertical axis title (for example "Gasoline, % vs. year ago…") → **Edit Axis…** (or double-click the title).
+   2. In the **Title** box, type a short name: **Gasoline**, **Headline**, or **Core**. Put the full explanation in the sheet title or subtitle instead (*% change versus the same month one year earlier. Headline and core share one scale; gasoline has its own.*).
+   3. If you want the smaller gray text, open the worksheet **Fonts** section, find **Axis Title** (or **Pane** / **Header** if there's no such line), and choose size **8** and the gray swatch.
+   - Optional: right-click the axis title → **Format…**. If the pane that opens is titled "Axis" or "Axis Title" and has **Alignment** or **Direction**, set it to **Horizontal**. If not, skip it.
 4. **Date axis, years only:** click a year label on the bottom axis (a number like 2016) so the axis is selected, then in the Format pane open **Scale** or **Axis** and look for **Dates**.
    - If you see a date format list, choose the option that shows only the year (for example **2015**) instead of **Mar 2015**.
    - If there's no year-only option, leave the axis as it is. The month-year labels are fine, and each annotation already names its month.
