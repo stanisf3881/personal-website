@@ -186,8 +186,13 @@ Question 1: *Is there a seasonal pattern in the national price?*
 7. Drag **Peak or Low Label** to **Label** on the Marks card. Click **Label** → **Show mark labels**, **Marks to Label: All**, **Font:** Tableau Book 8pt, color `#111111`, **Alignment: Automatic**.
 
 ### 2a Format as small multiples
-1. **Hide the month header:** right-click the **Month** header (the 1…12 row) → uncheck **Show Header**. 12 labels in ~65 px is clutter. The peak and low labels give you the months.
-2. **Line color and width:** click **Color** on the Marks card → `#B5471B`; **Size** → thin (about 2px).
+1. **Hide the month header** (the row of numbers 1 to 12 under each year). Twelve labels in ~65 px is clutter, and the peak and low labels already name the months. Do this on the pill, not by deleting it:
+   1. Look at the **Columns** shelf above the chart. It holds two blue pills: **YEAR** on the left and **Month** on the right.
+   2. **Right-click the Month pill** (the one on the shelf, not a number in the chart).
+   3. In the menu that opens, find **Show Header** (it has a check mark next to it). Click it to remove the check.
+   4. The row of numbers 1 to 12 under each year disappears. The five year labels (2015 to 2019) stay at the top, and the lines are unchanged.
+   - **Don't** drag the Month pill off the shelf or choose **Remove**. The pill must stay on Columns because it draws one point per month; you're only hiding its labels.
+   - **To get the labels back,** right-click the Month pill again and tick **Show Header**.2. **Line color and width:** click **Color** on the Marks card → `#B5471B`; **Size** → thin (about 2px).
 3. **Y axis:** right-click the Price axis → **Edit Axis…**
    - **Range: Fixed**, Start `1.5`, End `3.2`
    - **Tick Marks** tab → **Major Tick Marks: Fixed**, Tick origin `2`, Tick interval `0.5`
