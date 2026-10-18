@@ -192,7 +192,16 @@ Question 1: *Is there a seasonal pattern in the national price?*
    3. In the menu that opens, find **Show Header** (it has a check mark next to it). Click it to remove the check.
    4. The row of numbers 1 to 12 under each year disappears. The five year labels (2015 to 2019) stay at the top, and the lines are unchanged.
    - **Don't** drag the Month pill off the shelf or choose **Remove**. The pill must stay on Columns because it draws one point per month; you're only hiding its labels.
-   - **To get the labels back,** right-click the Month pill again and tick **Show Header**.2. **Line color and width:** click **Color** on the Marks card → `#B5471B`; **Size** → thin (about 2px).
+   - **To get the labels back,** right-click the Month pill again and tick **Show Header**.
+2. **Line color and width:**
+   1. Look at the **Marks card**, the gray panel on the left, below the Pages and Filters boxes. It has buttons labeled **Color**, **Size**, **Label**, **Detail**, **Tooltip**. (Use the **All** tab if the card shows several tabs.)
+   2. Click **Color**. A small popup opens with a grid of color swatches and a slider labeled **Opacity**.
+   3. At the bottom of the popup, click **More Colors…**. This opens the color picker, which is where the hex code goes:
+      - **Windows:** a dialog with an **HTML** box. Delete what's in it, type `#B5471B`, press **Enter**, then click **OK**.
+      - **Mac:** the Colors window. Click the **sliders** tab (second icon from the left), type `B5471B` in the **Hex Color #** box, press **Enter**, then close the window.
+      - If you see **Edit Colors…** instead of **More Colors…**, a field is sitting on Color. Drag that pill off the Color button first (you want no field there), then click **Color** again.
+   4. Leave **Opacity** at 100%.
+   5. Click **Size**. Drag the slider about a quarter of the way from the left. Tableau shows a slider, not pixels; "about 2px" means a thin line. Compare it against the other lines in the guide's picture and adjust by eye.
 3. **Y axis:** right-click the Price axis → **Edit Axis…**
    - **Range: Fixed**, Start `1.5`, End `3.2`
    - **Tick Marks** tab → **Major Tick Marks: Fixed**, Tick origin `2`, Tick interval `0.5`
