@@ -102,6 +102,18 @@ This dashboard follows the ideas from Edward Tufte's *The Visual Display of Quan
 
 Rust and the secondary gray both pass the 4.5:1 contrast ratio for text on the warm white (about 5.4:1 and 5.0:1).
 
+**Using the browser editor?** It has no hex box, only a swatch grid, so use these stand-ins from its default palette:
+
+| Guide color | Browser swatch |
+|---|---|
+| Rust accent `#B5471B` (gasoline, U.S. dot, Seasonality lines) | The **orange**: row 3, left column, leftmost shade |
+| Main ink `#111111` (headline CPI, state dots) | The **black**: top-left corner |
+| Secondary gray `#6E6E6E` (core CPI) | The **middle gray** of the top-right gray block |
+| Range bands `#E8E8DE` | The lightest gray in the right block, row 2 |
+| Background `#FFFFF8` | **White** (row 2, far left), or leave the default |
+
+Use the same swatch for the same meaning on every sheet.
+
 ---
 
 ## Part 1 — Connect and prepare the data
