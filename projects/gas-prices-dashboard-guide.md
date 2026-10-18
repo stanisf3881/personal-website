@@ -304,6 +304,10 @@ Headline and core share the same scale, so a flat core line sitting beside a bum
    - **Headline row**, highest point (Jul 2018): *2.95% (Jul 2018)*
    - **Core row**, any point in the middle: *1.6%–2.4% all five years*
    - To find a specific point, hover over it: the tooltip shows the date and value. Check that it says the right month before you annotate.
+   - **Select the point first.** Left-click the exact vertex of the line so only that point stays highlighted, then right-click it. Right-clicking a stretch of line between points can give you the wrong month.
+   - **If **Mark** isn't in the Annotate menu**, choose **Point** instead. It pins the note to that spot on the chart, which works the same way for this chart.
+   - **Place the boxes in empty space.** Gasoline low (Jan 2015): up and to the right of the point, in the empty area above the line. Gasoline high (Feb 2017): to the left of the peak, above the line. Headline high (Jul 2018): to the left of the peak, above the line. Core: in the empty strip below the line, around 0% to 1%.
+   - **Strip the box (optional, Tufte-style):** right-click the annotation → **Format…**; if **Shading** and **Lines** appear, set them to **None** so only the text and its thin leader line remain.
 - **Background:** **Format → Shading → Worksheet** `#FFFFF8`.
 - **Tooltip** (each row, same pattern; edit the Marks tab per row):
   ```
